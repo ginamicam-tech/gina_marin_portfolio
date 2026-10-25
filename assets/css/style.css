@@ -93,6 +93,8 @@ h1,h2,h3{overflow-wrap:break-word}#top{scroll-margin-top:24px}
 .media-grid .media-full-width{grid-column:1 / -1}
 .media-grid .media-full-width img{width:100%}
 .media-grid img,.media-grid video{max-width:100%;height:auto}
+.media-image-crop{position:relative;overflow:hidden}
+.media-grid .media-image-crop img{position:absolute;width:var(--crop-scale);max-width:none;height:auto;left:var(--crop-left);top:var(--crop-top)}
 .media-grid figcaption{font-size:14px;color:var(--muted);margin-top:8px}
 .media-grid--artwork{grid-template-columns:1fr}
 .work-credits{margin:32px 0;font-size:16px;line-height:1.5}

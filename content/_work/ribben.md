@@ -8,6 +8,7 @@ card_label: Public art proposal
 permalink: "/work/ribben/"
 type: project
 filter_groups:
+- projects-production
 - art-research
 tags:
 - sculpture
@@ -15,7 +16,7 @@ tags:
 - collaboration
 year: 2026
 order: 30
-featured: false
+featured: true
 context: Nørrebros Runddel · Copenhagen · 2026 · Competition proposal
 listing_context: Public art proposal · Copenhagen · 2026
 role: Co-artist and concept development with Gina Mobilia

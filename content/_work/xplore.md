@@ -28,12 +28,14 @@ role: Co-creator, performer, poetry reader & installation maker
 back_label: "← Work"
 back_url: "/work/"
 type: project
+filter_groups:
+- art-research
 tags:
 - performance
 - collaboration
 - installation
 - participation
-featured: true
+featured: false
 year: 2026
 key: xplore
 sections:

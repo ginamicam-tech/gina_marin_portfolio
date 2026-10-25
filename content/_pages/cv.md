@@ -51,7 +51,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2026 · The Poetics of the Collective** — Co-creator, performer & poetry reader · Original poetry readings · [HOP](/work/hop/) · Copenhagen, Denmark
 
-- **2025–2026 · Poetry Unleashed** — Poet & spoken-word performer · Original poetry readings · HUSET and Union · Copenhagen, Denmark
+- **2025–2026 · Poetry Unleashed** — Poet & spoken-word performer · [Original poetry readings](/work/sovereign-skin-politics/) · HUSET and Union · Copenhagen, Denmark
 
 - **2024 · Waves of Pura Vida** — Exhibiting Painter · Independent exhibition context · Costa Rica
 

@@ -1,5 +1,5 @@
 {% assign media = include.item %}
-<figure>
+<figure{% if media.layout == 'full-width' %} class="media-full-width"{% endif %}>
   {% if media.type == 'video' %}
   <div class="video-player" data-video-player{% if media.buffered_playback %} data-buffered-video{% endif %}>
   <video controls playsinline preload="none" width="640" aria-label="{{ media.caption | default: 'Project video' | escape }}"{% if media.poster %} poster="{{ media.poster | relative_url }}"{% endif %}>

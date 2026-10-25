@@ -90,6 +90,8 @@ h1,h2,h3{overflow-wrap:break-word}#top{scroll-margin-top:24px}
 .full-width-section{max-width:none}
 .media-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;margin:40px 0 64px;align-items:start}
 .media-grid figure{margin:0;min-width:0}
+.media-grid .media-full-width{grid-column:1 / -1}
+.media-grid .media-full-width img{width:100%}
 .media-grid img,.media-grid video{max-width:100%;height:auto}
 .media-grid figcaption{font-size:14px;color:var(--muted);margin-top:8px}
 .media-grid--artwork{grid-template-columns:1fr}

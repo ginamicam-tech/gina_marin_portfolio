@@ -1,6 +1,7 @@
 ---
 card_label: Xplore Festival
 cover:
+  layout: full-width
   src: "/content/media/xplore/monster-red-light.jpg"
   alt: Interactive monster with a glowing circular face in the red-lit installation
 thumbnail:

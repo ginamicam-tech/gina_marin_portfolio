@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<header class="page-heading">
+  <p class="eyebrow">{{ page.name | escape }}</p>
+  <h1>{{ page.title | escape }}</h1>
+</header>
+<div class="page-content">
+  <article class="prose" id="top">
+    {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
+    {% if page.back_url %}<a href="{{ page.back_url | relative_url }}">{{ page.back_label | escape }}</a>{% endif %}
+    {% if page.context %}<p>{{ page.context | escape }}</p>{% endif %}
+    {% if page.role %}<p>{{ page.role | escape }}</p>{% endif %}
+    {% if page.type == 'artwork' %}
+    <dl><dt>Year</dt><dd>{{ page.year }}</dd><dt>Technique</dt><dd>{{ page.technique | escape }}</dd><dt>Dimensions</dt><dd>{{ page.dimensions | escape }}</dd></dl>
+    {% endif %}
+    {% if page.cover %}{% include media.html item=page.cover %}{% endif %}
+    {% include content.html %}
+    {% if page.archive_notes %}
+      {% assign href_prefix = 'href="' | append: site.baseurl | append: '/' %}
+      {{ page.archive_notes | markdownify | replace: 'href="/', href_prefix }}
+    {% endif %}
+    {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
+    {% for item in page.media %}{% include media.html item=item %}{% endfor %}
+  </article>
+</div>

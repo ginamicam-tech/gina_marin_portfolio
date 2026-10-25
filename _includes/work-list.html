@@ -1,0 +1,31 @@
+{% assign selection = include.selection %}
+{% assign sort_key = selection.sort | default: 'order' %}
+{% assign entries = site.work | sort: sort_key %}
+{% if selection.reverse %}{% assign entries = entries | reverse %}{% endif %}
+{% assign shown = 0 %}
+{% for entry in entries %}
+  {% assign matches = true %}
+  {% if selection.type and selection.type != entry.type %}{% assign matches = false %}{% endif %}
+  {% if selection.series and selection.series != entry.series %}{% assign matches = false %}{% endif %}
+  {% if selection.parent and selection.parent != entry.parent %}{% assign matches = false %}{% endif %}
+  {% if selection.featured != nil and selection.featured != entry.featured %}{% assign matches = false %}{% endif %}
+  {% if selection.tags.size > 0 %}
+    {% assign tag_matches = 0 %}
+    {% for tag in selection.tags %}{% if entry.tags contains tag %}{% assign tag_matches = tag_matches | plus: 1 %}{% endif %}{% endfor %}
+    {% if selection.match == 'all' %}
+      {% if tag_matches != selection.tags.size %}{% assign matches = false %}{% endif %}
+    {% elsif tag_matches == 0 %}{% assign matches = false %}{% endif %}
+  {% endif %}
+  {% if matches %}
+    {% if selection.limit and shown >= selection.limit %}{% break %}{% endif %}
+    <article data-work-id="{{ entry.key | escape }}">
+      {% for anchor in entry.legacy_anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
+      {% if entry.name != entry.title %}<p>{{ entry.name | escape }}</p>{% endif %}
+      <h2><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h2>
+      {% if entry.listing_context %}<p>{{ entry.listing_context | escape }}</p>{% endif %}
+      {% if entry.cover %}{% include media.html item=entry.cover %}{% endif %}
+      {% if entry.listing_placeholder %}<p>{{ entry.listing_placeholder | escape }}</p>{% endif %}
+    </article>
+    {% assign shown = shown | plus: 1 %}
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,127 @@
+[
+  {
+    "route": "/about/",
+    "file": "content/_pages/about.md",
+    "title": "Profile."
+  },
+  {
+    "route": "/contact/",
+    "file": "content/_pages/contact.md",
+    "title": "Let’s talk."
+  },
+  {
+    "route": "/",
+    "file": "content/_pages/home.md",
+    "title": "What happens between an idea and an initiative?"
+  },
+  {
+    "route": "/insights/",
+    "file": "content/_pages/insights.md",
+    "title": "Questions behind the work."
+  },
+  {
+    "route": "/portfolio/alta-gracia/",
+    "file": "content/_work/alta-gracia.md",
+    "title": "How can institutional communication connect different audiences?"
+  },
+  {
+    "route": "/portfolio/altar-mujeres-sxxi/",
+    "file": "content/_work/altar-mujeres-sxxi.md",
+    "title": "How can artistic research bring overlooked histories into public view?"
+  },
+  {
+    "route": "/portfolio/emun/",
+    "file": "content/_work/emun.md",
+    "title": "How can an electrical and lighting business communicate consistently?"
+  },
+  {
+    "route": "/portfolio/",
+    "file": "content/_pages/portfolio.md",
+    "title": "Questions that become practice."
+  },
+  {
+    "route": "/portfolio/morhaven/",
+    "file": "content/_work/morhaven.md",
+    "title": "How can a retreat concept become a coherent visual identity?"
+  },
+  {
+    "route": "/portfolio/moving-image/",
+    "file": "content/_pages/portfolio/moving-image.md",
+    "title": "Video Editing"
+  },
+  {
+    "route": "/portfolio/no-salvan-la-vida/",
+    "file": "content/_work/no-salvan-la-vida.md",
+    "title": "How can individual artistic practices become a shared collective experience?"
+  },
+  {
+    "route": "/portfolio/techno-piling/",
+    "file": "content/_work/techno-piling.md",
+    "title": "How can a technical company establish its identity in a new market?"
+  },
+  {
+    "route": "/portfolio/traza-el-gran-vidrio/",
+    "file": "content/_work/traza-el-gran-vidrio.md",
+    "title": "How can different artistic languages shape one exhibition route?"
+  },
+  {
+    "route": "/profile/",
+    "file": "content/_pages/profile.md",
+    "title": "Profile."
+  },
+  {
+    "route": "/research/",
+    "file": "content/_pages/research.md",
+    "title": "Cuerpo.Interfaz"
+  },
+  {
+    "route": "/services/",
+    "file": "content/_pages/services.md",
+    "title": "From a shared idea to work in the world."
+  },
+  {
+    "route": "/work/blindmotion/",
+    "file": "content/_work/blindmotion.md",
+    "title": "How can inclusive educational opportunities become easier to discover and join?"
+  },
+  {
+    "route": "/work/body-interface/",
+    "file": "content/_work/body-interface.md",
+    "title": "Where does the body end?"
+  },
+  {
+    "route": "/work/care-lab/",
+    "file": "content/_work/care-lab.md",
+    "title": "How can artistic experimentation open conversations about care?"
+  },
+  {
+    "route": "/work/cepia/",
+    "file": "content/_work/cepia.md",
+    "title": "How can exhibition production support artistic research?"
+  },
+  {
+    "route": "/work/enter-art-fair/",
+    "file": "content/_work/enter-art-fair.md",
+    "title": "How can practical coordination support an encounter with art?"
+  },
+  {
+    "route": "/work/illutron/",
+    "file": "content/_work/illutron.md",
+    "title": "How can a cultural collective rebuild public participation while its space is under renovation?"
+  },
+  {
+    "route": "/work/",
+    "file": "content/_pages/work.md",
+    "title": "Questions that become practice."
+  },
+  {
+    "route": "/work/trifolium-impact-festival/",
+    "file": "content/_work/trifolium-impact-festival.md",
+    "title": "How can communication support a shared festival experience?"
+  },
+  {
+    "route": "/work/xplore/",
+    "file": "content/_work/xplore.md",
+    "title": "How can sculpture and performance create a collective encounter?"
+  }
+]

@@ -1,0 +1,4 @@
+{% comment %}Markdown uses ordinary root-relative URLs. Apply the hosting prefix once, after Markdown rendering.{% endcomment %}
+{% assign href_prefix = 'href="' | append: site.baseurl | append: '/' %}
+{% assign src_prefix = 'src="' | append: site.baseurl | append: '/' %}
+{{ content | replace: 'href="/', href_prefix | replace: 'src="/', src_prefix }}

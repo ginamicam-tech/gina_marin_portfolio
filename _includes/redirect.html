@@ -1,0 +1,6 @@
+{% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
+<p><a id="canonical-destination" href="{{ page.redirect_to | relative_url }}">{{ page.title | escape }} →</a></p>
+<script>
+  const destination = document.getElementById('canonical-destination').href;
+  window.location.replace(destination + window.location.search + window.location.hash);
+</script>

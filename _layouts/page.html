@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% if page.redirect_to %}
+  {% include redirect.html %}
+{% else %}
+<header class="page-heading">
+  <p class="eyebrow">{{ page.eyebrow | default: site.title }}</p>
+  <h1>{{ page.title | escape }}</h1>
+  {% if page.description %}<p class="lede">{{ page.description | escape }}</p>{% endif %}
+</header>
+<div class="page-content">
+  <div class="prose" id="top">
+    {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
+    {% include content.html %}
+    {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
+    {% for item in page.media %}{% include media.html item=item %}{% endfor %}
+  </div>
+</div>
+{% endif %}

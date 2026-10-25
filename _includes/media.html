@@ -1,0 +1,16 @@
+{% assign media = include.item %}
+<figure>
+  {% if media.type == 'video' %}
+  <video controls preload="metadata" width="640"{% if media.poster %} poster="{{ media.poster | relative_url }}"{% endif %}>
+    {% for source in media.sources %}<source src="{{ source.src | relative_url }}" type="{{ source.type | escape }}">{% endfor %}
+    {% for track in media.tracks %}<track src="{{ track.src | relative_url }}" kind="{{ track.kind | escape }}" srclang="{{ track.srclang | escape }}" label="{{ track.label | escape }}">{% endfor %}
+    {{ media.fallback | escape }}
+  </video>
+  {% else %}
+    {% assign first_character = media.link | slice: 0 %}
+    {% if media.link %}<a href="{% if first_character == '#' %}{{ media.link | escape }}{% else %}{{ media.link | relative_url }}{% endif %}">{% endif %}
+    <img src="{{ media.src | relative_url }}" alt="{{ media.alt | escape }}" loading="lazy">
+    {% if media.link %}</a>{% endif %}
+  {% endif %}
+  {% if media.caption %}<figcaption>{{ media.caption | escape }}</figcaption>{% endif %}
+</figure>

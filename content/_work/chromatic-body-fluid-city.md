@@ -1,0 +1,26 @@
+---
+title: Fluid City
+name: Fluid City
+type: artwork
+tags:
+- artwork
+- painting
+- body
+series: chromatic-body
+year: 2021
+technique: Oil on canvas
+dimensions: 80 × 100 cm
+featured: false
+order: 225
+permalink: "/work/chromatic-body-fluid-city/"
+cover:
+  src: "/content/media/artworks/chromatic-15.jpg"
+  alt: Fluid City
+legacy_anchors:
+- gallery-chromatic-body-artworks-artwork-8
+- gallery-chromatic-body-artworks-artwork-8-details
+- gallery-chromatic-body-artworks-artwork-8-title
+key: chromatic-body-fluid-city
+---
+
+

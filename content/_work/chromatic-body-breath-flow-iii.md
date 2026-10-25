@@ -1,0 +1,26 @@
+---
+title: Breath / Flow III
+name: Breath / Flow III
+type: artwork
+tags:
+- artwork
+- painting
+- body
+series: chromatic-body
+year: 2022
+technique: Ink on paper
+dimensions: 42 × 59.4 cm
+featured: false
+order: 227
+permalink: "/work/chromatic-body-breath-flow-iii/"
+cover:
+  src: "/content/media/artworks/chromatic-06.jpg"
+  alt: Breath / Flow III
+legacy_anchors:
+- gallery-chromatic-body-artworks-artwork-10
+- gallery-chromatic-body-artworks-artwork-10-details
+- gallery-chromatic-body-artworks-artwork-10-title
+key: chromatic-body-breath-flow-iii
+---
+
+

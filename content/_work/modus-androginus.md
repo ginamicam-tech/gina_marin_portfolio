@@ -121,4 +121,19 @@ credits:
   name: Gina Marín with Atmosphere Collective
 - role: Venue
   name: Studio Teatro, Córdoba
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: At Studio Teatro, I took part as a performance artist within Atmosphere Collective. The contribution
+    combined visual production, live painting and performance in a runway setting. The photographs document
+    the collective work and its making, connecting bodily presence with images produced during a live
+    event.
+  images:
+  - src: /content/media/portfolio-additions/modus-live-painting.png
+    caption: Live painting on a tall illustrated panel during Modus Androginus
+    fit: contain
+  - src: /content/media/modus/modus-painting-close.jpg
+    caption: Close view of live painting at Modus Androginus
+    fit: contain
+  credits: 'Performance contribution: Gina Marín with Atmosphere Collective. Venue: Studio Teatro, Córdoba'
 ---

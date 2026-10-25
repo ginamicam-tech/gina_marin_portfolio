@@ -30,6 +30,22 @@ work_lists:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: 'Repetition, symmetry and the tension between line and surface generate a sense of movement.
+    Developed through woodcut, painting and illustration, Optical Pulse approaches image-making as a negotiation
+    between gesture, resistance and rhythm. My background in performance informs this enquiry: the rhythm
+    of making meets the viewer’s shifting attention. Patterns organise perception while remaining open
+    to ambiguity.'
+  images:
+  - src: /content/media/artworks/clean/chromatic-10.jpg
+    caption: Kinetic Body | 2024 | Ink on paper | 42 × 59.4 cm
+    fit: contain
+  - src: /content/media/artworks/clean/chromatic-13.jpg
+    caption: Sea of Strings | 2018 | Ink on paper | 42 × 59.4 cm
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---
 *Optical Pulse* investigates how repetition, symmetry, and the tension between line and surface generate a sense of movement. Developed through woodcut, painting, and illustration, the series approaches image-making as a material negotiation between gesture, resistance, and rhythm. Incision, colour, and drawn marks establish visual structures whose apparent stability shifts through sustained observation.
 

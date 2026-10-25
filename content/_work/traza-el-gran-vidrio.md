@@ -133,4 +133,21 @@ anchors:
 - archive-image-15
 - archive-image-16
 - exhibition-sources-title
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: For this exhibition proposal, I developed curatorial research, an artwork register, spatial
+    planning and visual communication. A proposed route organised 38 works by Guillermo Kuitca, Leticia
+    Obeid, León Ferrari and Mariano Sardón around mapping, writing, touch and interactive media. Floor
+    plans and elevations translated the concept into requirements for mounting, screens and projection.
+    These documents describe a proposal, not a realised exhibition.
+  images:
+  - src: /content/media/portfolio/exhibitions/traza/traza-cover.png
+    caption: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
+    fit: contain
+  - src: /content/media/portfolio/exhibitions/el-gran-vidrio-visitors.jpg
+    caption: Venue archive · El Gran Vidrio · Ojo de Cabra, Nina Kovensky · Not documentation of the Traza
+      proposal
+    fit: contain
+  credits: ''
 ---

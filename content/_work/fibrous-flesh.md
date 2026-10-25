@@ -70,4 +70,20 @@ media:
   src: /content/media/fibrous-flesh/performance-10.png
   alt: Warm light and projected imagery across the alternating bodies
   caption: Fibrous Flesh · CEPIA · 2017
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Still bodies arranged in alternating orientations form a repeated structure, between individual
+    presence and apparent interchangeability. Light and projected imagery pass across their skin, examining
+    how consumer culture shapes bodily identity. Stillness suggests both exhaustion and the possibility
+    of withholding participation. Co-created with Angeles Torino, Yoseli Leiva, Lenna Aravena and Jazmin
+    Lopez, the work was presented at CePIA, Universidad Nacional de Córdoba.
+  images:
+  - src: /content/media/fibrous-flesh/performance-01.png
+    caption: Five still performers arranged in alternating orientations under warm projected light
+    fit: contain
+  - src: /content/media/fibrous-flesh/performance-04.png
+    caption: Fibrous Flesh · CEPIA · 2017
+    fit: contain
+  credits: 'Co-creation: Gina Marín, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez'
 ---

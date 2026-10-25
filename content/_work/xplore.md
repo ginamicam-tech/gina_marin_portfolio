@@ -61,4 +61,22 @@ credits:
 - role: Programme source
   name: Rituals of Collective Descent · Xplore Berlin
   url: https://xplore-berlin.de/rituals-of-collective-descent/
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: For Rituals of Collective Descent at Xplore Festival, I contributed as co-creator, performer
+    and reader of original poetry. I also made the interactive monster that greeted visitors. A translucent
+    body, illuminated circular face and projected imagery gave the installation a character to encounter
+    on arrival, connecting material construction with the shared experience of entering a performance
+    space.
+  images:
+  - src: /content/media/xplore/monster-red-light.jpg
+    caption: Interactive monster with a glowing circular face in the red-lit installation
+    fit: contain
+  - src: /content/media/xplore/monster-heart-close-up.jpg
+    caption: Close-up of the monster’s illuminated heart-shaped centre surrounded by translucent forms
+      in blue and pink light
+    fit: contain
+  credits: 'Co-creation, performance, poetry and interactive monster: Gina Marín. Artists listed in the
+    festival programme: Anso Vela, Jac Fabian, Max and Axel-Camilla Barratt-Due'
 ---

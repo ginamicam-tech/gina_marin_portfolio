@@ -70,4 +70,18 @@ credits:
   name: Gina Marín
 - role: Client
   name: Techno Piling
+portfolio_pdf:
+  category: design-communication
+  layout: project
+  summary: I developed brand repositioning, identity guidelines and visual applications for Techno Piling,
+    alongside weekly social communication. The work connects a consistent visual system with recurring
+    public-facing content, adapting the identity to different formats and communication needs.
+  images:
+  - src: /content/media/portfolio/techno-piling-header.png
+    caption: Four Techno Piling logo variations in white on red and blue backgrounds
+    fit: contain
+  - src: /content/media/portfolio/techno-8.jpg
+    caption: Techno Piling logo system
+    fit: contain
+  credits: 'Brand identity, applications and social communication: Gina Marín. Client: Techno Piling'
 ---

@@ -93,4 +93,20 @@ media:
   src: /content/media/conversations-with-technology/copperweld-poster.jpg
   alt: Green and white Copperweld Experimental Editions Fair poster dated 30 November 2021
   caption: Copperweld · Event poster · Centro Cultural España Córdoba · 2021
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Drawing, poetic writing and experimental publishing explore how mediation shapes identity,
+    memory and emotional proximity. Dense marks and fragmented forms move between bodily sensation and
+    abstract terrain. Repetition across printed copies brings an intimate gesture into shared circulation.
+    Developed alongside my thesis research, the publications were presented at Copperweld, Experimental
+    Editions Fair, Centro Cultural España Córdoba, on 30 November 2021.
+  images:
+  - src: /content/media/conversations-with-technology/publications-and-cutouts.jpg
+    caption: Artist publications and cut-out figures with black linework and red accents
+    fit: contain
+  - src: /content/media/conversations-with-technology/poetic-spread.jpg
+    caption: Drawing and poetic writing · 2019
+    fit: contain
+  credits: 'Artist publications and works on paper: Gina Marín'
 ---

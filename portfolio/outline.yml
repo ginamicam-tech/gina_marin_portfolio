@@ -1,0 +1,110 @@
+title: Gina Marín
+subtitle: Art, research & shared practice
+edition: Complete portfolio | October 2026
+website: https://ginamicam-tech.github.io/gina_marin_portfolio
+email: ginamicam@gmail.com
+phone: +45 50 36 62 64
+location: Copenhagen, Denmark
+cover_image: /content/media/human-warmth/installation.jpg
+cover_caption: Human Warmth, 2026 | Installation by Gina Marín
+intro: I am an artist and creative practitioner from Argentina, based in Copenhagen. My practice grows
+  through the dialogue between artistic research, cultural production and visual communication. I work
+  with bodies, images and materials, connecting hands-on experimentation with collaboration and the conditions
+  that make participation possible.
+sections:
+- id: art-research
+  title: Art & Research
+  description_source: content/_data/work_filters.yml
+  projects:
+  - key: body-interface
+    include: true
+  - key: clinical-fold
+    include: true
+  - key: self-archive
+    include: true
+  - key: human-warmth
+    include: true
+  - key: body-surface-packaging
+    include: true
+  - key: embodied-portals
+    include: true
+  - key: ribben
+    include: true
+  - key: xplore
+    include: true
+  - key: hop
+    include: true
+  - key: sovereign-skin-politics
+    include: true
+  - key: optical-pulse-series
+    include: true
+  - key: chromatic-body-series
+    include: true
+  - key: body-interface-series
+    include: true
+  - key: conversations-with-technology
+    include: true
+  - key: in-cavilaciones
+    include: true
+  - key: in-desterritorio
+    include: true
+  - key: in-huellas
+    include: true
+  - key: in-resonancia-corporea
+    include: true
+  - key: in-plano-metamorfico
+    include: true
+  - key: yellow-poison-land
+    include: true
+  - key: fibrous-flesh
+    include: true
+  - key: modus-androginus
+    include: true
+- id: projects-production
+  title: Projects & Production
+  description_source: content/_data/work_filters.yml
+  projects:
+  - key: care-lab
+    include: true
+  - key: illutron
+    include: true
+  - key: blindmotion
+    include: true
+  - key: no-salvan-la-vida
+    include: true
+  - key: atmosfera
+    include: true
+  - key: altar-mujeres-sxxi
+    include: true
+  - key: traza-el-gran-vidrio
+    include: true
+  - key: trifolium-impact-festival
+    include: true
+  - key: enter-art-fair
+    include: true
+- id: design-communication
+  title: Design & Communication
+  description_source: content/_data/work_filters.yml
+  projects:
+  - key: morhaven
+    include: true
+  - key: emun
+    include: true
+  - key: techno-piling
+    include: true
+cv:
+  education:
+  - 2025 | MA in Visual Arts and Digital Media, Universidad Nacional de Córdoba.
+  - 2020 | Bachelor’s Degree in Visual Arts, Universidad Nacional de Córdoba.
+  - 2015 | Industrial Design and Technical Drawing Studies, Universidad Nacional de Córdoba.
+  experience:
+  - 2026-present | Vice Chair, Illutron Anchors; community coordination and creative communication.
+  - '2025-present | Blindmotion: inclusive activities and accessible learning materials.'
+  - '2019-present | Freelance visual communication: identity, editorial and digital content.'
+  - 2018-2023 | Exhibition production and art handling in a university arts environment.
+  - 2017-2023 | Freelance video art and visuals for cultural and performance projects.
+  - 2014-2023 | Movement, mindfulness and embodied learning facilitation.
+  skills: Drawing, printmaking, installation, performance, curatorial writing, visual identity, editorial
+    design, audiovisual editing, workshop facilitation and project coordination. Adobe Photoshop, InDesign
+    and Illustrator; p5.js and AI-assisted creative coding.
+  languages: Spanish (native); English (fluent); Italian and Portuguese (conversational); Danish (developing).

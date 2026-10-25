@@ -55,4 +55,19 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Etching and aquatint explore a body suspended between human, mechanical and imagined forms.
+    The printed image becomes a place for transformation, connecting material processes with uncertainty
+    about bodily boundaries. This earlier work contributes to the enquiry into bodily representation developed
+    through Body.Interface.
+  images:
+  - src: /content/media/thesis/in-plano-metamorfico-colour.jpg
+    caption: A coloured print combining faces, mechanical forms and wave-like lines
+    fit: contain
+  - src: /content/media/thesis/in-plano-metamorfico-print.jpg
+    caption: IN_Metamorphic Plane · Gina Marín · 2018
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---

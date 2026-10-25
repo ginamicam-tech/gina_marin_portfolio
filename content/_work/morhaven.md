@@ -86,4 +86,20 @@ credits:
   name: Gina Marín
 - role: Client
   name: Morhaven Retreats
+portfolio_pdf:
+  category: design-communication
+  layout: project
+  summary: I developed the identity, brand catalogue and marketing strategy for a retreat concept in Cornwall.
+    Circles, elemental symbols and coastal references connect its positioning with a visual language for
+    print and digital communication. The work spans logo, typography, colour, graphic elements and photography
+    direction. The catalogue and application studies show how the system could support a consistent public
+    presence; mockups illustrate proposed uses.
+  images:
+  - src: /content/media/portfolio-additions/morhaven-catalogue-colours.jpg
+    caption: Morhaven · Brand catalogue mockup
+    fit: contain
+  - src: /content/media/portfolio/morhaven-38.jpg
+    caption: Website concept | Proposed desktop and mobile applications
+    fit: contain
+  credits: 'Brand identity, strategy and marketing direction: Gina Marín. Client: Morhaven Retreats'
 ---

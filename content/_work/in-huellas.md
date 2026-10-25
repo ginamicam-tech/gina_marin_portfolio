@@ -54,4 +54,19 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Feet, weight and movement become material for a study that moves from photoperformance into
+    drawing and digital layers. Bodily traces are translated across media, connecting physical gestures
+    with the marks and images they leave behind. The work forms an earlier strand of the enquiry developed
+    through Body.Interface.
+  images:
+  - src: /content/media/thesis/in-huellas-cover.jpg
+    caption: Layered drawings of feet and ankles on a dark ground
+    fit: contain
+  - src: /content/media/thesis/in-huellas-drawing.jpg
+    caption: IN_Footprints · Gina Marín · 2019
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---

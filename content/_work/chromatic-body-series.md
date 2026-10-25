@@ -30,5 +30,20 @@ work_lists:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Chromatic Body brings colour and bodily imagery into a series of paintings and works on paper.
+    Faces and figures emerge through layered marks, radiating shapes and shifting colour relationships.
+    The selected works offer a concentrated view of the series, connecting an interest in bodily presence
+    with the material and perceptual possibilities of image-making.
+  images:
+  - src: /content/media/artworks/clean/chromatic-12.jpg
+    caption: Inner Mirror | 2020 | Oil on canvas | 42 × 59.4 cm
+    fit: contain
+  - src: /content/media/artworks/clean/chromatic-01.jpg
+    caption: Figure Study | 2018 | Oil on canvas | 70 × 100 cm
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---
 Colour as skin, memory and inhabited space.

@@ -112,4 +112,20 @@ media:
   alt: Close scan of abdominal skin and a pierced navel
   caption: Original scan · Skin surface
   layout: full-width
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Scanning, fragmentation and packaging examine how bodily characteristics become measurable
+    information. Original scans retain skin textures and interruptions, while packaging studies explore
+    the tension between protection, classification and display. The research asks how we adapt our own
+    images to systems that capture us. Installation visualisations extend the enquiry spatially; they
+    are studies rather than documentation of a realised exhibition.
+  images:
+  - src: /content/media/body-surface-packaging/installation-visualisation.png
+    caption: Installation visualisation | Study, not a realised exhibition
+    fit: contain
+  - src: /content/media/body-surface-packaging/face-fragments-01.jpg
+    caption: Original scan · Facial fragments I
+    fit: contain
+  credits: 'Artist & researcher: Gina Marín. Collaboration: Mads Høbye'
 ---

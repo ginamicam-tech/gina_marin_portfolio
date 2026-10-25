@@ -65,4 +65,20 @@ credits:
 - role: Performance photograph
   name: "@zoia.means.life"
   url: https://www.instagram.com/zoia.means.life/
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: My original poem was selected by Poetry Unleashed CPH for a Kulturnatten reading at Union.
+    Performed with live jazz, it explores skin as a place of sensation, memory and connection. Voice,
+    breath and rhythm bring the text into a shared space, imagining sovereignty through bodies and their
+    relationships rather than through isolation.
+  images:
+  - src: /content/media/sovereign-skin-politics/reading.webp
+    caption: 'Gina Marín reading her poem into a microphone on stage | Photo: @zoia.means.life'
+    fit: contain
+  - src: /content/media/sovereign-skin-politics/event-poster.webp
+    caption: Poetry Unleashed CPH · Event poster
+    fit: contain
+  credits: 'Poem and reading: Gina Marín. Selection and event organisation: Poetry Unleashed CPH. Performance
+    photograph: @zoia.means.life'
 ---

@@ -92,4 +92,23 @@ credits:
 - role: Programme source
   name: GRASP Festival
   url: https://graspfestival.dk/
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: Care Lab invited festival visitors to pause, notice what needed care and turn their observations
+    into words and prints. I co-developed the participatory environment and its stations, combining physical
+    prototypes, prompt cards and shared worktables. Listening, labelling and printmaking offered different
+    ways into the same question. The resulting prints became a collective visual record within the festival
+    space.
+  images:
+  - src: /content/media/care-lab/care-lab-printmaking-workshop.jpg
+    caption: Visitors gathered around a worktable with printing blocks, rollers and coloured inks
+    fit: contain
+  - src: /content/media/care-lab/care-lab-at-the-press.jpg
+    caption: Gina operating the hand printing press at Care Lab
+    fit: contain
+  credits: 'Gina Marín: co-development, installation design and facilitation. Programme participants include
+    Werner Fütterer, Kaethe Wenzel, Sarah Philipp, Mads Hobye and Abdul Halim Bin Abdul Rahman. Framework:
+    RECRUIT&RETAIN, Interreg Deutschland-Danmark; collaborating universities, hospitals, nursing schools
+    and students. Full credits online.'
 ---

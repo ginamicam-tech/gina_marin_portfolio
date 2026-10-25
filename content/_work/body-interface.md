@@ -117,4 +117,24 @@ credits:
   name: Florencia Aravena
 - role: Self Archive photography and montage
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: 'My MA research asks how bodily presence and personal agency can be sustained in digital life.
+    Through performance, photography, drawing and printmaking, I treat the body as a meeting point for
+    sensation, images and technical systems. Clinical Fold and Self Archive form its centre: one works
+    with enclosure, the other with migration and everyday movement. An evolving Are.na archive extends
+    the enquiry through connections between images and references.'
+  images:
+  - src: /content/media/thesis/body-interface-title-montage.png
+    caption: Black-and-white montage from the thesis presentation, combining a body and its reflection
+      with digital interface graphics
+    fit: contain
+  - src: /content/media/thesis/arena-body-interface-archive.png
+    caption: Body.Interface on Are.na · Data Wound, in a Scanned Body. Collected references retain their
+      respective authorship.
+    fit: contain
+  credits: 'Research and artworks: Gina Marín. Thesis adviser: Carolina Romano. Universidad Nacional de
+    Córdoba. Clinical Fold photography, including the header montage: Florencia Aravena. Are.na references
+    retain their respective authorship.'
 ---

@@ -103,4 +103,21 @@ credits:
   name: Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín
 - role: Live-event collaboration
   name: Umbrality
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: Atmosphere was an artist-led collective in Córdoba, bringing individual practices together
+    through exhibitions, performances and live painting. I contributed as an artist and collaborator,
+    connecting making with shared preparation, coordination and communication. The collective provided
+    a context for projects including Modus Androginus, Yellow Poison Land and They Do Not Save Life, Nor
+    Sustain the Soul.
+  images:
+  - src: /content/media/portfolio-additions/atmosfera-collective.png
+    caption: Four members of Atmosphere Collective together
+    fit: contain
+  - src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg
+    caption: Projected imagery across a group of performers
+    fit: contain
+  credits: 'Collective artists: Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín. Live-event
+    collaboration: Umbrality'
 ---

@@ -82,4 +82,20 @@ credits:
   name: Gina Marín
 - role: Photography
   name: Florencia Aravena
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: A hand-sewn plastic costume covers the head and torso inside a confined bathroom of mirrors
+    and water. I used butoh movement, slowness and small gestures to explore the tension between protection
+    and containment. Florencia Aravena photographed the performance; I developed the costume, performed
+    and edited the images. Cold colour, brightness and white margins extend the bodily encounter into
+    a photographic sequence.
+  images:
+  - src: /content/media/clinical-fold/performance.jpg
+    caption: 'Performance, costume and image editing: Gina Marín. Photography: Florencia Aravena.'
+    fit: contain
+  - src: /content/media/clinical-fold/neck-and-folds.jpg
+    caption: 'Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín.'
+    fit: contain
+  credits: 'Performance, costume and image editing: Gina Marín. Photography: Florencia Aravena'
 ---

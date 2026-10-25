@@ -135,4 +135,20 @@ media:
     type: video/mp4
   poster: "/content/media/embodied-portals/cat-machine-poster.jpg"
   fallback: A short animation of a conversation between a cat and a robot cat.
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: I use p5.js, live computer vision and AI-assisted coding to sketch environments that respond
+    to faces, gestures and changing positions. Describing an interaction, testing it with my body and
+    revising the response form a continuous process. These ongoing prototypes extend Body.Interface through
+    play, poetry and the limits of machine detection. The linked project page contains moving-image documentation.
+  images:
+  - src: /content/media/embodied-portals/dream-reality.png
+    caption: Blue digital landscape of floating circles, with a live camera portrait framed by concentric
+      rings
+    fit: contain
+  - src: /content/media/embodied-portals/face-galaxy.png
+    caption: Face Galaxy / Dream Reality Machine · Another state
+    fit: contain
+  credits: 'Artistic concept and experiments: Gina Marín'
 ---

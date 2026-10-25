@@ -172,4 +172,22 @@ anchors:
 - archive-image-18
 - archive-image-19
 - exhibition-sources-title
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: This collective exhibition brought installation, individual artworks, live music and a creativity
+    workshop together at Casa de Pepino in Córdoba. I curated and organised the exhibition, secured sponsors
+    and contributed as an installation artist within Atmosphere Collective. My work connected the placement
+    and relationships of artworks with communication, public programming and the practical support needed
+    to bring the exhibition into public view.
+  images:
+  - src: /content/media/portfolio/exhibitions/no-salvan-opening-wide.png
+    caption: Artists gathered between two colourful wall interventions during the exhibition opening
+    fit: contain
+  - src: /content/media/portfolio/exhibitions/no-salvan-installation-colour.jpg
+    caption: Visitor encountering translucent coloured garments suspended against the exhibition wall
+    fit: contain
+  credits: 'Curation, organisation and sponsorship: Gina Marín. Participating artists: Paz Herrera, Nayra
+    Vallejos, Florencia Aravena and Gina Marín. Presented by Espacio Garín at Casa de Pepino. Images document
+    the collective exhibition.'
 ---

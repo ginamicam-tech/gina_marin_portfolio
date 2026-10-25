@@ -81,4 +81,19 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Ink drawings and digital variations ask how a body might inhabit a fluid, networked space.
+    Repeated marks build fields in which figures emerge, fragment and merge with their surroundings. I
+    exhibited this work in Oscillating Dialectics at Avellaneda Café in 2019 and contributed to the exhibition’s
+    organisation and production, connecting drawing with the shared work of public presentation.
+  images:
+  - src: /content/media/thesis/in-desterritorio-cover.jpg
+    caption: A seated figure emerging from dense black ink patterns
+    fit: contain
+  - src: /content/media/thesis/in-desterritorio-landscape.jpg
+    caption: IN_Deterritory · Gina Marín · 2019
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---

@@ -119,4 +119,21 @@ credits:
 - role: Project archive
   name: illutron on Instagram
   url: https://www.instagram.com/illutroncph/
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: At Illutron, I connect creative communication with community activities, co-coordinating and
+    promoting workshops and public programmes. My contributions include recruitment materials, the Meet
+    & Build campaign and event communication. As Vice Chair of Illutron Anchors, the independent support
+    association, I also work on membership initiatives and newsletters. These activities support the conditions
+    for collective experimentation; artworks retain the authorship of their makers.
+  images:
+  - src: /content/media/portfolio/illutron-art-technology.jpg
+    caption: Illutron industrial barge illuminated at night in Copenhagen
+    fit: contain
+  - src: /content/media/illutron/meet-and-build-event-poster.png
+    caption: Meet & Build poster inviting people to boat maintenance, shared learning and community activities
+    fit: contain
+  credits: 'Community coordination and creative communication: Gina Marín. Collective: illutron Interactive
+    Art Collective. Independent support association: Illutron Anchors'
 ---

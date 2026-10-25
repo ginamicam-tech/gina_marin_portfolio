@@ -61,4 +61,19 @@ credits:
   name: Gina Marín
 - role: Client
   name: EMUN
+portfolio_pdf:
+  category: design-communication
+  layout: project
+  summary: For an electrical and lighting company, I developed an identity connecting energy, light and
+    the letter E through a modular symbol. Logo, colour and typography extend into visual modules, catalogue
+    direction and social media templates. Uniform and vehicle applications demonstrate how the system
+    can carry a consistent identity across different contexts.
+  images:
+  - src: /content/media/portfolio/emun-catalogue-cover.png
+    caption: EMUN catalogue cover using the yellow electrical symbol and blue wordmark
+    fit: contain
+  - src: /content/media/portfolio/emun-7.jpg
+    caption: EMUN logo concept connecting electricity and light
+    fit: contain
+  credits: 'Brand identity, print materials and applications: Gina Marín. Client: EMUN'
 ---

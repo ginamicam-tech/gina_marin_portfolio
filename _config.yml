@@ -27,6 +27,9 @@ defaults:
     values:
       layout: work
 exclude:
+  - portfolio
+  - output
+  - tmp
   - README.md
   - Gemfile
   - Gemfile.lock

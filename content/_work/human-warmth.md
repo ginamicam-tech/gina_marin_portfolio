@@ -85,4 +85,20 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: 'An enlarged transparent infusion bag, red light and a printed clinical label turn a familiar
+    medical object into a sculpture about care. The label describes presence and connection as a solution
+    to be shared: “Do not substitute presence with efficiency.” I developed the installation through material
+    tests, prototyping and fabrication for Care Lab at GRASP Festival. Its clinical format asks what sustains
+    us beyond a procedure.'
+  images:
+  - src: /content/media/human-warmth/installation.jpg
+    caption: Human Warmth, a transparent infusion-bag sculpture suspended against a blue wall
+    fit: contain
+  - src: /content/media/human-warmth/label.jpg
+    caption: Detail of the Human Warmth label on the transparent bag
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---

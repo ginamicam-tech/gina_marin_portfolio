@@ -54,4 +54,17 @@ sections:
 credits:
 - role: Artistic concept and proposal
   name: Gina Micaela Marín and Gina Mobilia
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Developed with Gina Mobilia, this competition proposal imagines an open circle of eight corten-steel
+    ribs at Nørrebros Runddel. Taking the ribcage as a starting point, the sculpture would offer protection
+    without enclosure and room for gathering, readings and collective action. Care becomes a shared responsibility
+    expressed through public space. The work is a proposal, not a realised installation; the image is
+    a concept visualisation.
+  images:
+  - src: /content/media/ribben/concept-visualization.png
+    caption: Concept visualization of the proposed sculpture. Not a realised installation.
+    fit: contain
+  credits: 'Artistic concept and proposal: Gina Micaela Marín and Gina Mobilia'
 ---

@@ -79,4 +79,21 @@ credits:
   name: Blindmotion
 - role: Silkeborg kayaking photographs
   name: Per Bille
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: I co-organise physical activities for blind and visually impaired participants and develop
+    accessible learning materials for facilitators. Universal design principles inform practical decisions
+    about participation. Visual and written communication, including event information and postcards,
+    connects programme coordination with clear invitations for participants and partners. The work brings
+    my experience in movement facilitation into accessible cultural and community practice.
+  images:
+  - src: /content/media/blindmotion/kayaking-group.png
+    caption: Kayakers gathered on the water wearing orange Blind Kajak vests
+    fit: contain
+  - src: /content/media/blindmotion/kayaking-silkeborg.avif
+    caption: 'Kayaking in Silkeborg · Photography: Per Bille'
+    fit: contain
+  credits: 'Inclusive activities, accessible learning and communication: Gina Marín. Organisation: Blindmotion.
+    Silkeborg kayaking photographs: Per Bille'
 ---

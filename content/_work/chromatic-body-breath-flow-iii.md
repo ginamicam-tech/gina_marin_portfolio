@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 227
 permalink: "/work/chromatic-body-breath-flow-iii/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-06-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-06.jpg"
+  src: "/content/media/artworks/clean/chromatic-06.jpg"
   alt: Breath / Flow III
 legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-10

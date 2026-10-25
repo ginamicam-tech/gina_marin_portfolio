@@ -160,3 +160,10 @@ h1,h2,h3,h4,h5,h6,button,input,select,textarea,.eyebrow,.site-header,.site-foote
 .intro-copy--portrait{display:flow-root;max-width:820px}
 .profile-portrait{float:left;width:160px;max-width:35%;height:auto;object-fit:contain;margin:0 28px 16px 0}
 @media(max-width:480px){.profile-portrait{width:120px;margin-right:20px}}
+
+/* Flat artwork presentation: real image edges, no simulated physical frame. */
+.media-grid--flat-artwork figure{padding:clamp(20px,4vw,56px);background:#f5f3ef;text-align:center}
+.media-grid--flat-artwork img{display:block;width:auto;max-width:100%;max-height:85vh;margin:auto;border:1px solid #c8c5bf;box-sizing:border-box}
+
+/* Work overview uses edge-to-edge photographs and artwork details. */
+.filter-page .work-thumbnail{border:0}

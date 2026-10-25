@@ -25,6 +25,26 @@ cover:
   alt: Four members of Atmosphere Collective together
 media:
 - type: image
+  src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg
+  alt: Projected imagery across a group of performers
+- type: image
+  src: /content/media/portfolio-additions/atmosfera-exhibition-group.jpg
+  alt: Group photograph in an exhibition space
+- type: image
+  src: /content/media/portfolio-additions/atmosfera-sunflower-field.jpg
+  alt: Figures among tall sunflowers in a field beneath an evening sky
+- type: image
+  src: /content/media/portfolio-additions/labluhaus-event-poster.jpeg
+  alt: Labluhaus event poster listing music and visual-art contributors
+  caption: Labluhaus · Event poster
+- type: image
+  src: /content/media/portfolio-additions/cana-mural-wide.jpg
+  alt: Wider view of artists painting a shared outdoor mural with paint and tools on the grass
+  caption: CANA festival
+- type: image
+  src: /content/media/portfolio-additions/atmosfera-blue-live-painting.jpg
+  alt: An artist painting tall panels under blue event lighting
+- type: image
   src: "/content/media/portfolio-additions/cana-painting-materials.jpg"
   alt: An artist working with pots of coloured paint outdoors
   caption: "CANA festival"
@@ -55,11 +75,18 @@ sections:
     Other collaborations brought painting, performance and projected images into live events, including work with Umbrality.
 - layout: newspaper
   text: |-
-    ## Connected work
+    ## Projects within the collective
 
-    [They Do Not Save Life, Nor Sustain the Soul](/portfolio/no-salvan-la-vida/) · [Modus Androginus](/work/modus-androginus/) · [IN_Deterritory and Oscillating Dialectics](/work/in-desterritorio/)
+    Modus Androginus; They Do Not Save Life, Nor Sustain the Soul; Women and LGTBIQ+ Altar #LivesInStruggle; and Yellow Poison Land are part of Atmosphere Collective. Each has its own project page, with photographs, context and credits, and remains individually accessible in the Work archive. Explore them below.
+
+    Related work: [IN_Deterritory and Oscillating Dialectics](/work/in-desterritorio/)
 
     The images document collective activities and include contributions by other artists.
+work_lists:
+- parent: atmosfera
+  title: Projects within Atmosphere Collective
+  sort: year
+  reverse: true
 year_start: 2018
 summary: Artistic practice and shared project coordination across exhibitions, performance and live painting.
 documentation_sources:

@@ -1,4 +1,5 @@
 ---
+parent: atmosfera
 key: modus-androginus
 title: Modus Androginus
 name: Modus Androginus
@@ -22,12 +23,84 @@ cover:
   alt: Live painting on a tall illustrated panel during Modus Androginus
 media:
 - type: image
+  src: /content/media/modus/modus-painting-close.jpg
+  alt: Close view of live painting at Modus Androginus
+- type: image
+  src: /content/media/modus/modus-painting-full.jpg
+  alt: Artist painting a tall collage portrait at Modus Androginus
+- type: image
+  src: /content/media/modus/modus-artists-and-panel.jpg
+  alt: Two artists beside a completed painted panel
+- type: image
+  src: /content/media/modus/modus-backstage.jpg
+  alt: Backstage portrait of two participants at Modus Androginus
+- type: image
+  src: /content/media/modus/live-painting-090817.png
+  alt: Live painting documented in an Instagram story at Modus Androginus
+  crop:
+    x: 0
+    y: 170
+    width: 1080
+    height: 1210
+    source_width: 1080
+- type: image
+  src: /content/media/modus/live-painting-090830.png
+  alt: Live painting documented in an Instagram story at Modus Androginus
+  crop:
+    x: 0
+    y: 170
+    width: 1080
+    height: 1110
+    source_width: 1080
+- type: image
+  src: /content/media/modus/live-painting-105822.png
+  alt: Live painting documented in an Instagram story at Modus Androginus
+  crop:
+    x: 160
+    y: 315
+    width: 760
+    height: 1010
+    source_width: 1080
+- type: image
+  src: /content/media/modus/live-painting-111040.png
+  alt: Live painting documented in an Instagram story at Modus Androginus
+  crop:
+    x: 152
+    y: 275
+    width: 776
+    height: 1160
+    source_width: 1080
+- type: image
+  src: /content/media/portfolio-additions/modus-event-scene.png
+  alt: Visitors and participants under coloured lighting at Modus Androginus
+- type: image
+  src: /content/media/portfolio-additions/modus-costume-portrait.png
+  alt: Portrait of a participant wearing sculptural dark eyewear
+- type: image
+  src: /content/media/modus/live-painting-105844.png
+  alt: Live painting documented in an Instagram story at Modus Androginus
+  crop:
+    x: 161
+    y: 330
+    width: 757
+    height: 1225
+    source_width: 1080
+- type: image
+  src: /content/media/portfolio-additions/modus-artist-poster.jpg
+  alt: Modus Androginus artist presentation poster
+- type: image
+  src: /content/media/portfolio-additions/modus-painted-portrait.png
+  alt: Close view of a painted portrait and an artist working during Modus Androginus
+- type: image
   src: "/content/media/portfolio-additions/modus-performance.png"
   alt: Performers on stage during Modus Androginus
 - type: image
   src: "/content/media/portfolio-additions/modus-painting-detail.png"
   alt: An artist painting the surface of a panel
 sections:
+- layout: newspaper
+  text: |-
+    Part of [Atmosphere Collective](/work/atmosfera/), bringing artistic practices together through collaborative projects.
 - layout: newspaper
   text: |-
     ## About the project

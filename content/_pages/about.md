@@ -17,6 +17,10 @@ sections:
 
     I hold a master’s degree in Visual Arts and Digital Media. My thesis explores bodily presence and personal agency in digital life through performance, drawing, printmaking and photographic archives. Experience in movement facilitation and accessible learning also informs my attention to how people enter a space, encounter an idea and take part.
 
+    ## How I work
+
+    I move from a question to references, material tests and production, adapting the process to each project. Making helps me test an idea against practical conditions; documentation helps me revisit decisions and see what remains unresolved. Where participation is part of the work, encounters with people inform what I develop next.
+
     [Explore the thesis and its projects](/work/body-interface/) · [Read my CV](/cv/)
 - layout: full-width
   text: |-

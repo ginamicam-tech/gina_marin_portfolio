@@ -14,8 +14,14 @@ dimensions: 80 × 100 cm
 featured: false
 order: 225
 permalink: "/work/chromatic-body-fluid-city/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-15-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-15.jpg"
+  src: "/content/media/artworks/clean/chromatic-15.jpg"
   alt: Fluid City
 legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-8

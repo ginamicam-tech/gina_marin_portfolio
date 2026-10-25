@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 206
 permalink: "/work/body-interface-relational-study/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-07-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-07.jpg"
+  src: "/content/media/artworks/clean/graphic-07.jpg"
   alt: Relational Study
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-7

@@ -13,11 +13,13 @@ year: 2024
 featured: false
 order: 302
 permalink: "/work/optical-pulse-series/"
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-10-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-10.jpg"
+  src: "/content/media/artworks/clean/chromatic-10.jpg"
   alt: Kinetic Body
-  zoom: 1.8
-  zoom_origin: '45% 48%'
 listing_context: 2018–2024 · Artwork series
 work_lists:
 - type: artwork

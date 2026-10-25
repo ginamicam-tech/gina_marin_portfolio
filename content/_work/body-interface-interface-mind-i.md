@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 213
 permalink: "/work/body-interface-interface-mind-i/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-14-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-14.jpg"
+  src: "/content/media/artworks/clean/graphic-14.jpg"
   alt: Interface / Mind I
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-14

@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 211
 permalink: "/work/body-interface-flowing-systems-i/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-12-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-12.jpg"
+  src: "/content/media/artworks/clean/graphic-12.jpg"
   alt: Flowing Systems I
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-12

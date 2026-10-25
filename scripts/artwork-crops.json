@@ -1,0 +1,376 @@
+[
+  {
+    "source": "/content/media/artworks/chromatic-01.jpg",
+    "crop": [
+      232,
+      379,
+      1367,
+      2217
+    ],
+    "output": "/content/media/artworks/clean/chromatic-01.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-01-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-02.jpg",
+    "crop": [
+      263,
+      433,
+      1375,
+      2163
+    ],
+    "output": "/content/media/artworks/clean/chromatic-02.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-02-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-03.jpg",
+    "crop": [
+      323,
+      473,
+      1360,
+      1941
+    ],
+    "output": "/content/media/artworks/clean/chromatic-03.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-03-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-04.jpg",
+    "crop": [
+      278,
+      502,
+      1344,
+      2155
+    ],
+    "output": "/content/media/artworks/clean/chromatic-04.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-04-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-05.jpg",
+    "crop": [
+      226,
+      258,
+      1385,
+      1046
+    ],
+    "output": "/content/media/artworks/clean/chromatic-05.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-05-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-06.jpg",
+    "crop": [
+      292,
+      419,
+      1366,
+      2031
+    ],
+    "output": "/content/media/artworks/clean/chromatic-06.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-06-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-07.jpg",
+    "crop": [
+      208,
+      166,
+      1426,
+      992
+    ],
+    "output": "/content/media/artworks/clean/chromatic-07.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-07-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-08.jpg",
+    "crop": [
+      263,
+      510,
+      1321,
+      2186
+    ],
+    "output": "/content/media/artworks/clean/chromatic-08.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-08-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-09.jpg",
+    "crop": [
+      231,
+      272,
+      1389,
+      1046
+    ],
+    "output": "/content/media/artworks/clean/chromatic-09.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-09-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-10.jpg",
+    "crop": [
+      222,
+      267,
+      1403,
+      1060
+    ],
+    "output": "/content/media/artworks/clean/chromatic-10.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-10-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-11.jpg",
+    "crop": [
+      226,
+      258,
+      1403,
+      1032
+    ],
+    "output": "/content/media/artworks/clean/chromatic-11.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-11-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-12.jpg",
+    "crop": [
+      212,
+      212,
+      1385,
+      974
+    ],
+    "output": "/content/media/artworks/clean/chromatic-12.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-12-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-13.jpg",
+    "crop": [
+      231,
+      267,
+      1394,
+      1027
+    ],
+    "output": "/content/media/artworks/clean/chromatic-13.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-13-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-14.jpg",
+    "crop": [
+      222,
+      253,
+      1408,
+      1000
+    ],
+    "output": "/content/media/artworks/clean/chromatic-14.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-14-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-15.jpg",
+    "crop": [
+      228,
+      426,
+      1381,
+      2069
+    ],
+    "output": "/content/media/artworks/clean/chromatic-15.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-15-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/chromatic-16.jpg",
+    "crop": [
+      261,
+      350,
+      1333,
+      1954
+    ],
+    "output": "/content/media/artworks/clean/chromatic-16.jpg",
+    "thumbnail": "/content/media/artworks/clean/chromatic-16-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-01.jpg",
+    "crop": [
+      327,
+      376,
+      1473,
+      2028
+    ],
+    "output": "/content/media/artworks/clean/graphic-01.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-01-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-02.jpg",
+    "crop": [
+      323,
+      336,
+      1470,
+      2098
+    ],
+    "output": "/content/media/artworks/clean/graphic-02.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-02-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-03.jpg",
+    "crop": [
+      268,
+      310,
+      1532,
+      2099
+    ],
+    "output": "/content/media/artworks/clean/graphic-03.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-03-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-04.jpg",
+    "crop": [
+      212,
+      208,
+      1588,
+      1233
+    ],
+    "output": "/content/media/artworks/clean/graphic-04.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-04-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-05.jpg",
+    "crop": [
+      254,
+      250,
+      1542,
+      1058
+    ],
+    "output": "/content/media/artworks/clean/graphic-05.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-05-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-06.jpg",
+    "crop": [
+      185,
+      180,
+      1615,
+      1148
+    ],
+    "output": "/content/media/artworks/clean/graphic-06.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-06-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-07.jpg",
+    "crop": [
+      203,
+      184,
+      1597,
+      1158
+    ],
+    "output": "/content/media/artworks/clean/graphic-07.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-07-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-08.jpg",
+    "crop": [
+      258,
+      265,
+      1548,
+      2003
+    ],
+    "output": "/content/media/artworks/clean/graphic-08.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-08-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-09.jpg",
+    "crop": [
+      231,
+      217,
+      1403,
+      1043
+    ],
+    "output": "/content/media/artworks/clean/graphic-09.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-09-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-10.jpg",
+    "crop": [
+      222,
+      253,
+      1398,
+      1102
+    ],
+    "output": "/content/media/artworks/clean/graphic-10.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-10-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-11.jpg",
+    "crop": [
+      314,
+      263,
+      1362,
+      905
+    ],
+    "output": "/content/media/artworks/clean/graphic-11.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-11-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-12.jpg",
+    "crop": [
+      235,
+      245,
+      1408,
+      1040
+    ],
+    "output": "/content/media/artworks/clean/graphic-12.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-12-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-13.jpg",
+    "crop": [
+      265,
+      265,
+      1281,
+      1769
+    ],
+    "output": "/content/media/artworks/clean/graphic-13.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-13-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-14.jpg",
+    "crop": [
+      296,
+      411,
+      1292,
+      1729
+    ],
+    "output": "/content/media/artworks/clean/graphic-14.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-14-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-15.jpg",
+    "crop": [
+      312,
+      356,
+      1298,
+      1849
+    ],
+    "output": "/content/media/artworks/clean/graphic-15.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-15-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-16.jpg",
+    "crop": [
+      301,
+      398,
+      1307,
+      1886
+    ],
+    "output": "/content/media/artworks/clean/graphic-16.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-16-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-17.jpg",
+    "crop": [
+      203,
+      208,
+      1597,
+      1232
+    ],
+    "output": "/content/media/artworks/clean/graphic-17.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-17-square.jpg"
+  },
+  {
+    "source": "/content/media/artworks/graphic-18.jpg",
+    "crop": [
+      290,
+      302,
+      1317,
+      1685
+    ],
+    "output": "/content/media/artworks/clean/graphic-18.jpg",
+    "thumbnail": "/content/media/artworks/clean/graphic-18-square.jpg"
+  }
+]

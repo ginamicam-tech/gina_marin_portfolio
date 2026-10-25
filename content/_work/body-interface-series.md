@@ -13,12 +13,13 @@ year: 2024
 featured: false
 order: 300
 permalink: "/work/body-interface-series/"
+thumbnail:
+  src: /content/media/artworks/clean/graphic-12-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-12.jpg"
+  src: "/content/media/artworks/clean/graphic-12.jpg"
   alt: Flowing Systems I
-  position: '50% 30%'
-  zoom: 1.8
-  zoom_origin: '45% 40%'
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork

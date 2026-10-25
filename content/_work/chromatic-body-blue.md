@@ -14,8 +14,14 @@ dimensions: 59.4 × 42 cm
 featured: false
 order: 221
 permalink: "/work/chromatic-body-blue/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-08-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-08.jpg"
+  src: "/content/media/artworks/clean/chromatic-08.jpg"
   alt: Blue
 legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-4

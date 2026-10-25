@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 217
 permalink: "/work/body-interface-interface-mind-ii/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-18-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-18.jpg"
+  src: "/content/media/artworks/clean/graphic-18.jpg"
   alt: Interface / Mind II
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-18

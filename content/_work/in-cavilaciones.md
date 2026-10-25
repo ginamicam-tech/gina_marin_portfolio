@@ -28,6 +28,22 @@ media:
   src: "/content/media/thesis/in-cavilaciones-digital.jpg"
   alt: A digitally edited book spread in purple, black and red
   caption: IN_Reflections · Gina Marín · 2019
+- type: image
+  src: /content/media/in-reflections/fine-line-spread.jpg
+  alt: Open book with a dense black line drawing opposite a sparsely marked page
+  caption: IN_Reflections · Gina Marín · 2019
+- type: image
+  src: /content/media/in-reflections/red-black-spread.jpg
+  alt: Red and black organic forms across an open book spread
+  caption: IN_Reflections · Gina Marín · 2019
+- type: image
+  src: /content/media/in-reflections/orange-layered-spread.jpg
+  alt: Orange-toned book spread with layered translucent paper and drawn lines
+  caption: IN_Reflections · Gina Marín · 2019
+- type: image
+  src: /content/media/in-reflections/turquoise-spread.jpg
+  alt: Turquoise-toned book spread with a central red form and dark textured edges
+  caption: IN_Reflections · Gina Marín · 2019
 sections:
 - layout: newspaper
   text: |-

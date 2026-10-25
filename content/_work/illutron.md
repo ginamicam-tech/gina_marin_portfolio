@@ -15,6 +15,15 @@ cover:
   alt: Illutron industrial barge illuminated at night in Copenhagen
 media:
 - type: image
+  src: /content/media/illutron/meet-and-build-event-poster.png
+  alt: Meet & Build poster inviting people to boat maintenance, shared learning and community activities
+- type: image
+  src: /content/media/illutron/deck-renovation.png
+  alt: A participant working with metal frames on the Illutron barge deck
+- type: image
+  src: /content/media/illutron/interior-renovation.png
+  alt: People renovating the interior of the Illutron barge among tools and materials
+- type: image
   src: "/content/media/illutron/board-call-01.png"
   alt: 'Help shape what comes next: Illutron open call for external board members'
 - type: image
@@ -90,7 +99,9 @@ sections:
   text: |-
     ## My part
 
-    I co-coordinate and promote experimental projects, collaborative workshops and public programmes, connecting creative production with community engagement. As Vice Chair of Illutron Anchors, I also contribute to association development, membership initiatives, newsletters and public communication, including the board recruitment campaign and the Meet & Build image series and reels shown below.
+    I contribute to communication, creative production and community activities, connecting event information and visual material with opportunities to take part. This includes co-coordinating and promoting workshops and public programmes, and developing the board recruitment campaign and Meet & Build image series and reels shown below.
+
+    As Vice Chair of Illutron Anchors, the independent support association, I also work on association development, membership initiatives and newsletters. This organisational role supports the environment in which projects happen; the artworks retain the authorship of their respective makers within the collective.
 - layout: newspaper
   text: |-
     ## Project links

@@ -1,4 +1,5 @@
 ---
+parent: atmosfera
 card_label: CCK, Buenos Aires
 title: "Women and LGTBIQ+ Altar #LivesInStruggle"
 permalink: "/portfolio/altar-mujeres-sxxi/"
@@ -13,6 +14,11 @@ cover:
   src: "/content/media/portfolio/exhibitions/altar-mujeres-installation-01.jpg"
   alt: Visitors moving through hanging portraits, QR linked biographies and living plants at the CCK opening
 media:
+- type: image
+  src: /content/media/portfolio/exhibitions/altar-biography-cards.png
+  alt: Overview of Altar portrait and biography cards with QR codes connecting to the collective archive
+  caption: Altar · Collective biography cards and QR-linked research.
+  layout: full-width
 - type: image
   src: "/content/media/portfolio/exhibitions/altar-mujeres-installation-01.jpg"
   alt: Visitors moving through hanging portraits, QR linked biographies and living plants at the CCK opening
@@ -107,6 +113,9 @@ featured: true
 year: 2020
 key: altar-mujeres-sxxi
 sections:
+- layout: newspaper
+  text: |-
+    Part of [Atmosphere Collective](/work/atmosfera/), bringing artistic practices together through collaborative projects.
 - layout: newspaper
   text: |-
     ## About the project

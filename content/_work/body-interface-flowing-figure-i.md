@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 208
 permalink: "/work/body-interface-flowing-figure-i/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-09-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-09.jpg"
+  src: "/content/media/artworks/clean/graphic-09.jpg"
   alt: Flowing Figure I
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-9

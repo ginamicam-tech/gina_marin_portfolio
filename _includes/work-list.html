@@ -1,13 +1,19 @@
 {% assign selection = include.selection %}
 {% assign sort_key = selection.sort | default: 'order' %}
 {% assign entries = site.work | sort: sort_key %}
-{% if selection.reverse %}{% assign entries = entries | reverse %}{% endif %}
 {% if sort_key == 'year' %}
-  {% assign dated_entries = entries | where_exp: 'entry', 'entry.year != nil' %}
-  {% assign undated_entries = entries | where_exp: 'entry', 'entry.year == nil' %}
-  {% assign entries = dated_entries | concat: undated_entries %}
+  {% capture chronology %}{% for entry in site.work %}{{ entry.year_start | default: entry.year }}|{{ entry.key }}{% unless forloop.last %}::{% endunless %}{% endfor %}{% endcapture %}
+  {% assign chronology = chronology | split: '::' | sort %}
+  {% assign entries = site.work | where: 'key', '' %}
+  {% for dated_key in chronology %}
+    {% assign entry_key = dated_key | split: '|' | last %}
+    {% assign dated_entry = site.work | where: 'key', entry_key %}
+    {% assign entries = entries | concat: dated_entry %}
+  {% endfor %}
 {% endif %}
+{% if selection.reverse %}{% assign entries = entries | reverse %}{% endif %}
 {% assign shown = 0 %}
+{% if selection.title %}<h2>{{ selection.title | escape }}</h2>{% endif %}
 <div class="work-grid">
 {% for entry in entries %}
   {% assign matches = true %}
@@ -33,6 +39,10 @@
       {% if entry.type == 'series' and thumbnail_zoom == nil %}
         {% assign thumbnail_zoom = entry.cover.zoom %}
         {% assign thumbnail_zoom_origin = entry.cover.zoom_origin | default: '50% 50%' %}
+      {% endif %}
+      {% if page.work_filters and entry.type == 'series' %}
+        {% assign thumbnail_src = entry.cover.src %}
+        {% assign thumbnail_zoom = nil %}
       {% endif %}
       <a class="work-thumbnail" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
         <img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" decoding="async" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}{% if thumbnail_zoom %}; transform: scale({{ thumbnail_zoom | escape }}); transform-origin: {{ thumbnail_zoom_origin | escape }}{% endif %}">

@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 233
 permalink: "/work/optical-pulse-kinetic-body-ii/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-14-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-14.jpg"
+  src: "/content/media/artworks/clean/chromatic-14.jpg"
   alt: Kinetic Body II
 legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-6

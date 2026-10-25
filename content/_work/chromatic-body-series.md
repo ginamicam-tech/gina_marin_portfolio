@@ -13,12 +13,13 @@ year: 2024
 featured: false
 order: 301
 permalink: "/work/chromatic-body-series/"
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-12-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-01.jpg"
-  alt: Figure Study
-  position: '50% 25%'
-  zoom: 1.8
-  zoom_origin: '40% 50%'
+  src: "/content/media/artworks/clean/chromatic-12.jpg"
+  alt: Inner Mirror — a face painted in radiating fragments of colour
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork

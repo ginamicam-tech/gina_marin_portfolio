@@ -34,6 +34,23 @@ media:
 - type: image
   src: "/content/media/home/care-lab.jpg"
   alt: Human Warmth glowing red above a visitor in the exhibition space
+- type: image
+  src: "/content/media/human-warmth/label-artwork.png"
+  alt: Complete Human Warmth infusion label, listing presence, connection, care and empathy as ingredients and inviting human-to-human warmth
+  caption: "Human Warmth · Label artwork · Care Lab, GRASP 2026"
+  layout: full-width
+- type: image
+  src: /content/media/human-warmth/material-roll.jpg
+  alt: Red and reflective material rolls during fabrication
+  caption: Human Warmth · Material and fabrication study
+- type: image
+  src: /content/media/human-warmth/surface-study.jpg
+  alt: Close view of reflective material components during fabrication
+  caption: Human Warmth · Material and fabrication study
+- type: image
+  src: /content/media/human-warmth/construction-components.jpg
+  alt: Reflective components laid out during construction
+  caption: Human Warmth · Material and fabrication study
 sections:
 - layout: newspaper
   text: |-
@@ -53,7 +70,7 @@ sections:
   text: |-
     ## Making the installation
 
-    I developed and made the installation, working with a transparent enclosure, red material and light to suggest the contents of an oversized infusion bag. The suspended form, outlet and printed label bring the familiar appearance of clinical equipment into a sculptural work.
+    I developed the installation through iterative prototyping, material tests and hands-on fabrication. I worked with a transparent enclosure, red material and light, testing how scale and surface could turn a familiar medical object into a sculptural encounter. The suspended form, outlet and printed label retain the visual language of an infusion bag. The process photographs document material studies and components during construction.
 
 - layout: newspaper
   text: |-

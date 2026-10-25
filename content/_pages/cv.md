@@ -32,7 +32,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2019–2023 · Gemma Yoga Studio** — Owner & Facilitator · Córdoba, Argentina
 
-- **2019–2023 · Government of Alta Gracia** — I produced and edited audiovisual and graphic materials for institutional campaigns, keeping the visual presentation and messaging consistent across digital communication channels. · [Department of Technology, Innovation and Design · Córdoba, Argentina](/portfolio/alta-gracia/)
+- **2019–2023 · Government of Alta Gracia** — I produced and edited audiovisual and graphic materials for institutional campaigns, keeping the visual presentation and messaging consistent across digital communication channels. · Department of Technology, Innovation and Design · Córdoba, Argentina
 
 - **2019–2023 · Graphic Designer & Audiovisual Editor** — I designed digital and print assets and coordinated creative deliverables. · Zumma360
 

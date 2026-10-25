@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 226
 permalink: "/work/chromatic-body-gaze/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-16-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-16.jpg"
+  src: "/content/media/artworks/clean/chromatic-16.jpg"
   alt: Gaze
 legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-9

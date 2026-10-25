@@ -94,7 +94,7 @@ Studio, Artworks and Exhibitions have been removed. Their practice and series de
 
 ## Old URLs
 
-Existing project URLs are preserved, even where they begin with `/portfolio/`. The Video Editing showcase is consolidated into Alta Gracia, with `/portfolio/moving-image/` redirecting to that project. Duplicate overview pages redirect: `/portfolio/` → `/work/`, `/profile/` → `/about/`. The research material is consolidated into BODY.INTERFACE and its children; `/research/` redirects to `/work/body-interface/`. Redirect templates retain URL fragments and provide a plain link without JavaScript.
+Retained project URLs are preserved, even where they begin with `/portfolio/`. Duplicate overview pages redirect: `/portfolio/` → `/work/`, `/profile/` → `/about/`. The research material is consolidated into BODY.INTERFACE and its children; `/research/` redirects to `/work/body-interface/`. Redirect templates retain URL fragments and provide a plain link without JavaScript.
 
 ## Run locally
 

@@ -14,8 +14,14 @@ dimensions: 70 × 100 cm
 featured: false
 order: 210
 permalink: "/work/body-interface-body-interface/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-11-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-11.jpg"
+  src: "/content/media/artworks/clean/graphic-11.jpg"
   alt: Body Interface
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-11

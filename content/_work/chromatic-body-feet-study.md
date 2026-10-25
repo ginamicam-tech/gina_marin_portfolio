@@ -14,8 +14,14 @@ dimensions: 60 × 90 cm
 featured: false
 order: 220
 permalink: "/work/chromatic-body-feet-study/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-02-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-02.jpg"
+  src: "/content/media/artworks/clean/chromatic-02.jpg"
   alt: Feet Study
 legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-3

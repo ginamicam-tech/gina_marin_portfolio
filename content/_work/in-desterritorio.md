@@ -21,6 +21,14 @@ cover:
   alt: A seated figure emerging from dense black ink patterns
 media:
 - type: image
+  src: /content/media/portfolio-additions/oscillating-dialectics-credits.jpg
+  alt: Oscillating Dialectics programme cover and exhibition credits
+  caption: Oscillating Dialectics · Córdoba · 2019
+- type: image
+  src: /content/media/portfolio-additions/avellaneda-installation.jpg
+  alt: Two people installing artwork at the Avellaneda window
+  caption: Exhibition preparation at Avellaneda
+- type: image
   src: "/content/media/thesis/in-desterritorio-landscape.jpg"
   alt: Black and red ink forms across a white field
   caption: IN_Deterritory · Gina Marín · 2019
@@ -33,7 +41,7 @@ media:
   alt: An irregular field of ink surrounding a dark central shape
   caption: IN_Deterritory · Gina Marín · 2019
 - type: image
-  src: "/content/media/portfolio-additions/oscillating-dialectics-programme.png"
+  src: "/content/media/portfolio-additions/oscillating-dialectics-programme.jpg"
   alt: Exhibition programme with curatorial text, artwork images and a list of exhibitors including Gina Marin
   caption: Oscillating Dialectics · Exhibition programme and participating artists
 sections:
@@ -51,7 +59,7 @@ sections:
   text: |-
     ## In the exhibition
 
-    The drawings were also presented in *Oscillating Dialectics* at Avellaneda Café in Córdoba, listed in my CV in 2019. The programme brings together the exhibition’s curatorial text and participating artists. This places the individual drawing practice within a shared exhibition context.
+    I contributed to the organisation and production of *Oscillating Dialectics* at Avellaneda Café in Córdoba in 2019, where I also exhibited IN_Deterritory. The project connected my drawing practice with the shared work of preparing and presenting an exhibition. The programme documents its curatorial text, participating artists and production credits.
 
     [Explore Atmosphere Collective](/work/atmosfera/)
 - layout: newspaper

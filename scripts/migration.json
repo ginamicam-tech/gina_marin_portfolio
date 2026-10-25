@@ -20,11 +20,6 @@
     "title": "Questions behind the work."
   },
   {
-    "route": "/portfolio/alta-gracia/",
-    "file": "content/_work/alta-gracia.md",
-    "title": "How can institutional communication connect different audiences?"
-  },
-  {
     "route": "/portfolio/altar-mujeres-sxxi/",
     "file": "content/_work/altar-mujeres-sxxi.md",
     "title": "How can artistic research bring overlooked histories into public view?"
@@ -43,11 +38,6 @@
     "route": "/portfolio/morhaven/",
     "file": "content/_work/morhaven.md",
     "title": "How can a retreat concept become a coherent visual identity?"
-  },
-  {
-    "route": "/portfolio/moving-image/",
-    "file": "content/_pages/portfolio/moving-image.md",
-    "title": "Video Editing"
   },
   {
     "route": "/portfolio/no-salvan-la-vida/",

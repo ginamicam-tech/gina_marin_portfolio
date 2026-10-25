@@ -15,7 +15,17 @@ cover:
     Black-and-white montage from the thesis presentation, combining a body and its reflection with digital interface graphics
 media:
 - type: image
-  src: "/content/media/thesis/clinical-fold-performance.jpg"
+  src: /content/media/thesis/arena-body-interface-archive.png
+  alt: 'Data Wound, in a Scanned Body: an Are.na research channel collecting references about skin, bodies and digital representation'
+  caption: Body.Interface on Are.na · Data Wound, in a Scanned Body. Collected references retain their respective authorship.
+  layout: full-width
+- type: image
+  src: /content/media/thesis/arena-body-interface-connections.png
+  alt: Body.Interface archive on Are.na, connecting the IN/Pressure and Self-Archive channels
+  caption: Body.Interface on Are.na · Connections between research channels.
+  layout: full-width
+- type: image
+  src: "/content/media/clinical-fold/performance.jpg"
   alt: Clinical Fold photoperformance in a white plastic costume
   caption: 'Clinical Fold · Photography: Florencia Aravena; performance, costume and image editing: Gina Marín.'
 - type: image
@@ -62,7 +72,9 @@ sections:
   text: |-
     ## A living archive
 
-    On Are.na, photographs, drawings and texts form an archive that can be rearranged and connected to other people’s collections. I use it as a space for slower looking and shared thinking, where an artwork can acquire new relationships over time.
+    On Are.na, I gather photographs, drawings, texts and other references, placing them in conversation and tracing connections across the research. The archive can be rearranged and linked to other people’s collections, creating a space for slower looking and shared thinking. Collected works retain their respective authorship.
+
+    I am developing this research towards an interactive platform, exploring how an archive can become a space for navigation and participation. The Are.na collection is an existing part of that process; the wider platform remains in development. Related experiments with live computer vision and embodied interaction are documented in [Embodied Portals](/work/embodied-portals/). The investigation into biometrics, scanning and bodily representation continues in [Body, Surface, and Packaging](/work/body-surface-packaging/).
 
     [Explore the Body Interface archive ↗](https://www.are.na/body_interface-archive-across-body-space-systems)
     {: #archive-title}
@@ -76,7 +88,7 @@ sections:
   text: |-
     ## Projects in the research
 
-    The two photoperformances and five earlier projects each have their own description and image documentation below.
+    The photoperformances and related projects each have their own description and image documentation below.
     {: #projects-title}
 question: Where does the body end?
 summary: >-

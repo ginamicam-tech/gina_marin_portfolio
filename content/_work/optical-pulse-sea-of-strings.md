@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 232
 permalink: "/work/optical-pulse-sea-of-strings/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/chromatic-13-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/chromatic-13.jpg"
+  src: "/content/media/artworks/clean/chromatic-13.jpg"
   alt: Sea of Strings
 legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-5

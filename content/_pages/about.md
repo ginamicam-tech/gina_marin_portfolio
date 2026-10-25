@@ -17,7 +17,7 @@ sections:
 
     I hold a master’s degree in Visual Arts and Digital Media. My thesis explores bodily presence and personal agency in digital life through performance, drawing, printmaking and photographic archives. Experience in movement facilitation and accessible learning also informs my attention to how people enter a space, encounter an idea and take part.
 
-    [Explore the thesis and its projects →](/work/body-interface/) · [Read my CV →](/cv/)
+    [Explore the thesis and its projects](/work/body-interface/) · [Read my CV](/cv/)
 - layout: full-width
   text: |-
     ## Let’s talk.
@@ -25,9 +25,9 @@ sections:
 
     Have a project, a question or an idea to explore together?
 
-    [ginamicam@gmail.com ↗](mailto:ginamicam@gmail.com) · [+45 50 36 62 64 ↗](tel:+4550366264)
+    [ginamicam@gmail.com](mailto:ginamicam@gmail.com) · [+45 50 36 62 64](tel:+4550366264)
 
-    [Instagram ↗](https://www.instagram.com/gina.m.marin/) · [LinkedIn ↗](https://www.linkedin.com/in/gina-marin-/) · [Are.na ↗](https://www.are.na/body_interface-archive-across-body-space-systems)
+    [Instagram](https://www.instagram.com/gina.m.marin/) · [LinkedIn](https://www.linkedin.com/in/gina-marin-/) · [Are.na](https://www.are.na/body_interface-archive-across-body-space-systems)
 portrait:
   src: "/content/media/gina-marin-profile-2026.jpg"
   alt: Portrait of Gina Marín

@@ -24,7 +24,7 @@ h1,h2,h3{overflow-wrap:break-word}#top{scroll-margin-top:24px}
 
 /* Homepage featured projects: native swipe, manual navigation, no autoplay. */
 .featured-carousel{position:relative;background:#000;color:#fff}
-.featured-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;height:100vh;height:100svh;overscroll-behavior-x:contain}
+.featured-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;height:85vh;height:85svh;overscroll-behavior-x:contain}
 .featured-track::-webkit-scrollbar{display:none}
 .featured-slide{flex:0 0 100%;min-width:0;scroll-snap-align:start;scroll-snap-stop:always;position:relative}
 .featured-link{display:block;position:relative;height:100%;color:#fff;text-decoration:none}

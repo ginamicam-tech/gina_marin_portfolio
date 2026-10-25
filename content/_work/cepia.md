@@ -1,5 +1,5 @@
 ---
-card_label: CePIA, Center for Production and Research in the Arts
+card_label: Exhibition production
 title: CePIA, Center for Production and Research in the Arts
 permalink: "/work/cepia/"
 order: 15

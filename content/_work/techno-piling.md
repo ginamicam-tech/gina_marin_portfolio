@@ -1,5 +1,5 @@
 ---
-card_label: Techno Piling
+card_label: Engineering brand identity
 summary: Developed brand repositioning, guidelines and visual applications, alongside weekly social communication.
 title: Techno Piling
 permalink: "/portfolio/techno-piling/"
@@ -11,9 +11,8 @@ role: Brand identity · brand applications · social media
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/portfolio/techno-8.jpg"
-  alt: Techno Piling structural symbol and wordmark
-  caption: Original design documentation.
+  src: "/content/media/portfolio/techno-piling-header.png"
+  alt: Four Techno Piling logo variations in white on red and blue backgrounds
 media:
 - type: image
   src: "/content/media/portfolio/techno-8.jpg"
@@ -30,15 +29,12 @@ media:
 - type: image
   src: "/content/media/portfolio/manuals/techno-05.jpg"
   alt: Techno Piling brand colour palette
-  caption: Colour system
 - type: image
   src: "/content/media/portfolio/manuals/techno-10.jpg"
   alt: Techno Piling logo variations across the core palette
-  caption: Identity variations
 - type: image
   src: "/content/media/portfolio/manuals/techno-15.jpg"
   alt: Techno Piling social media system presented on mobile
-  caption: Social media application
 - type: image
   src: "/content/media/portfolio-additions/techno-piling-workwear-mockup.jpg"
   alt: Techno Piling identity applied to a work shirt and safety helmet

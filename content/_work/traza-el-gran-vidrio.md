@@ -1,5 +1,5 @@
 ---
-card_label: Traza at El Gran Vidrio
+card_label: Exhibition proposal
 title: Traza at El Gran Vidrio
 permalink: "/portfolio/traza-el-gran-vidrio/"
 order: 12
@@ -12,7 +12,6 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/exhibitions/traza/traza-cover.png"
   alt: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
-  caption: Traza · Curatorial brochure for the exhibition proposal
 media:
 - type: image
   src: "/content/media/portfolio/exhibitions/el-gran-vidrio-visitors.jpg"
@@ -21,31 +20,31 @@ media:
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-wide.jpg"
   alt: Wide black and white work from Guillermo Kuitca's Everything series
-  caption: Guillermo Kuitca · Everything series · mixed media on canvas
+  caption: "Guillermo Kuitca · Everything series · Mixed media on canvas"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-blue.jpg"
   alt: Blue vertical work from Guillermo Kuitca's Everything series
-  caption: Guillermo Kuitca · Everything · vertical work study
+  caption: "Guillermo Kuitca · Everything"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-red.jpg"
   alt: Red vertical work from Guillermo Kuitca's Everything series
-  caption: Guillermo Kuitca · Everything · vertical work study
+  caption: "Guillermo Kuitca · Everything"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/leticia-obeid-manuscript-buenos-aires.jpg"
   alt: Handwritten manuscript selected for Leticia Obeid's section of Traza
-  caption: Leticia Obeid · Manuscritos · ink on paper
+  caption: "Leticia Obeid · Manuscritos · Ink on paper"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/leticia-obeid-manuscript-letter.jpg"
   alt: English handwritten manuscript selected for Leticia Obeid's section of Traza
-  caption: Leticia Obeid · Manuscritos · language, writing and movement
+  caption: "Leticia Obeid · Manuscritos"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/leon-ferrari-braille-02.png"
   alt: León Ferrari print with Braille interventions over a reclining figure
-  caption: León Ferrari · Braille series · intervened print
+  caption: "León Ferrari · Braille series · Intervened print"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/leon-ferrari-braille-01.png"
   alt: León Ferrari print with Braille interventions over a nude figure
-  caption: León Ferrari · Braille series · touch placed against sight
+  caption: "León Ferrari · Braille series"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/mariano-sardon-divergencia.jpg"
   alt: Interactive projection from Mariano Sardón's Divergencia diferente de cero
@@ -57,31 +56,29 @@ media:
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-cover.png"
   alt: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
-  caption: Exhibition brochure · curatorial framework, spatial overview and artist constellation
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-artwork-register.png"
   alt: Traza artwork register listing titles, authors, dimensions, media and mounting requirements
-  caption: Artwork register · dimensions, media, technology and mounting requirements
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-floorplan.png"
   alt: Colour-coded Traza floor plan showing artist zones, work numbers and the visitor route
-  caption: Spatial zoning · 38 works, four artist groupings and one proposed visitor route
+  caption: "Proposed layout · 38 works"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-elevation-kuitca.png"
   alt: Wall elevation for Guillermo Kuitca's monumental Everything works
-  caption: Kuitca elevation · scale, rhythm and clearances across a thirteen-metre wall
+  caption: "Proposed elevation · Kuitca"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-elevation-ferrari.png"
   alt: Red wall elevation for the sequence of León Ferrari Braille works
-  caption: Ferrari elevation · serial rhythm, reading height and wall-field contrast
+  caption: "Proposed elevation · Ferrari"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-elevation-obeid.png"
   alt: Wall elevation alternating Leticia Obeid manuscripts and digital displays
-  caption: Obeid elevation · handwritten works and tablets organised as one reading sequence
+  caption: "Proposed elevation · Obeid"
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/traza-technical-sardon.png"
   alt: Technical floor plan and sections for Mariano Sardón's interactive installations
-  caption: Sardón technical plan · projection, supports, movement and audience clearances
+  caption: "Proposed technical plan · Sardón"
 type: project
 tags:
 - exhibitions
@@ -136,6 +133,4 @@ anchors:
 - archive-image-15
 - archive-image-16
 - exhibition-sources-title
-thumbnail:
-  fit: contain
 ---

@@ -2,8 +2,8 @@ title: Gina Marín
 description: Creative strategy, communication and cultural projects.
 email: ginamicam@gmail.com
 location: Copenhagen, Denmark
-url: "" # Set to https://YOUR-USERNAME.github.io or your custom domain
-baseurl: "" # Set to /YOUR-REPOSITORY for a GitHub project site
+url: "https://ginamicam-tech.github.io"
+baseurl: "/gina_marin_portfolio"
 lang: en
 timezone: Europe/Copenhagen
 markdown: kramdown

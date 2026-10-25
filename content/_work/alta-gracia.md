@@ -1,5 +1,5 @@
 ---
-card_label: Municipality of Alta Gracia
+card_label: Public communication
 title: Municipality of Alta Gracia
 permalink: "/portfolio/alta-gracia/"
 order: 14

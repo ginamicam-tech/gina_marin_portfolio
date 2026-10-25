@@ -1,5 +1,5 @@
 ---
-card_label: Enter Art Fair
+card_label: Event & VIP coordination
 title: Enter Art Fair
 permalink: "/work/enter-art-fair/"
 order: 5
@@ -12,22 +12,18 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/work/enter-art-fair-gallery-01.jpg"
   alt: Visitors viewing contemporary sculpture and painting at Enter Art Fair
-  caption: Enter Art Fair · 2024 · Exhibition encounter
   credit: 'Photography: Julie Nymann'
 media:
 - type: image
   src: "/content/media/portfolio/work/enter-art-fair-gallery-01.jpg"
   alt: Visitors viewing contemporary sculpture and painting at Enter Art Fair
-  caption: Enter Art Fair · 2024 · Exhibition encounter
   credit: 'Photography: Julie Nymann'
 - type: image
   src: "/content/media/portfolio/work/enter-art-fair-gallery-02.jpg"
   alt: Visitor guidance near an installation at Enter Art Fair
-  caption: Enter Art Fair · 2024 · Visitor experience
 - type: image
   src: "/content/media/portfolio/work/enter-art-fair-gallery-03.jpg"
   alt: Visitors in front of a large painting at Enter Art Fair
-  caption: Enter Art Fair · 2024 · Art fair environment
   credit: 'Photography: Frida Gregersen'
 type: project
 tags:

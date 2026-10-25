@@ -1,5 +1,5 @@
 ---
-card_label: Trifolium / Impact Festival
+card_label: Festival production
 title: Trifolium / Impact Festival
 permalink: "/work/trifolium-impact-festival/"
 order: 4
@@ -16,7 +16,6 @@ media:
 - type: image
   src: "/content/media/portfolio/work/trifolium-gallery-01.jpg"
   alt: Impact Festival 2026 programme announcement
-  caption: Festival programme communication
 type: project
 tags:
 - production

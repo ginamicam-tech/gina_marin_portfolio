@@ -208,4 +208,4 @@ The BODY.INTERFACE page contains an English summary of **IN/Pressions of a Body.
 
 Only selected extracted images are stored in `content/media/thesis/`. The source thesis and presentation PDFs stay outside the repository. Source identities and the deliberately retained CV wording/date differences are recorded in `content/_data/research_sources.yml`; each research entry's `documentation_sources` records the relevant PDF pages. Artwork catalogue dates have not been inferred from dates of the broader projects.
 
-About's optional `portrait` YAML field displays a small, uncropped image beside its introduction. About, CV and Contact covers use graphics from the supplied material. For project thumbnails that should show the complete artwork, set `thumbnail: { fit: contain }`.
+About's optional `portrait` YAML field displays a small, uncropped image beside its introduction. About, CV and Contact covers use graphics from the supplied material. All list thumbnails crop to fill their square. Use `thumbnail.position` to adjust the focal point; full artwork images remain uncropped on individual pages.

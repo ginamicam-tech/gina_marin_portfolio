@@ -2,7 +2,7 @@
 key: modus-androginus
 title: Modus Androginus
 name: Modus Androginus
-card_label: Modus Androginus
+card_label: Studio Teatro
 type: project
 year: 2019
 question: How can painting and performance meet on a runway?
@@ -20,16 +20,13 @@ cover:
   type: image
   src: "/content/media/portfolio-additions/modus-live-painting.png"
   alt: Live painting on a tall illustrated panel during Modus Androginus
-  caption: Modus Androginus · Live painting
 media:
 - type: image
   src: "/content/media/portfolio-additions/modus-performance.png"
   alt: Performers on stage during Modus Androginus
-  caption: Modus Androginus · Collective performance
 - type: image
   src: "/content/media/portfolio-additions/modus-painting-detail.png"
   alt: An artist painting the surface of a panel
-  caption: Modus Androginus · Painting process
 sections:
 - layout: newspaper
   text: |-

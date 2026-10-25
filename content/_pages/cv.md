@@ -16,15 +16,15 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 ## Professional experience
 
-- **2026–present · illutron / ILLUTRON ANCHORS** — I co-coordinate and promote experimental projects, collaborative workshops and public programmes, connecting creative production with community engagement. I also serve as Vice Chair of the independent support association ILLUTRON ANCHORS. · [Copenhagen](/work/illutron/)
+- **2026–present · Illutron / Illutron Anchors** — I co-coordinate and promote experimental projects, collaborative workshops and public programmes, connecting creative production with community engagement. I also serve as Vice Chair of the independent support association Illutron Anchors. · [Copenhagen](/work/illutron/)
 
-- **2026 · CARE LAB, GRASP Festival** — I co-developed a participatory environment exploring care, healthcare and future technology, and designed interactive stations to encourage reflection. · [Copenhagen](/work/care-lab/)
+- **2026 · Care Lab, GRASP Festival** — I co-developed a participatory environment exploring care, healthcare and future technology, and designed interactive stations to encourage reflection. · [Copenhagen](/work/care-lab/)
 
 - **2026 · Trifolium / Impact Festival** — I supported festival production and operations, assisting with event preparation, coordination and on-site activities. · [Copenhagen](/work/trifolium-impact-festival/)
 
 - **2026 · Enter Art Fair** — I supported fair operations and VIP guest experiences during their visit to the Louisiana Museum of Modern Art. · [Copenhagen](/work/enter-art-fair/)
 
-- **2025–present · BLINDMOTION** — I co-organise inclusive physical activities for blind and visually impaired participants and develop training materials that help facilitators apply accessible teaching practices based on universal design principles. · [Denmark](/work/blindmotion/)
+- **2025–present · Blindmotion** — I co-organise inclusive physical activities for blind and visually impaired participants and develop training materials that help facilitators apply accessible teaching practices based on universal design principles. · [Denmark](/work/blindmotion/)
 
 - **2019–present · Freelance Visual Communication Consultant** — I develop visual identities, branded content, digital and print marketing assets, website materials and promotional campaigns for international clients, adapting content to different formats, briefs and communication channels. Projects include EkoBrisa and Morhaven Retreats. · Europe & Latin America
 
@@ -45,7 +45,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 ## Exhibitions & Artistic Projects
 {: #about-artistic-projects-title}
 
-- **2026 · Human Warmth** — Installation artist · Sculpture resembling an enlarged IV drip bag · [CARE LAB, GRASP Festival](/work/human-warmth/) · Copenhagen, Denmark
+- **2026 · Human Warmth** — Installation artist · Sculpture resembling an enlarged IV drip bag · [Care Lab, GRASP Festival](/work/human-warmth/) · Copenhagen, Denmark
 
 - **2026 · Rituals of Collective Descent** — Co-creator, performer, poetry reader & installation maker · [Xplore Festival](/work/xplore/) · Berlin, Germany
 
@@ -63,7 +63,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2021 · Clinical Fold** — Photo-performance artist & costume designer · [CePIA, Center for Production and Research in the Arts](/work/clinical-fold/) · Córdoba, Argentina
 
-- **2020–2021 · ALTAR: Women and LGBTI+ in the 21st Century · #LivesInStruggle** — Collaborating research artist & audiovisual content producer · [Centro Cultural Kirchner](/portfolio/altar-mujeres-sxxi/) · Buenos Aires, Argentina
+- **2020–2021 · Altar: Women and LGBTI+ in the 21st Century · #LivesInStruggle** — Collaborating research artist & audiovisual content producer · [Centro Cultural Kirchner](/portfolio/altar-mujeres-sxxi/) · Buenos Aires, Argentina
 
 - **2019 · They Do Not Save Lives nor Sustain the Soul** — Installation Artist · [Atmósfera Collective](/work/atmosfera/) · [Garín Space · Pepino Cultural House](/portfolio/no-salvan-la-vida/) · Córdoba, Argentina
 

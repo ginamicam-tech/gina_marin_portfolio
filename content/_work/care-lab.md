@@ -1,10 +1,10 @@
 ---
-card_label: CARE LAB
+card_label: GRASP Festival
 summary: Co-developed a participatory environment exploring care, healthcare and future technology.
-title: CARE LAB
+title: Care Lab
 permalink: "/work/care-lab/"
 order: 1
-name: CARE LAB
+name: Care Lab
 listing_context: GRASP Festival · Roskilde University · 2026
 context: GRASP Festival · Roskilde University · 2026
 role: Co-developer, installation designer & facilitator
@@ -16,20 +16,16 @@ cover:
 media:
 - type: image
   src: "/content/media/care-lab/prompt-cards.jpg"
-  alt: CARE LAB prompt cards inviting visitors to pause and reflect on care
-  caption: Printed prompts for reflection and participation
+  alt: Care Lab prompt cards inviting visitors to pause and reflect on care
 - type: image
   src: "/content/media/home/making.jpg"
-  alt: Hanging a printed sheet within the CARE LAB installation
-  caption: 'Visual system and installation: arranging printed elements'
+  alt: Hanging a printed sheet within the Care Lab installation
 - type: image
   src: "/content/media/home/care-space.jpg"
-  alt: CARE LAB worktable and suspended printed materials in the exhibition space
-  caption: 'Spatial system: worktable, printed materials and participation stations'
+  alt: Care Lab worktable and suspended printed materials in the exhibition space
 - type: image
   src: "/content/media/portfolio-additions/care-lab-printing.jpg"
-  alt: Gina working at a printing station in CARE LAB
-  caption: CARE LAB · Working at the printing station
+  alt: Gina working at a printing station in Care Lab
 type: project
 tags:
 - participation
@@ -43,7 +39,7 @@ sections:
   text: |-
     ## About the project
 
-    CARE LAB is a participatory environment exploring care, healthcare and future technology, developed for GRASP Festival in connection with Roskilde University. Visitors were invited to pause, notice what needed care, put observations into words and make prints that became part of a shared visual record.
+    Care Lab is a participatory environment exploring care, healthcare and future technology, developed for GRASP Festival in connection with Roskilde University. Visitors were invited to pause, notice what needed care, put observations into words and make prints that became part of a shared visual record.
 - layout: newspaper
   text: |-
     ## My part
@@ -53,12 +49,12 @@ sections:
   text: |-
     ## Related installation
 
-    I also made [Human Warmth](/work/human-warmth/), an installation presented as part of CARE LAB.
+    I also made [Human Warmth](/work/human-warmth/), an installation presented as part of Care Lab.
 - layout: newspaper
   text: |-
     ## Project link
 
-    [Project website **CARE LAB at GRASP Festival**](https://graspfestival.dk/en/program/art/care-lab)
+    [Project website **Care Lab at GRASP Festival**](https://graspfestival.dk/en/program/art/care-lab)
 question: How can artistic experimentation open conversations about care?
 documentation_sources:
 - document: portfolio_2026
@@ -74,6 +70,6 @@ credits:
 - role: Collaborating institutions
   name: Europa-Universität Flensburg, Roskilde University, regional hospitals and nursing schools, and participating students
 - role: Programme source
-  name: CARE LAB at GRASP
+  name: Care Lab at GRASP
   url: https://graspfestival.dk/en/program/art/care-lab
 ---

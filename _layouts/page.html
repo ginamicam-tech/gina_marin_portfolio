@@ -27,7 +27,7 @@ layout: default
   {% endif %}
   {% if page.media %}<div class="media-grid">{% for item in page.media %}{% include media.html item=item %}{% endfor %}</div>{% endif %}
   {% if page.featured_work %}
-    <div class="prose">{{ page.work_intro | markdownify }}</div>
+    <div class="prose">{% include markdown.html text=page.work_intro %}</div>
     {% include work-list.html selection=page.featured_work %}
     {% include sections.html sections=page.after_work_sections %}
     {% if page.work_areas %}{% include work-areas.html %}{% endif %}

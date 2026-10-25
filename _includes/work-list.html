@@ -28,14 +28,20 @@
     <article class="work-card" data-work-id="{{ entry.key | escape }}" data-work-tags="{{ entry.tags | jsonify | escape }}"{% if entry.filter_groups %} data-work-groups="{{ entry.filter_groups | jsonify | escape }}"{% endif %}>
       {% for anchor in entry.legacy_anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
       {% assign thumbnail_src = entry.thumbnail.src | default: entry.cover.src | default: '/content/media/placeholder.png' %}
-      <a class="work-thumbnail{% if entry.type == 'artwork' or entry.type == 'series' or entry.thumbnail.fit == 'contain' %} work-thumbnail--fit{% endif %}" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
-        <img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" decoding="async" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}">
+      {% assign thumbnail_zoom = entry.thumbnail.zoom %}
+      {% assign thumbnail_zoom_origin = entry.thumbnail.zoom_origin | default: '50% 50%' %}
+      {% if entry.type == 'series' and thumbnail_zoom == nil %}
+        {% assign thumbnail_zoom = entry.cover.zoom %}
+        {% assign thumbnail_zoom_origin = entry.cover.zoom_origin | default: '50% 50%' %}
+      {% endif %}
+      <a class="work-thumbnail" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" decoding="async" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}{% if thumbnail_zoom %}; transform: scale({{ thumbnail_zoom | escape }}); transform-origin: {{ thumbnail_zoom_origin | escape }}{% endif %}">
       </a>
       <div class="work-card-copy">
       <p class="work-card-context">
         {{ entry.card_label | escape }}{% if entry.type == 'series' %}{% assign series_id = entry.work_lists.first.series %}{% assign series_artworks = site.work | where: 'type', 'artwork' | where: 'series', series_id %} · {{ series_artworks.size }} artworks{% endif %}{% if selection.details and entry.type == 'artwork' %} · {{ entry.dimensions | escape }}{% endif %} · {% if entry.year_start and entry.year_start != entry.year %}{{ entry.year_start }}–{% endif %}{{ entry.year }}
       </p>
-      <h2><a href="{{ entry.url | relative_url }}">{{ entry.question | default: entry.title | escape }}</a></h2>
+      <h2><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h2>
       </div>
     </article>
     {% assign shown = shown | plus: 1 %}

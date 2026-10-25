@@ -2,7 +2,7 @@
 key: atmosfera
 title: Atmósfera Collective
 name: Atmósfera Collective
-card_label: Atmósfera Collective
+card_label: Collective art & live events
 type: project
 year: 2021
 question: How can artists make space for work together?
@@ -23,20 +23,18 @@ cover:
   type: image
   src: "/content/media/portfolio-additions/atmosfera-collective.png"
   alt: Four members of Atmósfera Collective together
-  caption: Atmósfera Collective
 media:
 - type: image
   src: "/content/media/portfolio-additions/cana-painting-materials.jpg"
   alt: An artist working with pots of coloured paint outdoors
-  caption: CANA festival · Shared painting process
+  caption: "CANA festival"
 - type: image
   src: "/content/media/portfolio-additions/cana-collective-mural.jpg"
   alt: Participants painting a wall together outdoors
-  caption: CANA festival · Collective mural
+  caption: "CANA festival"
 - type: image
   src: "/content/media/portfolio-additions/atmosfera-live-painting.jpg"
   alt: Live painting on upright panels under coloured lighting
-  caption: Atmósfera · Live painting and event collaboration
 sections:
 - layout: newspaper
   text: |-

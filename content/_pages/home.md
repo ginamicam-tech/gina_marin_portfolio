@@ -7,7 +7,8 @@ permalink: "/"
 work_areas: true
 featured_work:
   featured: true
-  sort: order
+  sort: year
+  reverse: true
 work_intro: |+
   ## [Featured work](/work/)
   {: #selected-work}

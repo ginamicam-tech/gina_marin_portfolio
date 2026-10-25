@@ -1,5 +1,5 @@
 ---
-card_label: Artwork series
+card_label: Colour & bodily form
 year_start: 2017
 title: Chromatic Body
 name: Chromatic Body

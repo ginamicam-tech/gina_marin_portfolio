@@ -19,8 +19,6 @@ role: Artist
 cover:
   src: "/content/media/thesis/in-plano-metamorfico-colour.jpg"
   alt: A coloured print combining faces, mechanical forms and wave-like lines
-thumbnail:
-  fit: contain
 media:
 - type: image
   src: "/content/media/thesis/in-plano-metamorfico-print.jpg"
@@ -45,7 +43,7 @@ sections:
   text: |-
     ## Part of the research
 
-    This project is documented as an earlier stage of the enquiry developed in [BODY.INTERFACE](/work/body-interface/).
+    This project is documented as an earlier stage of the enquiry developed in [Body.Interface](/work/body-interface/).
 - layout: newspaper
   text: |-
     ## Related pieces in the archive

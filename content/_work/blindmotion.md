@@ -1,9 +1,9 @@
 ---
-card_label: BLINDMOTION
-title: BLINDMOTION
+card_label: Inclusive sport & learning
+title: Blindmotion
 permalink: "/work/blindmotion/"
 order: 3
-name: BLINDMOTION
+name: Blindmotion
 listing_context: Inclusive physical activities · Denmark · 2025–present
 context: Inclusive physical activities · Denmark · 2025–present
 role: Inclusive activities, accessible learning & communication
@@ -12,7 +12,6 @@ back_url: "/work/"
 cover:
   src: "/content/media/blindmotion/kayaking-group.png"
   alt: Kayakers gathered on the water wearing orange Blind Kajak vests
-  caption: Blindmotion · Kayaking together
 media:
 - type: image
   src: "/content/media/blindmotion/kayaking-silkeborg.avif"
@@ -25,23 +24,18 @@ media:
 - type: image
   src: "/content/media/blindmotion/movement-session.avif"
   alt: Participants taking part in a group movement session indoors
-  caption: Group movement
 - type: image
   src: "/content/media/blindmotion/goalball.png"
   alt: A goalball player wearing eyeshades throwing a blue ball across an indoor court
-  caption: Goalball
 - type: image
   src: "/content/media/blindmotion/motorcycle-outing.avif"
   alt: A group gathered with motorcycles on a beach
-  caption: A shared outing
 - type: image
   src: "/content/media/blindmotion/community-awards.png"
   alt: A group holding framed grant certificates during a presentation
-  caption: Community and recognition
 - type: image
   src: "/content/media/blindmotion/portrait-sven.avif"
   alt: Smiling man in a checked shirt
-  caption: Portrait from the Blindmotion community
 type: project
 tags:
 - accessibility
@@ -56,7 +50,7 @@ sections:
   text: |-
     ## About the project
 
-    BLINDMOTION creates opportunities for blind and visually impaired participants to take part in physical activities in Denmark. Accessible teaching and clear programme information help participants, facilitators and partner organisations take part.
+    Blindmotion creates opportunities for blind and visually impaired participants to take part in physical activities in Denmark. Accessible teaching and clear programme information help participants, facilitators and partner organisations take part.
 - layout: newspaper
   text: |-
     ## My part
@@ -82,7 +76,7 @@ credits:
 - role: Inclusive activities, accessible learning and communication
   name: Gina Marín
 - role: Organisation
-  name: BLINDMOTION
+  name: Blindmotion
 - role: Silkeborg kayaking photographs
   name: Per Bille
 ---

@@ -2,7 +2,7 @@
 key: hop
 title: The Poetics of the Collective
 name: The Poetics of the Collective
-card_label: HOP
+card_label: House of Play
 type: project
 filter_groups:
 - art-research

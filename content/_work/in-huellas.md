@@ -2,7 +2,7 @@
 key: in-huellas
 title: IN_Huellas
 name: IN_Huellas
-card_label: Drawing & photoperformance
+card_label: Movement & drawing
 type: project
 year: 2019
 tags:
@@ -19,8 +19,6 @@ role: Artist
 cover:
   src: "/content/media/thesis/in-huellas-cover.jpg"
   alt: Layered drawings of feet and ankles on a dark ground
-thumbnail:
-  fit: contain
 media:
 - type: image
   src: "/content/media/thesis/in-huellas-drawing.jpg"
@@ -49,7 +47,7 @@ sections:
   text: |-
     ## Part of the research
 
-    This project is documented as an earlier stage of the enquiry developed in [BODY.INTERFACE](/work/body-interface/).
+    This project is documented as an earlier stage of the enquiry developed in [Body.Interface](/work/body-interface/).
 documentation_sources:
 - document: thesis
   pdf_pages: 20–21, 47

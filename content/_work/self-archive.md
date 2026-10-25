@@ -1,5 +1,5 @@
 ---
-card_label: Research study
+card_label: Migration & everyday life
 title: Self Archive
 name: Self Archive
 type: research
@@ -30,11 +30,9 @@ media:
 - type: image
   src: "/content/media/thesis/self-archive-sequence.jpg"
   alt: A horizontal sequence of overlapping self-portraits
-  caption: Daily self-portraits become a horizontal sequence through repetition and transparency.
 - type: image
   src: "/content/media/thesis/self-archive-frames.jpg"
   alt: Self-portraits framed and layered with light architectural forms
-  caption: Portrait, architecture and screen-like frames are brought together in the montage.
 sections:
 - layout: newspaper
   text: |-
@@ -52,7 +50,7 @@ sections:
   text: |-
     ## Part of the research
 
-    Alongside [Clinical Fold](/work/clinical-fold/), this work forms the centre of [BODY.INTERFACE](/work/body-interface/). The images also contribute to a living digital archive, where their relationships can continue to change.
+    Alongside [Clinical Fold](/work/clinical-fold/), this work forms the centre of [Body.Interface](/work/body-interface/). The images also contribute to a living digital archive, where their relationships can continue to change.
 documentation_sources:
 - document: thesis
   pdf_pages: 34–41

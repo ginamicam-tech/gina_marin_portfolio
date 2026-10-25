@@ -2,7 +2,7 @@
 key: in-resonancia-corporea
 title: IN_Resonancia Corpórea
 name: IN_Resonancia Corpórea
-card_label: Woodcut & colour printing
+card_label: Layered colour woodcuts
 type: project
 year: 2018
 tags:
@@ -19,8 +19,6 @@ role: Artist
 cover:
   src: "/content/media/thesis/in-resonancia-corporea-print.jpg"
   alt: Layered coloured woodcut of an outstretched figure inside an ellipse
-thumbnail:
-  fit: contain
 media:
 - type: image
   src: "/content/media/thesis/in-resonancia-corporea-blocks.jpg"
@@ -45,7 +43,7 @@ sections:
   text: |-
     ## Part of the research
 
-    This project is documented as an earlier stage of the enquiry developed in [BODY.INTERFACE](/work/body-interface/).
+    This project is documented as an earlier stage of the enquiry developed in [Body.Interface](/work/body-interface/).
 - layout: newspaper
   text: |-
     ## Related pieces in the archive

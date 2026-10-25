@@ -3,7 +3,6 @@ card_label: Xplore Festival
 cover:
   src: "/content/media/xplore/monster-red-light.jpg"
   alt: Interactive monster with a glowing circular face in the red-lit installation
-  caption: The interactive monster within the Xplore installation
 thumbnail:
   src: "/content/media/xplore/monster-detail.jpg"
   position: 50% 35%
@@ -11,11 +10,9 @@ media:
 - type: image
   src: "/content/media/xplore/monster-projections.jpg"
   alt: White projected lines crossing the monster’s translucent body and glowing red face
-  caption: The monster surrounded by projected patterns
 - type: image
   src: "/content/media/xplore/monster-detail.jpg"
   alt: The monster’s translucent body and colourful circular face under projected light
-  caption: Detail of the creature within the installation
 title: Rituals of Collective Descent
 permalink: "/work/xplore/"
 summary: An interactive monster made to greet visitors within the Xplore installation.

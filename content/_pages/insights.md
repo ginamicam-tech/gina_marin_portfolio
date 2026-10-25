@@ -11,7 +11,7 @@ media:
 sections:
 - layout: newspaper
   text: |-
-    ## BODY.INTERFACE
+    ## Body.Interface
 
     *IN/Pressions of a Body. Interface: Poetics, Clinical Practice, and Its Symbolic Activation in the Age of Liquid Architecture.*
 

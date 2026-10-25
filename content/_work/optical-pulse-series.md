@@ -1,5 +1,5 @@
 ---
-card_label: Artwork series
+card_label: Rhythm & perception
 year_start: 2018
 title: Optical Pulse
 name: Optical Pulse
@@ -14,8 +14,8 @@ featured: false
 order: 302
 permalink: "/work/optical-pulse-series/"
 cover:
-  src: "/content/media/artworks/chromatic-05.jpg"
-  alt: Kinetic Traces
+  src: "/content/media/artworks/chromatic-10.jpg"
+  alt: Kinetic Body
   zoom: 1.8
   zoom_origin: '45% 48%'
 listing_context: 2018–2024 · Artwork series

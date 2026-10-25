@@ -19,8 +19,6 @@ role: Artist
 cover:
   src: "/content/media/thesis/in-cavilaciones-book.jpg"
   alt: An open artist’s book with black and red graphic forms
-thumbnail:
-  fit: contain
 media:
 - type: image
   src: "/content/media/thesis/in-cavilaciones-pages.jpg"
@@ -45,7 +43,7 @@ sections:
   text: |-
     ## Part of the research
 
-    This project is documented as an earlier stage of the enquiry developed in [BODY.INTERFACE](/work/body-interface/).
+    This project is documented as an earlier stage of the enquiry developed in [Body.Interface](/work/body-interface/).
 documentation_sources:
 - document: thesis
   pdf_pages: 23–24, 49–50

@@ -1,9 +1,9 @@
 ---
-card_label: BODY.INTERFACE
-title: BODY.INTERFACE
+card_label: MA research · Córdoba
+title: Body.Interface
 permalink: "/work/body-interface/"
 order: 6
-name: BODY.INTERFACE
+name: Body.Interface
 listing_context: 2025 · MA research / Universidad Nacional de Córdoba
 context: Universidad Nacional de Córdoba · 2025 · MA research
 role: Artist & researcher

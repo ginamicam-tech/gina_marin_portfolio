@@ -1,4 +1,6 @@
-{% assign featured_work = site.work | where: 'featured', true | sort: 'order' %}
+{% assign featured_sort = page.featured_work.sort | default: 'year' %}
+{% assign featured_work = site.work | where: 'featured', true | sort: featured_sort %}
+{% if page.featured_work.reverse %}{% assign featured_work = featured_work | reverse %}{% endif %}
 {% if featured_work.size > 0 %}
 <section class="featured-carousel" aria-label="Featured projects" aria-roledescription="carousel" data-featured-carousel>
   <div class="featured-track" tabindex="0" aria-label="Featured projects. Use left and right arrow keys to browse.">

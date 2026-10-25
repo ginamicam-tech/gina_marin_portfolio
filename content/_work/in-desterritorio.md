@@ -2,7 +2,7 @@
 key: in-desterritorio
 title: IN_Desterritorio
 name: IN_Desterritorio
-card_label: Drawing & digital image
+card_label: Bodies in virtual space
 type: project
 year: 2019
 tags:
@@ -19,8 +19,6 @@ role: Artist
 cover:
   src: "/content/media/thesis/in-desterritorio-cover.jpg"
   alt: A seated figure emerging from dense black ink patterns
-thumbnail:
-  fit: contain
 media:
 - type: image
   src: "/content/media/thesis/in-desterritorio-landscape.jpg"
@@ -60,7 +58,7 @@ sections:
   text: |-
     ## Part of the research
 
-    This project is documented as an earlier stage of the enquiry developed in [BODY.INTERFACE](/work/body-interface/).
+    This project is documented as an earlier stage of the enquiry developed in [Body.Interface](/work/body-interface/).
 - layout: newspaper
   text: |-
     ## Related pieces in the archive

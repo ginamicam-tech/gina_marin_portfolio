@@ -1,5 +1,5 @@
 ---
-card_label: EMUN
+card_label: Electrical & lighting identity
 title: EMUN
 permalink: "/portfolio/emun/"
 order: 10
@@ -12,7 +12,6 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/emun-catalogue-cover.png"
   alt: EMUN catalogue cover using the yellow electrical symbol and blue wordmark
-  caption: Original design documentation.
 media:
 - type: image
   src: "/content/media/portfolio/emun-7.jpg"
@@ -29,15 +28,12 @@ media:
 - type: image
   src: "/content/media/portfolio/manuals/emun-05.jpg"
   alt: EMUN brand colour palette
-  caption: Colour system
 - type: image
   src: "/content/media/portfolio/manuals/emun-09.jpg"
   alt: EMUN primary logo and electrical lighting descriptor
-  caption: Primary identity
 - type: image
   src: "/content/media/portfolio/manuals/emun-20.jpg"
   alt: EMUN Instagram profile and story system
-  caption: Digital application
 type: project
 tags:
 - design

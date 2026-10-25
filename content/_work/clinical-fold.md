@@ -1,5 +1,5 @@
 ---
-card_label: Photoperformance
+card_label: Butoh photoperformance
 title: Clinical Fold
 name: Clinical Fold
 type: research
@@ -12,6 +12,8 @@ parent: body-interface
 featured: false
 order: 101
 permalink: "/work/clinical-fold/"
+thumbnail:
+  zoom: 1.15
 cover:
   src: "/content/media/thesis/clinical-fold-performance.jpg"
   alt: Gina Marín performing in a white plastic costume in a bathroom
@@ -53,7 +55,7 @@ sections:
   text: |-
     ## Part of the research
 
-    This work is one of the two central photoperformances in [BODY.INTERFACE](/work/body-interface/), alongside [Self Archive](/work/self-archive/).
+    This work is one of the two central photoperformances in [Body.Interface](/work/body-interface/), alongside [Self Archive](/work/self-archive/).
 documentation_sources:
 - document: thesis
   pdf_pages: 30–33, 39–41

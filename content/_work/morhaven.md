@@ -1,9 +1,9 @@
 ---
-card_label: MORHAVEN RETREATS
-title: MORHAVEN RETREATS
+card_label: Retreat brand identity
+title: Morhaven Retreats
 permalink: "/portfolio/morhaven/"
 order: 8
-name: MORHAVEN RETREATS
+name: Morhaven Retreats
 listing_context: 2024 / Cornwall
 context: Cornwall · 2024
 role: Brand identity · brand strategy · marketing direction
@@ -12,7 +12,6 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/morhaven-1.jpg"
   alt: Morhaven logo in concentric circles on a muted coastal blue field
-  caption: Original design documentation.
 media:
 - type: image
   src: "/content/media/portfolio/morhaven-1.jpg"
@@ -32,15 +31,12 @@ media:
 - type: image
   src: "/content/media/portfolio/manuals/morhaven-17.jpg"
   alt: Morhaven primary colour palette from the brand guidelines
-  caption: Colour system
 - type: image
   src: "/content/media/portfolio/manuals/morhaven-24.jpg"
   alt: Morhaven symbolic brand element library
-  caption: Brand elements
 - type: image
   src: "/content/media/portfolio/manuals/morhaven-33.jpg"
   alt: Morhaven social media story templates
-  caption: Digital applications
 - type: image
   src: "/content/media/portfolio-additions/morhaven-stationery-mockup.jpg"
   alt: Morhaven identity applied to stationery and printed cards

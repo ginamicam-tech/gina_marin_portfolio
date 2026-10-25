@@ -1,5 +1,5 @@
 ---
-card_label: Art installation
+card_label: GRASP Festival
 key: human-warmth
 title: Human Warmth
 name: Human Warmth
@@ -15,8 +15,8 @@ order: 16
 featured: true
 tags:
 - installation
-context: CARE LAB · GRASP Festival · October 2026
-listing_context: 2026 · Installation · CARE LAB, GRASP Festival
+context: Care Lab · GRASP Festival · October 2026
+listing_context: 2026 · Installation · Care Lab, GRASP Festival
 role: Artist
 cover:
   src: "/content/media/human-warmth/installation.jpg"
@@ -25,15 +25,12 @@ media:
 - type: image
   src: "/content/media/human-warmth/label.jpg"
   alt: Detail of the Human Warmth label on the transparent bag
-  caption: Human Warmth — Solution for Infusion
 - type: image
   src: "/content/media/human-warmth/exhibition.jpg"
   alt: Human Warmth on its stand beside exhibition panels
-  caption: The installation within CARE LAB
 - type: image
   src: "/content/media/human-warmth/visitor.jpg"
   alt: A visitor looking at the illuminated Human Warmth installation
-  caption: Human Warmth at GRASP Festival
 - type: image
   src: "/content/media/home/care-lab.jpg"
   alt: Human Warmth glowing red above a visitor in the exhibition space
@@ -42,7 +39,7 @@ sections:
   text: |-
     ## About the installation
 
-    Human Warmth is an installation I made for CARE LAB at GRASP Festival in 2026. A large transparent infusion bag hangs from a stand, with red light inside and a label reading “Human Warmth — Solution for Infusion”.
+    Human Warmth is an installation I made for Care Lab at GRASP Festival in 2026. A large transparent infusion bag hangs from a stand, with red light inside and a label reading “Human Warmth — Solution for Infusion”.
 
     The work borrows the visual authority of clinical equipment to consider what sustains us beyond a medical procedure. Its measured volume, dosage instructions and warnings describe something that cannot be contained in a bag: the attention and connection we offer one another.
 - layout: newspaper
@@ -60,9 +57,9 @@ sections:
 
 - layout: newspaper
   text: |-
-    ## Part of CARE LAB
+    ## Part of Care Lab
 
-    The installation was presented within [CARE LAB](/work/care-lab/), where I also co-created participation formats and stations for observing, labelling and printing.
+    The installation was presented within [Care Lab](/work/care-lab/), where I also co-created participation formats and stations for observing, labelling and printing.
 documentation_sources:
 - document: portfolio_2026
   slides:

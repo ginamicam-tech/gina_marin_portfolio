@@ -31,4 +31,6 @@ credits:
 - role: Artist
   name: Gina Marín
 ---
-Symmetry and repetition activate movement in perception.
+*Optical Pulse* investigates how repetition, symmetry, and the tension between line and surface generate a sense of movement. Developed through woodcut, painting, and illustration, the series approaches image-making as a material negotiation between gesture, resistance, and rhythm. Incision, colour, and drawn marks establish visual structures whose apparent stability shifts through sustained observation.
+
+Informed by my background in performance and movement, the project understands perception as an embodied process. The rhythm of making finds a correspondence in the viewer’s shifting attention, connecting the physical production of an image with its sensory experience. Within my broader research on bodily presence and mediation, the series examines how visual patterns organise perception while remaining open to ambiguity.

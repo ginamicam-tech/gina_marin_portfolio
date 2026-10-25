@@ -80,11 +80,6 @@
     "title": "How can artistic experimentation open conversations about care?"
   },
   {
-    "route": "/work/cepia/",
-    "file": "content/_work/cepia.md",
-    "title": "How can exhibition production support artistic research?"
-  },
-  {
     "route": "/work/enter-art-fair/",
     "file": "content/_work/enter-art-fair.md",
     "title": "How can practical coordination support an encounter with art?"

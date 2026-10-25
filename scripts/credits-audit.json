@@ -350,26 +350,6 @@
       "open_questions": []
     },
     {
-      "key": "cepia",
-      "file": "content/_work/cepia.md",
-      "url": "/work/cepia/",
-      "credit_display": "structured credits",
-      "evidence": [
-        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
-        {
-          "web_sources": [
-            "https://artes.unc.edu.ar/centros/cepia/"
-          ]
-        },
-        {
-          "embedded_metadata": [
-            "/content/media/portfolio/exhibitions/cepia-workshop-archive.jpg"
-          ]
-        }
-      ],
-      "open_questions": []
-    },
-    {
       "key": "chromatic-body-blue",
       "file": "content/_work/chromatic-body-blue.md",
       "url": "/work/chromatic-body-blue/",

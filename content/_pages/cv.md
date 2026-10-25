@@ -36,7 +36,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2019–2023 · Graphic Designer & Audiovisual Editor** — I designed digital and print assets and coordinated creative deliverables. · Zumma360
 
-- **2018–2023 · Exhibition Production & Art Handling** — I supported installation, spatial organisation and artwork handling within a university arts environment. · [Universidad Nacional de Córdoba · CePIA](/work/cepia/)
+- **2018–2023 · Exhibition Production & Art Handling** — I supported installation, spatial organisation and artwork handling within a university arts environment. · [Universidad Nacional de Córdoba · CePIA](https://artes.unc.edu.ar/centros/cepia/)
 
 - **2017–2023 · Video Artist & Visuals Designer** — I developed projections and audiovisual environments with artists, performers and technical teams. · Freelance · Cultural and performance projects
 

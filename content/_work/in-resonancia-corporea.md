@@ -1,7 +1,7 @@
 ---
 key: in-resonancia-corporea
-title: IN_Resonancia Corpórea
-name: IN_Resonancia Corpórea
+title: IN_Bodily Resonance
+name: IN_Bodily Resonance
 card_label: Layered colour woodcuts
 type: project
 year: 2018
@@ -23,11 +23,11 @@ media:
 - type: image
   src: "/content/media/thesis/in-resonancia-corporea-blocks.jpg"
   alt: Three carved wooden blocks used in the printmaking process
-  caption: IN_Resonancia Corpórea · Gina Marín · 2018
+  caption: IN_Bodily Resonance · Gina Marín · 2018
 - type: image
   src: "/content/media/thesis/in-resonancia-corporea-proof.jpg"
   alt: Black and white print with a central figure and radiating bands
-  caption: IN_Resonancia Corpórea · Gina Marín · 2018
+  caption: IN_Bodily Resonance · Gina Marín · 2018
 sections:
 - layout: newspaper
   text: |-

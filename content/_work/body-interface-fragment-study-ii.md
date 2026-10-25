@@ -24,4 +24,4 @@ legacy_anchors:
 key: body-interface-fragment-study-ii
 artist: Gina Marín
 ---
-This image is also documented within [IN_Desterritorio](/work/in-desterritorio/), where the thesis describes the project and its making process.
+This image is also documented within [IN_Deterritory](/work/in-desterritorio/), where the thesis describes the project and its making process.

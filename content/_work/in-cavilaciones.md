@@ -1,7 +1,7 @@
 ---
 key: in-cavilaciones
-title: IN_Cavilaciones
-name: IN_Cavilaciones
+title: IN_Reflections
+name: IN_Reflections
 card_label: Artist’s book
 type: project
 year: 2019
@@ -23,11 +23,11 @@ media:
 - type: image
   src: "/content/media/thesis/in-cavilaciones-pages.jpg"
   alt: Open book with layered paper and drawn lines
-  caption: IN_Cavilaciones · Gina Marín · 2019
+  caption: IN_Reflections · Gina Marín · 2019
 - type: image
   src: "/content/media/thesis/in-cavilaciones-digital.jpg"
   alt: A digitally edited book spread in purple, black and red
-  caption: IN_Cavilaciones · Gina Marín · 2019
+  caption: IN_Reflections · Gina Marín · 2019
 sections:
 - layout: newspaper
   text: |-

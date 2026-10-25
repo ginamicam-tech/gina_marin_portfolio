@@ -16,8 +16,9 @@ permalink: "/work/body-interface-series/"
 cover:
   src: "/content/media/artworks/graphic-12.jpg"
   alt: Flowing Systems I
+  position: '50% 30%'
   zoom: 1.8
-  zoom_origin: '45% 50%'
+  zoom_origin: '45% 40%'
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork

@@ -24,4 +24,4 @@ legacy_anchors:
 key: body-interface-interface-mind-ii
 artist: Gina Marín
 ---
-This image is also documented within [IN_Plano Metamórfico](/work/in-plano-metamorfico/), where the thesis describes the project and its making process.
+This image is also documented within [IN_Metamorphic Plane](/work/in-plano-metamorfico/), where the thesis describes the project and its making process.

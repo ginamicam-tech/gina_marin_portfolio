@@ -1,9 +1,9 @@
 ---
 card_label: Exhibition proposal
-title: Traza at El Gran Vidrio
+title: Trace at The Great Glass
 permalink: "/portfolio/traza-el-gran-vidrio/"
 order: 12
-name: Traza at El Gran Vidrio
+name: Trace at The Great Glass
 listing_context: 2020 · Exhibition proposal / Fundación El Gran Vidrio · Córdoba, Argentina
 context: Fundación El Gran Vidrio · Córdoba, Argentina · 2020 · Exhibition proposal
 role: Project Lead · Art Direction · Communication

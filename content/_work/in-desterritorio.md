@@ -1,7 +1,7 @@
 ---
 key: in-desterritorio
-title: IN_Desterritorio
-name: IN_Desterritorio
+title: IN_Deterritory
+name: IN_Deterritory
 card_label: Bodies in virtual space
 type: project
 year: 2019
@@ -23,15 +23,15 @@ media:
 - type: image
   src: "/content/media/thesis/in-desterritorio-landscape.jpg"
   alt: Black and red ink forms across a white field
-  caption: IN_Desterritorio · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marín · 2019
 - type: image
   src: "/content/media/thesis/in-desterritorio-face.jpg"
   alt: A face suggested by small repeated ink marks
-  caption: IN_Desterritorio · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marín · 2019
 - type: image
   src: "/content/media/thesis/in-desterritorio-fragment.jpg"
   alt: An irregular field of ink surrounding a dark central shape
-  caption: IN_Desterritorio · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marín · 2019
 - type: image
   src: "/content/media/portfolio-additions/oscillating-dialectics-programme.png"
   alt: Exhibition programme with curatorial text, artwork images and a list of exhibitors including Gina Marin
@@ -53,7 +53,7 @@ sections:
 
     The drawings were also presented in *Oscillating Dialectics* at Avellaneda Café in Córdoba, listed in my CV in 2019. The programme brings together the exhibition’s curatorial text and participating artists. This places the individual drawing practice within a shared exhibition context.
 
-    [Explore Atmósfera Collective](/work/atmosfera/)
+    [Explore Atmosphere Collective](/work/atmosfera/)
 - layout: newspaper
   text: |-
     ## Part of the research

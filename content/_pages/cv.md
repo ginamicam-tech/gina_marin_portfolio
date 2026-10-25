@@ -65,7 +65,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2020–2021 · Altar: Women and LGBTI+ in the 21st Century · #LivesInStruggle** — Collaborating research artist & audiovisual content producer · [Centro Cultural Kirchner](/portfolio/altar-mujeres-sxxi/) · Buenos Aires, Argentina
 
-- **2019 · They Do Not Save Lives nor Sustain the Soul** — Installation Artist · [Atmósfera Collective](/work/atmosfera/) · [Garín Space · Pepino Cultural House](/portfolio/no-salvan-la-vida/) · Córdoba, Argentina
+- **2019 · They Do Not Save Life, Nor Sustain the Soul** — Installation Artist · [Atmosphere Collective](/work/atmosfera/) · [Garín Space · Pepino Cultural House](/portfolio/no-salvan-la-vida/) · Córdoba, Argentina
 
 - **2019 · [Oscillating Dialectics](/work/in-desterritorio/)** — Visual Arts Exhibition · Avellaneda Café · Córdoba, Argentina
 

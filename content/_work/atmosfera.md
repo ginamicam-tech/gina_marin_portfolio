@@ -1,7 +1,7 @@
 ---
 key: atmosfera
-title: Atmósfera Collective
-name: Atmósfera Collective
+title: Atmosphere Collective
+name: Atmosphere Collective
 card_label: Collective art & live events
 type: project
 year: 2021
@@ -22,7 +22,7 @@ featured: false
 cover:
   type: image
   src: "/content/media/portfolio-additions/atmosfera-collective.png"
-  alt: Four members of Atmósfera Collective together
+  alt: Four members of Atmosphere Collective together
 media:
 - type: image
   src: "/content/media/portfolio-additions/cana-painting-materials.jpg"
@@ -40,12 +40,12 @@ sections:
   text: |-
     ## About the collective
 
-    Atmósfera was an artist-led collective in Córdoba. We brought individual practices together through exhibitions, performances and live painting, sharing the practical work of preparing spaces, coordinating with others and communicating events.
+    Atmosphere was an artist-led collective in Córdoba. We brought individual practices together through exhibitions, performances and live painting, sharing the practical work of preparing spaces, coordinating with others and communicating events.
 - layout: newspaper
   text: |-
     ## My part
 
-    I contributed as an artist and collaborator, connecting making with the preparation of collective projects. This included installation work for [No Salvan la Vida, ni Sustentan el Alma](/portfolio/no-salvan-la-vida/) and performance at [Modus Androginus](/work/modus-androginus/).
+    I contributed as an artist and collaborator, connecting making with the preparation of collective projects. This included installation work for [They Do Not Save Life, Nor Sustain the Soul](/portfolio/no-salvan-la-vida/) and performance at [Modus Androginus](/work/modus-androginus/).
 - layout: newspaper
   text: |-
     ## Painting together
@@ -57,7 +57,7 @@ sections:
   text: |-
     ## Connected work
 
-    [No Salvan la Vida, ni Sustentan el Alma](/portfolio/no-salvan-la-vida/) · [Modus Androginus](/work/modus-androginus/) · [IN_Desterritorio and Oscillating Dialectics](/work/in-desterritorio/)
+    [They Do Not Save Life, Nor Sustain the Soul](/portfolio/no-salvan-la-vida/) · [Modus Androginus](/work/modus-androginus/) · [IN_Deterritory and Oscillating Dialectics](/work/in-desterritorio/)
 
     The images document collective activities and include contributions by other artists.
 year_start: 2018

@@ -1,7 +1,7 @@
 ---
 key: in-plano-metamorfico
-title: IN_Plano Metamórfico
-name: IN_Plano Metamórfico
+title: IN_Metamorphic Plane
+name: IN_Metamorphic Plane
 card_label: Etching & aquatint
 type: project
 year: 2018
@@ -23,11 +23,11 @@ media:
 - type: image
   src: "/content/media/thesis/in-plano-metamorfico-print.jpg"
   alt: Black and white print of a hybrid body and mechanical structures
-  caption: IN_Plano Metamórfico · Gina Marín · 2018
+  caption: IN_Metamorphic Plane · Gina Marín · 2018
 - type: image
   src: "/content/media/thesis/in-plano-metamorfico-detail.jpg"
   alt: A dark printed face emerging from textured marks
-  caption: IN_Plano Metamórfico · Gina Marín · 2018
+  caption: IN_Metamorphic Plane · Gina Marín · 2018
 sections:
 - layout: newspaper
   text: |-

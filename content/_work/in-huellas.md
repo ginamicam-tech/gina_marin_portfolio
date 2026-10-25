@@ -1,7 +1,7 @@
 ---
 key: in-huellas
-title: IN_Huellas
-name: IN_Huellas
+title: IN_Footprints
+name: IN_Footprints
 card_label: Movement & drawing
 type: project
 year: 2019
@@ -23,15 +23,15 @@ media:
 - type: image
   src: "/content/media/thesis/in-huellas-drawing.jpg"
   alt: Drawings of feet and weighted steps
-  caption: IN_Huellas · Gina Marín · 2019
+  caption: IN_Footprints · Gina Marín · 2019
 - type: image
   src: "/content/media/thesis/in-huellas-sequence.jpg"
   alt: Repeated studies of feet in movement
-  caption: IN_Huellas · Gina Marín · 2019
+  caption: IN_Footprints · Gina Marín · 2019
 - type: image
   src: "/content/media/thesis/in-huellas-red.jpg"
   alt: Red and black graphic variations of feet and rope
-  caption: IN_Huellas · Gina Marín · 2019
+  caption: IN_Footprints · Gina Marín · 2019
 sections:
 - layout: newspaper
   text: |-

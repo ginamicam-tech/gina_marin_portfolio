@@ -37,15 +37,15 @@ sections:
   text: |-
     ## My part
 
-    I took part as a performance artist within [Atmósfera Collective](/work/atmosfera/). Our contribution combined visual production with live performance. The photographs document the collective work and its making.
-summary: Performance within Atmósfera Collective, bringing live painting and visual art into a runway setting.
+    I took part as a performance artist within [Atmosphere Collective](/work/atmosfera/). Our contribution combined visual production with live performance. The photographs document the collective work and its making.
+summary: Performance within Atmosphere Collective, bringing live painting and visual art into a runway setting.
 documentation_sources:
 - document: portfolio_2026
   slides:
   - 17
 credits:
 - role: Performance contribution
-  name: Gina Marín with Atmósfera Collective
+  name: Gina Marín with Atmosphere Collective
 - role: Venue
   name: Studio Teatro, Córdoba
 ---

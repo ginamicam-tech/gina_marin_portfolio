@@ -1,12 +1,12 @@
 ---
 card_label: Casa de Pepino
-title: No Salvan la Vida, ni Sustentan el Alma
+title: They Do Not Save Life, Nor Sustain the Soul
 permalink: "/portfolio/no-salvan-la-vida/"
 order: 13
-name: No Salvan la Vida, ni Sustentan el Alma
+name: They Do Not Save Life, Nor Sustain the Soul
 listing_context: 2019 / Garín Space · Córdoba, Argentina
 context: Garín Space · Córdoba, Argentina · 2019
-role: Installation artist · Atmósfera Collective
+role: Installation artist · Atmosphere Collective
 back_label: "← Work"
 back_url: "/work/"
 cover:
@@ -68,7 +68,7 @@ media:
   alt: Hands opening an artist book containing a colour study and printed body fragments
 - type: image
   src: "/content/media/portfolio/exhibitions/no-salvan-exhibition-text.jpg"
-  alt: Wall text introducing the collective exhibition No salvan la vida, ni sustentan el alma
+  alt: Wall text introducing the collective exhibition They Do Not Save Life, Nor Sustain the Soul
 - type: image
   src: "/content/media/portfolio/exhibitions/no-salvan-live-music.jpg"
   alt: Musician playing saxophone during the exhibition programme
@@ -106,12 +106,12 @@ sections:
   text: |-
     ## About the project
 
-    *No Salvan la Vida, ni Sustentan el Alma* brought together Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
+    *They Do Not Save Life, Nor Sustain the Soul* brought together Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
 - layout: newspaper
   text: |-
     ## My part
 
-    I contributed as an installation artist within [Atmósfera Collective](/work/atmosfera/). We brought our individual practices into a shared space, working with the relationships between materials, light and the people moving through the exhibition.
+    I contributed as an installation artist within [Atmosphere Collective](/work/atmosfera/). We brought our individual practices into a shared space, working with the relationships between materials, light and the people moving through the exhibition.
 - layout: newspaper
   text: "## Credits and documentation\n\n**Participating artists:** Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina
     Marín.  \n**Presentation:** Espacio Garín at Centro Cultural Municipal Casa de Pepino.  \n**Opening music:** Gluko Lin.\n\nThe

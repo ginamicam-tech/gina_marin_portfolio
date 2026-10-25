@@ -14,9 +14,10 @@ featured: false
 order: 300
 permalink: "/work/body-interface-series/"
 cover:
-  src: "/content/media/artworks/graphic-01.jpg"
-  alt: Signal Fragment I
-  zoom: 1.7
+  src: "/content/media/artworks/graphic-12.jpg"
+  alt: Flowing Systems I
+  zoom: 1.8
+  zoom_origin: '45% 50%'
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork

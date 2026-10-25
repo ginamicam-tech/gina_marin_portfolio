@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Kinetic Body
 name: Kinetic Body
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-3-details
 - gallery-optical-pulse-artworks-artwork-3-title
 key: optical-pulse-kinetic-body
+artist: Gina Marín
 ---
-
-

@@ -1,0 +1,938 @@
+{
+  "reviewed_on": "2026-10-25",
+  "scope": {
+    "work_records": 63,
+    "distinct_images_inspected_for_embedded_attribution": 201
+  },
+  "policy": [
+    "Credit artwork authors separately from photographers and editors.",
+    "Retain CV wording and dates, as requested.",
+    "Do not infer sole authorship from participation in a collective.",
+    "Do not infer photography credit from image possession, a camera model or a related event image.",
+    "User requested no photographer credits for their supplied CARE LAB, Human Warmth, Xplore and Illutron images.",
+    "User explicitly identified Jacob Stage as the photographer for The Poetics of the Collective.",
+    "Unknown names are recorded here rather than guessed or displayed as placeholder credits."
+  ],
+  "metadata_evidence": [
+    {
+      "path": "/content/media/portfolio/exhibitions/cepia-workshop-archive.jpg",
+      "artist": "NICO AGUILERA",
+      "copyright": "NICO AGUILERA",
+      "iptc_byline": "NICO AGUILERA",
+      "iptc_copyright": "NICO AGUILERA",
+      "xmp_creator": "NICO AGUILERA",
+      "xmp_rights": "NICO AGUILERA"
+    },
+    {
+      "path": "/content/media/portfolio/work/enter-art-fair-gallery-01.jpg",
+      "artist": "_photoJulieNymann",
+      "iptc_byline": "_photoJulieNymann",
+      "xmp_creator": "_photoJulieNymann"
+    },
+    {
+      "path": "/content/media/portfolio/work/enter-art-fair-gallery-03.jpg",
+      "artist": "_PhotoFridaGregersen",
+      "iptc_byline": "_PhotoFridaGregersen",
+      "xmp_creator": "_PhotoFridaGregersen"
+    }
+  ],
+  "records": [
+    {
+      "key": "alta-gracia",
+      "file": "content/_work/alta-gracia.md",
+      "url": "/portfolio/alta-gracia/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "altar-mujeres-sxxi",
+      "file": "content/_work/altar-mujeres-sxxi.md",
+      "url": "/portfolio/altar-mujeres-sxxi/",
+      "credit_display": "existing credit section",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://altarmujeressxxi.wordpress.com/eventos-y-convocatorias/"
+          ]
+        }
+      ],
+      "open_questions": [
+        "Image-by-image photography and historical archive sources. Existing artist roster retained; public source confirms direction and curatorship, but roster varies by edition."
+      ]
+    },
+    {
+      "key": "atmosfera",
+      "file": "content/_work/atmosfera.md",
+      "url": "/work/atmosfera/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                13,
+                14,
+                16,
+                17,
+                19,
+                22
+              ]
+            }
+          ]
+        }
+      ],
+      "open_questions": [
+        "Individual photographers and videographers for collective event documentation; the deck does not identify them."
+      ]
+    },
+    {
+      "key": "blindmotion",
+      "file": "content/_work/blindmotion.md",
+      "url": "/work/blindmotion/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                9,
+                10,
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        "Two supplied original filenames explicitly include Fotograf-Per-Bille: DSC05983 and DSC06936."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-body-interface",
+      "file": "content/_work/body-interface-body-interface.md",
+      "url": "/work/body-interface-body-interface/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-breath-flow-ii",
+      "file": "content/_work/body-interface-breath-flow-ii.md",
+      "url": "/work/body-interface-breath-flow-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-flowing-figure-i",
+      "file": "content/_work/body-interface-flowing-figure-i.md",
+      "url": "/work/body-interface-flowing-figure-i/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-flowing-study",
+      "file": "content/_work/body-interface-flowing-study.md",
+      "url": "/work/body-interface-flowing-study/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-flowing-systems-i",
+      "file": "content/_work/body-interface-flowing-systems-i.md",
+      "url": "/work/body-interface-flowing-systems-i/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-flowing-systems-ii",
+      "file": "content/_work/body-interface-flowing-systems-ii.md",
+      "url": "/work/body-interface-flowing-systems-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-fragment-study-i",
+      "file": "content/_work/body-interface-fragment-study-i.md",
+      "url": "/work/body-interface-fragment-study-i/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-fragment-study-ii",
+      "file": "content/_work/body-interface-fragment-study-ii.md",
+      "url": "/work/body-interface-fragment-study-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-interface-fragments",
+      "file": "content/_work/body-interface-interface-fragments.md",
+      "url": "/work/body-interface-interface-fragments/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-interface-mind-i",
+      "file": "content/_work/body-interface-interface-mind-i.md",
+      "url": "/work/body-interface-interface-mind-i/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-interface-mind-ii",
+      "file": "content/_work/body-interface-interface-mind-ii.md",
+      "url": "/work/body-interface-interface-mind-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-kinetic-body-study",
+      "file": "content/_work/body-interface-kinetic-body-study.md",
+      "url": "/work/body-interface-kinetic-body-study/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-kinetic-landscape",
+      "file": "content/_work/body-interface-kinetic-landscape.md",
+      "url": "/work/body-interface-kinetic-landscape/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-portrait-fragment",
+      "file": "content/_work/body-interface-portrait-fragment.md",
+      "url": "/work/body-interface-portrait-fragment/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-relational-study",
+      "file": "content/_work/body-interface-relational-study.md",
+      "url": "/work/body-interface-relational-study/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-series",
+      "file": "content/_work/body-interface-series.md",
+      "url": "/work/body-interface-series/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-signal-fragment-i",
+      "file": "content/_work/body-interface-signal-fragment-i.md",
+      "url": "/work/body-interface-signal-fragment-i/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-signal-fragment-ii",
+      "file": "content/_work/body-interface-signal-fragment-ii.md",
+      "url": "/work/body-interface-signal-fragment-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface-signal-fragment-iii",
+      "file": "content/_work/body-interface-signal-fragment-iii.md",
+      "url": "/work/body-interface-signal-fragment-iii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "body-interface",
+      "file": "content/_work/body-interface.md",
+      "url": "/work/body-interface/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "1, 5–11, 20–45"
+            },
+            {
+              "document": "presentation",
+              "pdf_pages": "2–8, 11–26"
+            }
+          ]
+        },
+        {
+          "web_sources": [
+            "https://www.are.na/body_interface-archive-across-body-space-systems"
+          ]
+        },
+        "Thesis title page: adviser Carolina Romano. Clinical Fold chapter: photography by Florencia Aravena; title-slide montage uses that performance imagery."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "care-lab",
+      "file": "content/_work/care-lab.md",
+      "url": "/work/care-lab/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "web_sources": [
+            "https://graspfestival.dk/en/program/art/care-lab"
+          ]
+        },
+        "User requested no photographer attribution for supplied images."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "cepia",
+      "file": "content/_work/cepia.md",
+      "url": "/work/cepia/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://artes.unc.edu.ar/centros/cepia/"
+          ]
+        },
+        {
+          "embedded_metadata": [
+            "/content/media/portfolio/exhibitions/cepia-workshop-archive.jpg"
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-blue",
+      "file": "content/_work/chromatic-body-blue.md",
+      "url": "/work/chromatic-body-blue/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-breath-flow-ii",
+      "file": "content/_work/chromatic-body-breath-flow-ii.md",
+      "url": "/work/chromatic-body-breath-flow-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-breath-flow-iii",
+      "file": "content/_work/chromatic-body-breath-flow-iii.md",
+      "url": "/work/chromatic-body-breath-flow-iii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-feet-study",
+      "file": "content/_work/chromatic-body-feet-study.md",
+      "url": "/work/chromatic-body-feet-study/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-figure-study",
+      "file": "content/_work/chromatic-body-figure-study.md",
+      "url": "/work/chromatic-body-figure-study/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-fluid-city",
+      "file": "content/_work/chromatic-body-fluid-city.md",
+      "url": "/work/chromatic-body-fluid-city/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-gaze",
+      "file": "content/_work/chromatic-body-gaze.md",
+      "url": "/work/chromatic-body-gaze/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-inner-mirror",
+      "file": "content/_work/chromatic-body-inner-mirror.md",
+      "url": "/work/chromatic-body-inner-mirror/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-series",
+      "file": "content/_work/chromatic-body-series.md",
+      "url": "/work/chromatic-body-series/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-study-of-forms",
+      "file": "content/_work/chromatic-body-study-of-forms.md",
+      "url": "/work/chromatic-body-study-of-forms/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "chromatic-body-walker",
+      "file": "content/_work/chromatic-body-walker.md",
+      "url": "/work/chromatic-body-walker/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "clinical-fold",
+      "file": "content/_work/clinical-fold.md",
+      "url": "/work/clinical-fold/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "30–33, 39–41"
+            },
+            {
+              "document": "presentation",
+              "pdf_pages": "14–15"
+            }
+          ]
+        },
+        {
+          "web_sources": [
+            "https://www.are.na/body_interface-archive-across-body-space-systems"
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "emun",
+      "file": "content/_work/emun.md",
+      "url": "/portfolio/emun/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship."
+      ],
+      "open_questions": [
+        "Third-party photography or mockup-template creators, if any; supplied portfolio does not identify them. Design credit is not a photography credit."
+      ]
+    },
+    {
+      "key": "enter-art-fair",
+      "file": "content/_work/enter-art-fair.md",
+      "url": "/work/enter-art-fair/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://www.enterartfair.com/press/"
+          ]
+        },
+        {
+          "embedded_metadata": [
+            "/content/media/portfolio/work/enter-art-fair-gallery-01.jpg",
+            "/content/media/portfolio/work/enter-art-fair-gallery-03.jpg"
+          ]
+        },
+        "EXIF/XMP dates identify all three gallery photos as August 2024. Kept Gina’s CV role in 2026 and labelled these as context images."
+      ],
+      "open_questions": [
+        {
+          "asset": "/content/media/portfolio/work/enter-art-fair-gallery-02.jpg",
+          "missing": "Photographer. No creator credit in EXIF/IPTC/XMP; do not apply neighbouring image credits."
+        }
+      ]
+    },
+    {
+      "key": "hop",
+      "file": "content/_work/hop.md",
+      "url": "/work/hop/",
+      "credit_display": "existing credit section",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://www.houseofplay.dk/special-events/the-poetics-of-the-collective"
+          ]
+        },
+        "User confirmation on 2026-10-25: photographer Jacob Stage, covering the header photograph and its reuse in the supplied poster."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "human-warmth",
+      "file": "content/_work/human-warmth.md",
+      "url": "/work/human-warmth/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                25,
+                26
+              ]
+            }
+          ]
+        },
+        "User requested no photographer attribution for supplied images."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "illutron",
+      "file": "content/_work/illutron.md",
+      "url": "/work/illutron/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://www.instagram.com/illutroncph/"
+          ]
+        },
+        "User requested no photographer attribution for supplied images."
+      ],
+      "open_questions": [
+        "Photographer of the older nighttime barge header; no embedded creator credit. Supplied campaign photos excluded from follow-up per user preference."
+      ]
+    },
+    {
+      "key": "in-cavilaciones",
+      "file": "content/_work/in-cavilaciones.md",
+      "url": "/work/in-cavilaciones/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "23–24, 49–50"
+            }
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "in-desterritorio",
+      "file": "content/_work/in-desterritorio.md",
+      "url": "/work/in-desterritorio/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "21–22, 48"
+            },
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                20
+              ]
+            }
+          ]
+        }
+      ],
+      "open_questions": [
+        "Programme designer and other exhibitors’ image credits in the Oscillating Dialectics programme; source artwork has names but no verified reproduction credits."
+      ]
+    },
+    {
+      "key": "in-huellas",
+      "file": "content/_work/in-huellas.md",
+      "url": "/work/in-huellas/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "20–21, 47"
+            }
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "in-plano-metamorfico",
+      "file": "content/_work/in-plano-metamorfico.md",
+      "url": "/work/in-plano-metamorfico/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "24–25, 51"
+            }
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "in-resonancia-corporea",
+      "file": "content/_work/in-resonancia-corporea.md",
+      "url": "/work/in-resonancia-corporea/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "25–26, 51–52"
+            }
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "modus-androginus",
+      "file": "content/_work/modus-androginus.md",
+      "url": "/work/modus-androginus/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                17
+              ]
+            }
+          ]
+        }
+      ],
+      "open_questions": [
+        "Individual photographers and videographers for collective event documentation; the deck does not identify them."
+      ]
+    },
+    {
+      "key": "morhaven",
+      "file": "content/_work/morhaven.md",
+      "url": "/portfolio/morhaven/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                34
+              ]
+            }
+          ]
+        }
+      ],
+      "open_questions": [
+        "Third-party photography or mockup-template creators, if any; supplied portfolio does not identify them. Design credit is not a photography credit."
+      ]
+    },
+    {
+      "key": "no-salvan-la-vida",
+      "file": "content/_work/no-salvan-la-vida.md",
+      "url": "/portfolio/no-salvan-la-vida/",
+      "credit_display": "existing credit section",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://hoydia.com.ar/negocios-y-empresas/61370-espacio-garin-inaugura-hoy-la-muestra-no-salvan-la-vida-ni-sustentan-el-alma/"
+          ]
+        }
+      ],
+      "open_questions": [
+        "Individual photographers and videographers for collective event documentation; the deck does not identify them."
+      ]
+    },
+    {
+      "key": "optical-pulse-kinetic-body-ii",
+      "file": "content/_work/optical-pulse-kinetic-body-ii.md",
+      "url": "/work/optical-pulse-kinetic-body-ii/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "optical-pulse-kinetic-body",
+      "file": "content/_work/optical-pulse-kinetic-body.md",
+      "url": "/work/optical-pulse-kinetic-body/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "optical-pulse-kinetic-pulse",
+      "file": "content/_work/optical-pulse-kinetic-pulse.md",
+      "url": "/work/optical-pulse-kinetic-pulse/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "optical-pulse-kinetic-symmetry",
+      "file": "content/_work/optical-pulse-kinetic-symmetry.md",
+      "url": "/work/optical-pulse-kinetic-symmetry/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "optical-pulse-kinetic-traces",
+      "file": "content/_work/optical-pulse-kinetic-traces.md",
+      "url": "/work/optical-pulse-kinetic-traces/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "optical-pulse-sea-of-strings",
+      "file": "content/_work/optical-pulse-sea-of-strings.md",
+      "url": "/work/optical-pulse-sea-of-strings/",
+      "credit_display": "artist metadata",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "optical-pulse-series",
+      "file": "content/_work/optical-pulse-series.md",
+      "url": "/work/optical-pulse-series/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Existing Gina Marín artwork catalogue; artist attribution only, not photography."
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "self-archive",
+      "file": "content/_work/self-archive.md",
+      "url": "/work/self-archive/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "thesis",
+              "pdf_pages": "34–41"
+            },
+            {
+              "document": "presentation",
+              "pdf_pages": "16–18"
+            }
+          ]
+        },
+        {
+          "web_sources": [
+            "https://www.are.na/body_interface-archive-across-body-space-systems"
+          ]
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "key": "techno-piling",
+      "file": "content/_work/techno-piling.md",
+      "url": "/portfolio/techno-piling/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "local_documents": [
+            {
+              "document": "portfolio_2026",
+              "slides": [
+                43
+              ]
+            }
+          ]
+        }
+      ],
+      "open_questions": [
+        "Third-party photography or mockup-template creators, if any; supplied portfolio does not identify them. Design credit is not a photography credit."
+      ]
+    },
+    {
+      "key": "traza-el-gran-vidrio",
+      "file": "content/_work/traza-el-gran-vidrio.md",
+      "url": "/portfolio/traza-el-gran-vidrio/",
+      "credit_display": "existing credit section",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship."
+      ],
+      "open_questions": [
+        "Photographers/reproduction sources for referenced artworks and Ojo de Cabra venue photo. Artist names remain visible per image; no blanket photo credit."
+      ]
+    },
+    {
+      "key": "trifolium-impact-festival",
+      "file": "content/_work/trifolium-impact-festival.md",
+      "url": "/work/trifolium-impact-festival/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://www.trifolium-impactfestival.com/"
+          ]
+        }
+      ],
+      "open_questions": [
+        "Photographer of festival image and designer of programme graphic; no embedded attribution found."
+      ]
+    },
+    {
+      "key": "xplore",
+      "file": "content/_work/xplore.md",
+      "url": "/work/xplore/",
+      "credit_display": "structured credits",
+      "evidence": [
+        "Supplied CV, existing portfolio content and user corrections for Gina’s contribution; no expanded claim of authorship.",
+        {
+          "web_sources": [
+            "https://xplore-berlin.de/rituals-of-collective-descent/"
+          ]
+        },
+        "User requested no photographer attribution for supplied images."
+      ],
+      "open_questions": []
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Kinetic Symmetry
 name: Kinetic Symmetry
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-2-details
 - gallery-optical-pulse-artworks-artwork-2-title
 key: optical-pulse-kinetic-symmetry
+artist: Gina Marín
 ---
-
-

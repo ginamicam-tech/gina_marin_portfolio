@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Portrait Fragment
 name: Portrait Fragment
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-4-details
 - gallery-body-interface-artworks-artwork-4-title
 key: body-interface-portrait-fragment
+artist: Gina Marín
 ---
-
-

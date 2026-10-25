@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Kinetic Landscape
 name: Kinetic Landscape
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-10-details
 - gallery-body-interface-artworks-artwork-10-title
 key: body-interface-kinetic-landscape
+artist: Gina Marín
 ---
-
-

@@ -75,11 +75,6 @@
     "title": "Cuerpo.Interfaz"
   },
   {
-    "route": "/services/",
-    "file": "content/_pages/services.md",
-    "title": "From a shared idea to work in the world."
-  },
-  {
     "route": "/work/blindmotion/",
     "file": "content/_work/blindmotion.md",
     "title": "How can inclusive educational opportunities become easier to discover and join?"

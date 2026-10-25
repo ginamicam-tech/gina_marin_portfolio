@@ -1,0 +1,12 @@
+<section class="work-areas" aria-labelledby="work-areas-title">
+  <h2 id="work-areas-title">How I work</h2>
+  <div class="work-grid">
+    {% for area in site.data.work_filters %}
+    {% assign area_url = '/work/' | relative_url | append: '?filter=' | append: area.id | append: '#work-filters' %}
+    <article class="work-card">
+      <h3><a href="{{ area_url }}">{{ area.label | escape }}</a></h3>
+      <p>{{ area.summary | escape }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>

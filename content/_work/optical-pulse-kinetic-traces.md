@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Kinetic Traces
 name: Kinetic Traces
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-1-details
 - gallery-optical-pulse-artworks-artwork-1-title
 key: optical-pulse-kinetic-traces
+artist: Gina Marín
 ---
-
-

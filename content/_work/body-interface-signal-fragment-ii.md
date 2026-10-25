@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Signal Fragment II
 name: Signal Fragment II
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-5-details
 - gallery-body-interface-artworks-artwork-5-title
 key: body-interface-signal-fragment-ii
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Desterritorio](/work/in-desterritorio/), where the thesis describes the project and its making process.

@@ -1,26 +1,28 @@
 ---
 layout: default
 ---
-<header class="page-heading">
-  <p class="eyebrow">{{ page.name | escape }}</p>
-  <h1>{{ page.title | escape }}</h1>
-</header>
-<div class="page-content">
-  <article class="prose" id="top">
+<div class="page-intro{% unless page.show_cover == false %} work-intro--covered{% endunless %}" id="top">
+  {% if page.show_cover == false %}{% include work-heading.html %}{% endif %}
+  {% assign intro_text = content | strip %}
+  {% if intro_text != '' or page.type == 'artwork' or page.anchors %}
+  <div class="prose intro-copy newspaper">
     {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
-    {% if page.back_url %}<a href="{{ page.back_url | relative_url }}">{{ page.back_label | escape }}</a>{% endif %}
-    {% if page.context %}<p>{{ page.context | escape }}</p>{% endif %}
-    {% if page.role %}<p>{{ page.role | escape }}</p>{% endif %}
     {% if page.type == 'artwork' %}
-    <dl><dt>Year</dt><dd>{{ page.year }}</dd><dt>Technique</dt><dd>{{ page.technique | escape }}</dd><dt>Dimensions</dt><dd>{{ page.dimensions | escape }}</dd></dl>
+    <dl>{% if page.artist %}<dt>Artist</dt><dd>{{ page.artist | escape }}</dd>{% endif %}<dt>Year</dt><dd>{{ page.year }}</dd><dt>Technique</dt><dd>{{ page.technique | escape }}</dd><dt>Dimensions</dt><dd>{{ page.dimensions | escape }}</dd></dl>
     {% endif %}
-    {% if page.cover %}{% include media.html item=page.cover %}{% endif %}
     {% include content.html %}
-    {% if page.archive_notes %}
-      {% assign href_prefix = 'href="' | append: site.baseurl | append: '/' %}
-      {{ page.archive_notes | markdownify | replace: 'href="/', href_prefix }}
-    {% endif %}
+  </div>
+  {% endif %}
+</div>
+<div class="page-content">
+  {% include sections.html sections=page.sections %}
+  {% include sections.html sections=page.archive_sections %}
+  {% if page.credits %}{% include credits.html credits=page.credits note=page.credit_note %}{% endif %}
+  {% if page.cover and page.type != 'series' or page.media %}
+  <div class="media-grid{% if page.type == 'artwork' %} media-grid--artwork{% endif %}">
+    {% if page.cover and page.type != 'series' and page.show_cover_in_gallery != false %}{% include media.html item=page.cover %}{% endif %}
     {% for item in page.media %}{% include media.html item=item %}{% endfor %}
-  </article>
+  </div>
+  {% endif %}
   {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
 </div>

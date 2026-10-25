@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Flowing Systems I
 name: Flowing Systems I
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-12-details
 - gallery-body-interface-artworks-artwork-12-title
 key: body-interface-flowing-systems-i
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Desterritorio](/work/in-desterritorio/), where the thesis describes the project and its making process.

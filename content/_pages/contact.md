@@ -1,15 +1,5 @@
 ---
-cover:
-  src: "/content/media/placeholder.png"
-  alt: 'Placeholder image: two white Xs on black'
-title: "Let’s talk."
+title: About & contact
 permalink: "/contact/"
+redirect_to: "/about/"
 ---
-
-Copenhagen, Denmark
-
-Have a project, a question or an idea to explore together?
-
-[ginamicam@gmail.com ↗](mailto:ginamicam@gmail.com)   
-[+45 50 36 62 64 ↗](tel:+4550366264)   
-[More from Gina ↗](https://linktr.ee/ginamicam)

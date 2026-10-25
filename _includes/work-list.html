@@ -2,10 +2,16 @@
 {% assign sort_key = selection.sort | default: 'order' %}
 {% assign entries = site.work | sort: sort_key %}
 {% if selection.reverse %}{% assign entries = entries | reverse %}{% endif %}
+{% if sort_key == 'year' %}
+  {% assign dated_entries = entries | where_exp: 'entry', 'entry.year != nil' %}
+  {% assign undated_entries = entries | where_exp: 'entry', 'entry.year == nil' %}
+  {% assign entries = dated_entries | concat: undated_entries %}
+{% endif %}
 {% assign shown = 0 %}
 <div class="work-grid">
 {% for entry in entries %}
   {% assign matches = true %}
+  {% if selection.exclude_type == entry.type %}{% assign matches = false %}{% endif %}
   {% if selection.type and selection.type != entry.type %}{% assign matches = false %}{% endif %}
   {% if selection.series and selection.series != entry.series %}{% assign matches = false %}{% endif %}
   {% if selection.parent and selection.parent != entry.parent %}{% assign matches = false %}{% endif %}
@@ -19,15 +25,18 @@
   {% endif %}
   {% if matches %}
     {% if selection.limit and shown >= selection.limit %}{% break %}{% endif %}
-    <article class="work-card" data-work-id="{{ entry.key | escape }}">
+    <article class="work-card" data-work-id="{{ entry.key | escape }}" data-work-tags="{{ entry.tags | jsonify | escape }}"{% if entry.filter_groups %} data-work-groups="{{ entry.filter_groups | jsonify | escape }}"{% endif %}>
       {% for anchor in entry.legacy_anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
       {% assign thumbnail_src = entry.thumbnail.src | default: entry.cover.src | default: '/content/media/placeholder.png' %}
-      <a class="work-thumbnail" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      <a class="work-thumbnail{% if entry.type == 'artwork' or entry.type == 'series' or entry.thumbnail.fit == 'contain' %} work-thumbnail--fit{% endif %}" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
         <img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" decoding="async" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}">
       </a>
-      {% if entry.name != entry.title %}<p class="eyebrow">{{ entry.name | escape }}</p>{% endif %}
-      <h2><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h2>
-      {% if entry.listing_context %}<p>{{ entry.listing_context | escape }}</p>{% endif %}
+      <div class="work-card-copy">
+      <p class="work-card-context">
+        {{ entry.card_label | escape }}{% if entry.type == 'series' %}{% assign series_id = entry.work_lists.first.series %}{% assign series_artworks = site.work | where: 'type', 'artwork' | where: 'series', series_id %} · {{ series_artworks.size }} artworks{% endif %}{% if selection.details and entry.type == 'artwork' %} · {{ entry.dimensions | escape }}{% endif %} · {% if entry.year_start and entry.year_start != entry.year %}{{ entry.year_start }}–{% endif %}{{ entry.year }}
+      </p>
+      <h2><a href="{{ entry.url | relative_url }}">{{ entry.question | default: entry.title | escape }}</a></h2>
+      </div>
     </article>
     {% assign shown = shown | plus: 1 %}
   {% endif %}

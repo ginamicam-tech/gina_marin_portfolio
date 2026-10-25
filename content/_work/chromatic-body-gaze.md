@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Gaze
 name: Gaze
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-9-details
 - gallery-chromatic-body-artworks-artwork-9-title
 key: chromatic-body-gaze
+artist: Gina Marín
 ---
-
-

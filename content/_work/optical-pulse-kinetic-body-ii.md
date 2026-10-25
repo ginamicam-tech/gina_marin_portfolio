@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Kinetic Body II
 name: Kinetic Body II
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-6-details
 - gallery-optical-pulse-artworks-artwork-6-title
 key: optical-pulse-kinetic-body-ii
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Resonancia Corpórea](/work/in-resonancia-corporea/), where the thesis describes the project and its making process.

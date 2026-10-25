@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Feet Study
 name: Feet Study
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-3-details
 - gallery-chromatic-body-artworks-artwork-3-title
 key: chromatic-body-feet-study
+artist: Gina Marín
 ---
-
-

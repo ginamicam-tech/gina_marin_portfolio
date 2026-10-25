@@ -1,0 +1,9 @@
+{% if include.sections.size > 0 %}
+<div class="newspaper prose">
+{% for block in include.sections %}
+  <section class="newspaper-section{% if block.layout == 'full-width' %} newspaper-section--wide{% endif %}">
+    {% include markdown.html text=block.text %}
+  </section>
+{% endfor %}
+</div>
+{% endif %}

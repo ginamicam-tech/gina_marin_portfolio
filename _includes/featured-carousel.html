@@ -1,0 +1,29 @@
+{% assign featured_work = site.work | where: 'featured', true | sort: 'order' %}
+{% if featured_work.size > 0 %}
+<section class="featured-carousel" aria-label="Featured projects" aria-roledescription="carousel" data-featured-carousel>
+  <div class="featured-track" tabindex="0" aria-label="Featured projects. Use left and right arrow keys to browse.">
+    {% for entry in featured_work %}
+    <div class="featured-slide" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ featured_work.size }}">
+      <a class="featured-link" href="{{ entry.url | relative_url }}">
+        <img src="{{ entry.cover.src | default: '/content/media/placeholder.png' | relative_url }}" alt="{{ entry.cover.alt | escape }}" style="object-position: {{ entry.cover.position | default: '50% 50%' | escape }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>
+        <div class="featured-caption wrap">
+          {% if entry.question %}<p class="eyebrow"><span class="featured-highlight">{{ entry.name | default: entry.title | escape }}</span></p>{% endif %}
+          <h2><span class="featured-highlight">{{ entry.question | default: entry.name | default: entry.title | escape }}</span></h2>
+          <p class="featured-summary"><span class="featured-highlight">{{ entry.summary | default: entry.listing_context | default: entry.title | escape }}</span></p>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="featured-controls wrap" hidden>
+    <div class="featured-control-bar">
+    <button type="button" data-previous aria-label="Previous featured project">←</button>
+    <span class="featured-counter" aria-live="polite" aria-atomic="true"></span>
+    <button type="button" data-next aria-label="Next featured project">→</button>
+    </div>
+  </div>
+</section>
+<script src="{{ '/assets/js/featured-carousel.js' | relative_url }}" defer></script>
+{% else %}
+{% include cover.html %}
+{% endif %}

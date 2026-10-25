@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Kinetic Pulse
 name: Kinetic Pulse
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-4-details
 - gallery-optical-pulse-artworks-artwork-4-title
 key: optical-pulse-kinetic-pulse
+artist: Gina Marín
 ---
-
-

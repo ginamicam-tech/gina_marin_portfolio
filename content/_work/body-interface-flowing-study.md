@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Flowing Study
 name: Flowing Study
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-8-details
 - gallery-body-interface-artworks-artwork-8-title
 key: body-interface-flowing-study
+artist: Gina Marín
 ---
-
-

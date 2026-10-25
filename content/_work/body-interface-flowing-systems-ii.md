@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Flowing Systems II
 name: Flowing Systems II
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-15-details
 - gallery-body-interface-artworks-artwork-15-title
 key: body-interface-flowing-systems-ii
+artist: Gina Marín
 ---
-
-

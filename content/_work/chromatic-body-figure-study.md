@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Figure Study
 name: Figure Study
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-1-details
 - gallery-chromatic-body-artworks-artwork-1-title
 key: chromatic-body-figure-study
+artist: Gina Marín
 ---
-
-

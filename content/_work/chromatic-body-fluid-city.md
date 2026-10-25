@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Fluid City
 name: Fluid City
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-8-details
 - gallery-chromatic-body-artworks-artwork-8-title
 key: chromatic-body-fluid-city
+artist: Gina Marín
 ---
-
-

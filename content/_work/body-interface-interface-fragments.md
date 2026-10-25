@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Interface / Fragments
 name: Interface / Fragments
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-13-details
 - gallery-body-interface-artworks-artwork-13-title
 key: body-interface-interface-fragments
+artist: Gina Marín
 ---
-
-

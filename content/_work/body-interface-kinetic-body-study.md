@@ -1,4 +1,5 @@
 ---
+card_label: Mixed media on paper
 title: Kinetic Body Study
 name: Kinetic Body Study
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-17-details
 - gallery-body-interface-artworks-artwork-17-title
 key: body-interface-kinetic-body-study
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Resonancia Corpórea](/work/in-resonancia-corporea/), where the thesis describes the project and its making process.

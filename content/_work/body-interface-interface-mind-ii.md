@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Interface / Mind II
 name: Interface / Mind II
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-18-details
 - gallery-body-interface-artworks-artwork-18-title
 key: body-interface-interface-mind-ii
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Plano Metamórfico](/work/in-plano-metamorfico/), where the thesis describes the project and its making process.

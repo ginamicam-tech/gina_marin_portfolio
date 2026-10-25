@@ -1,0 +1,6 @@
+<header class="{% if include.overlay %}work-cover-caption wrap{% else %}page-heading{% endif %}">
+  {% if page.question %}<p class="eyebrow"><span{% if include.overlay %} class="featured-highlight"{% endif %}>{{ page.name | default: page.title | escape }}</span></p>{% endif %}
+  <h1><span{% if include.overlay %} class="featured-highlight"{% endif %}>{{ page.question | default: page.title | escape }}</span></h1>
+  {% if page.context %}<p class="work-context"><span{% if include.overlay %} class="featured-highlight"{% endif %}>{{ page.context | escape }}</span></p>{% endif %}
+  {% if page.role %}<p class="work-role"><span{% if include.overlay %} class="featured-highlight"{% endif %}>{{ page.role | escape }}</span></p>{% endif %}
+</header>

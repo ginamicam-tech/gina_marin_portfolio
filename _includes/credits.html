@@ -1,0 +1,7 @@
+<section class="work-credits prose" aria-label="Project credits">
+  <h2>Credits</h2>
+  {% for credit in include.credits %}
+  <p><strong>{{ credit.role | escape }}:</strong> {% if credit.url %}<a href="{{ credit.url | escape }}">{{ credit.name | escape }}</a>{% else %}{{ credit.name | escape }}{% endif %}</p>
+  {% endfor %}
+  {% if include.note %}<p>{{ include.note | escape }}</p>{% endif %}
+</section>

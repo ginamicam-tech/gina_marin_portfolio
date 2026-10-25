@@ -1,16 +1,22 @@
 {% assign media = include.item %}
 <figure>
   {% if media.type == 'video' %}
-  <video controls preload="metadata" width="640"{% if media.poster %} poster="{{ media.poster | relative_url }}"{% endif %}>
+  <div class="video-player" data-video-player{% if media.buffered_playback %} data-buffered-video{% endif %}>
+  <video controls playsinline preload="none" width="640" aria-label="{{ media.caption | default: 'Project video' | escape }}"{% if media.poster %} poster="{{ media.poster | relative_url }}"{% endif %}>
     {% for source in media.sources %}<source src="{{ source.src | relative_url }}" type="{{ source.type | escape }}">{% endfor %}
     {% for track in media.tracks %}<track src="{{ track.src | relative_url }}" kind="{{ track.kind | escape }}" srclang="{{ track.srclang | escape }}" label="{{ track.label | escape }}">{% endfor %}
     {{ media.fallback | escape }}
   </video>
+  <button class="video-play" type="button" aria-label="Play {{ media.caption | default: 'project video' | escape }}" hidden><span aria-hidden="true">▶</span></button>
+  <p class="video-error" role="status" hidden>Playback could not start. Please try again.</p>
+  </div>
   {% else %}
     {% assign first_character = media.link | slice: 0 %}
     {% if media.link %}<a href="{% if first_character == '#' %}{{ media.link | escape }}{% else %}{{ media.link | relative_url }}{% endif %}">{% endif %}
     <img src="{{ media.src | relative_url }}" alt="{{ media.alt | escape }}" loading="lazy">
     {% if media.link %}</a>{% endif %}
   {% endif %}
-  {% if media.caption %}<figcaption>{{ media.caption | escape }}</figcaption>{% endif %}
+  {% if media.caption or media.credit or media.source_url %}
+  <figcaption>{% if media.caption %}{{ media.caption | escape }}{% endif %}{% if media.credit %}{% if media.caption %} · {% endif %}{{ media.credit | escape }}{% endif %}{% if media.source_url %} · <a href="{{ media.source_url | escape }}">Source</a>{% endif %}</figcaption>
+  {% endif %}
 </figure>

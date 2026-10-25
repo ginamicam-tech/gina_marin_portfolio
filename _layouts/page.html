@@ -4,36 +4,35 @@ layout: default
 {% if page.redirect_to %}
   {% include redirect.html %}
 {% else %}
-<header class="page-heading">
-  <p class="eyebrow">{{ page.eyebrow | default: site.title }}</p>
-  <h1>{{ page.title | escape }}</h1>
-  {% if page.description %}<p class="lede">{{ page.description | escape }}</p>{% endif %}
-</header>
-<div class="page-content">
-  <div class="prose" id="top">
+<div class="page-intro{% if page.url == '/' %} content-columns home-intro{% endif %}" id="top">
+  <header class="page-heading">
+    {% unless page.show_eyebrow == false %}<p class="eyebrow">{{ page.eyebrow | default: site.title }}</p>{% endunless %}
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}<p class="lede">{{ page.description | escape }}</p>{% endif %}
+  </header>
+  <div class="prose intro-copy{% if page.portrait %} intro-copy--portrait{% elsif page.url != '/' %} newspaper{% endif %}">
+    {% if page.portrait %}<img class="profile-portrait" src="{{ page.portrait.src | relative_url }}" alt="{{ page.portrait.alt | escape }}" loading="lazy">{% endif %}
     {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
     {% include content.html %}
-    {% for item in page.media %}{% include media.html item=item %}{% endfor %}
   </div>
-  {% if page.selected_work %}
-    <div class="prose">{{ page.work_intro | markdownify }}</div>
-    <div class="work-grid">
-      {% for card in page.selected_work %}
-        {% assign entry = site.work | where: 'key', card.key | first %}
-        {% assign thumbnail_src = entry.thumbnail.src | default: entry.cover.src | default: '/content/media/placeholder.png' %}
-        <article class="work-card">
-          <a class="work-thumbnail" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}"></a>
-          <p>{{ card.category | escape }}</p>
-          <h2><a href="{{ entry.url | relative_url }}">{{ card.title | escape }}</a></h2>
-          <p>{{ card.description | escape }}</p>
-          <p>{{ card.role | escape }}</p>
-          <a href="{{ entry.url | relative_url }}">View case →</a>
-        </article>
-      {% endfor %}
-    </div>
-    {% assign href_prefix = 'href="' | append: site.baseurl | append: '/' %}
-    <div class="prose">{{ page.after_work | markdownify | replace: 'href="/', href_prefix }}</div>
+</div>
+<div class="page-content">
+  {% include sections.html sections=page.sections %}
+  {% if page.work_areas and page.featured_work == nil %}{% include work-areas.html %}{% endif %}
+  {% if page.cv_sections %}
+  <details class="profile-cv">
+    <summary>Education, experience & exhibitions</summary>
+    {% include sections.html sections=page.cv_sections %}
+  </details>
   {% endif %}
+  {% if page.media %}<div class="media-grid">{% for item in page.media %}{% include media.html item=item %}{% endfor %}</div>{% endif %}
+  {% if page.featured_work %}
+    <div class="prose">{{ page.work_intro | markdownify }}</div>
+    {% include work-list.html selection=page.featured_work %}
+    {% include sections.html sections=page.after_work_sections %}
+    {% if page.work_areas %}{% include work-areas.html %}{% endif %}
+  {% endif %}
+  {% if page.work_filters %}{% include work-filters.html %}{% endif %}
   {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
 </div>
 {% endif %}

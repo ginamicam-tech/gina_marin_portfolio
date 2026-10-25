@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Blue
 name: Blue
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-4-details
 - gallery-chromatic-body-artworks-artwork-4-title
 key: chromatic-body-blue
+artist: Gina Marín
 ---
-
-

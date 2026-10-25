@@ -1,0 +1,6 @@
+<nav class="work-filters" id="work-filters" aria-label="Work categories">
+  <a href="{{ '/work/' | relative_url }}" data-filter-id="all" data-filter-tags="[]" aria-current="true">All</a>
+  {% for filter in site.data.work_filters %}
+  <a href="{{ '/work/' | relative_url }}?filter={{ filter.id | escape }}" data-filter-id="{{ filter.id | escape }}" data-filter-tags="{{ filter.tags | jsonify | escape }}">{{ filter.label | escape }}</a>
+  {% endfor %}
+</nav>

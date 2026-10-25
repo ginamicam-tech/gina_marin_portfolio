@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Relational Study
 name: Relational Study
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-7-details
 - gallery-body-interface-artworks-artwork-7-title
 key: body-interface-relational-study
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Desterritorio](/work/in-desterritorio/), where the thesis describes the project and its making process.

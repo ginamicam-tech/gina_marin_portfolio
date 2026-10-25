@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Signal Fragment III
 name: Signal Fragment III
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-6-details
 - gallery-body-interface-artworks-artwork-6-title
 key: body-interface-signal-fragment-iii
+artist: Gina Marín
 ---
-
-

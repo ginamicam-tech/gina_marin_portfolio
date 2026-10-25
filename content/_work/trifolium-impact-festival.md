@@ -1,11 +1,12 @@
 ---
-title: How can communication support a shared festival experience?
+card_label: Trifolium / Impact Festival
+title: Trifolium / Impact Festival
 permalink: "/work/trifolium-impact-festival/"
 order: 4
 name: Trifolium / Impact Festival
-listing_context: Sep 2026 / Two-day programme · Copenhagen
-context: Trifolium / Impact Festival / Sep 2026 / Two-day programme · Copenhagen
-role: Communications & Impact Event Support
+listing_context: Impact Festival · Copenhagen · 2026
+context: Impact Festival · Copenhagen · 2026
+role: Event production & operations support
 back_label: "← Work"
 back_url: "/work/"
 cover:
@@ -24,20 +25,32 @@ tags:
 featured: false
 year: 2026
 key: trifolium-impact-festival
+sections:
+- layout: newspaper
+  text: |-
+    ## About the project
+
+    Impact Festival at Trifolium brought people together for a two-day programme in Copenhagen in 2026.
+- layout: newspaper
+  text: |-
+    ## My part
+
+    I supported festival production and operations, assisting with event preparation, coordination and on-site activities.
+- layout: newspaper
+  text: |-
+    ## Project link
+
+    [Project website **Visit Impact Festival**](https://www.trifolium-impactfestival.com/)
+question: How can communication support a shared festival experience?
+credits:
+- role: Event production and operations support
+  name: Gina Marín
+- role: Organiser
+  name: Forening Impact, Sydhavnen
+- role: Venue
+  name: Trifolium, Copenhagen
+- role: Programme source
+  name: Impact Festival
+  url: https://www.trifolium-impactfestival.com/
+credit_note: Festival photographs and programme graphics provide context for the production work.
 ---
-
-## Context & Challenge
-
-At Trifolium, I supported visual and digital communication, interdisciplinary event production and practical coordination for Impact Festival.
-
-## Approach & Contribution
-
-Work across communication, participant experience, spatial requirements and implementation. Developed visual and digital communication for projects and events. Supported interdisciplinary event production and practical coordination. Connected participant experience and spatial needs with implementation. Communication and production support for a collaborative cultural programme.
-
-Further context and contribution detail pending editorial confirmation. Existing project documentation is preserved below.
-
-## Evidence & Results
-
-[Project website **Visit Impact Festival**](https://www.trifolium-impactfestival.com/)
-
-Next project briefing [**Enter Art Fair**](/work/enter-art-fair/) [View all work](/work/)

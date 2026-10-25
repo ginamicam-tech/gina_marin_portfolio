@@ -1,0 +1,8 @@
+{% for filter in site.data.work_filters %}
+<section class="work-filter-description" data-filter-description="{{ filter.id | escape }}" aria-labelledby="description-{{ filter.id | escape }}" hidden>
+  <h2 id="description-{{ filter.id | escape }}">{{ filter.label | escape }}</h2>
+  <div class="newspaper prose">{% include markdown.html text=filter.description %}</div>
+</section>
+{% endfor %}
+<p class="work-filter-status" role="status" aria-live="polite" aria-atomic="true"></p>
+<script src="{{ '/assets/js/work-filters.js' | relative_url }}" defer></script>

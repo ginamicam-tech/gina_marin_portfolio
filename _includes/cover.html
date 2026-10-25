@@ -1,5 +1,5 @@
 {% assign cover_src = page.cover.src | default: '/content/media/placeholder.png' %}
-<div class="page-cover">
-  <img src="{{ cover_src | relative_url }}" alt="{{ page.cover.alt | default: 'Placeholder image: two white Xs on black' | escape }}" style="object-position: {{ page.cover.position | default: '50% 50%' | escape }}" fetchpriority="high">
-  <a class="cover-scroll" href="#top" aria-label="Scroll to page content">↓</a>
+<div class="page-cover{% if page.cover.size == 'half' %} page-cover--half{% endif %}{% if page.collection == 'work' %} page-cover--work{% endif %}">
+  <img src="{{ cover_src | relative_url }}" alt="{{ page.cover.alt | default: 'Placeholder image: two white Xs on black' | escape }}" style="object-position: {{ page.cover.position | default: '50% 50%' | escape }}{% if page.cover.zoom %}; transform: scale({{ page.cover.zoom | escape }}); transform-origin: {{ page.cover.zoom_origin | default: '50% 50%' | escape }}{% endif %}" fetchpriority="high">
+  {% if page.collection == 'work' %}{% include work-heading.html overlay=true %}{% endif %}
 </div>

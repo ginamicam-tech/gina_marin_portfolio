@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Flowing Figure I
 name: Flowing Figure I
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-9-details
 - gallery-body-interface-artworks-artwork-9-title
 key: body-interface-flowing-figure-i
+artist: Gina Marín
 ---
-
-

@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Breath / Flow III
 name: Breath / Flow III
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-10-details
 - gallery-chromatic-body-artworks-artwork-10-title
 key: chromatic-body-breath-flow-iii
+artist: Gina Marín
 ---
-
-

@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Study of Forms
 name: Study of Forms
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-2-details
 - gallery-chromatic-body-artworks-artwork-2-title
 key: chromatic-body-study-of-forms
+artist: Gina Marín
 ---
-
-

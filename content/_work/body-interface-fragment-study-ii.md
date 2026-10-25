@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Fragment Study II
 name: Fragment Study II
 type: artwork
@@ -21,6 +22,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-3-details
 - gallery-body-interface-artworks-artwork-3-title
 key: body-interface-fragment-study-ii
+artist: Gina Marín
 ---
-
-
+This image is also documented within [IN_Desterritorio](/work/in-desterritorio/), where the thesis describes the project and its making process.

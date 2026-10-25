@@ -1,0 +1,24 @@
+# Source PDFs are reviewed locally and are deliberately not stored in this repository.
+# Page references in work front matter use PDF page numbers, not printed page numbers.
+thesis:
+  file: Gina_Marin_Trabajo Final - IN_Presiones_de_un_cuerpo_interfaz - (1).pdf
+  title: 'IN/Pressions of a Body. Interface: Poetics, Clinical Practice, and Its Symbolic Activation in the Age of Liquid Architecture.'
+  author: Gina Micaela Marín
+  notes: >-
+    English title supplied by the user. Degree wording and Clinical Fold's 2021 listing date
+    remain as stated in the CV, at the user's request; the thesis labels the degree Licenciatura
+    and describes Clinical Fold as made in 2020. Related artwork records retain their existing
+    catalogue dates; the new project entries use the project dates given in the thesis.
+presentation:
+  file: PRESENTACION_FINAL.pdf
+  notes: Selected embedded graphics extracted for page headers. Full presentation is not published.
+
+portfolio_2026:
+  file: GINA MARÍN _ PORTFOLIO 2026 _ EDITORIAL REDESIGN BACKUP 23 OCT.pptx
+  notes: >-
+    Generated portfolio reviewed as supporting material. Selected embedded images are used;
+    the complete deck is not stored here. CV dates and roles take precedence where they conflict.
+    Traza remains a proposal. The Oscillating Dialectics CV date remains 2019 despite the
+    2017 label in a deck image; only the undated programme interior is reproduced.
+    CANA and Umbrality are documented within Atmósfera without assigning individual event dates.
+    Human Warmth prototype images are omitted pending confirmation of attribution.

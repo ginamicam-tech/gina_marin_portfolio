@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Inner Mirror
 name: Inner Mirror
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-6-details
 - gallery-chromatic-body-artworks-artwork-6-title
 key: chromatic-body-inner-mirror
+artist: Gina Marín
 ---
-
-

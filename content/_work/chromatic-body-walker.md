@@ -1,4 +1,5 @@
 ---
+card_label: Oil on canvas
 title: Walker
 name: Walker
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-5-details
 - gallery-chromatic-body-artworks-artwork-5-title
 key: chromatic-body-walker
+artist: Gina Marín
 ---
-
-

@@ -1,4 +1,5 @@
 ---
+card_label: Ink on paper
 title: Sea of Strings
 name: Sea of Strings
 type: artwork
@@ -21,6 +22,5 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-5-details
 - gallery-optical-pulse-artworks-artwork-5-title
 key: optical-pulse-sea-of-strings
+artist: Gina Marín
 ---
-
-

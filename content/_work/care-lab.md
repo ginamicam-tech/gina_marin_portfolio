@@ -18,6 +18,26 @@ media:
   src: "/content/media/care-lab/prompt-cards.jpg"
   alt: Care Lab prompt cards inviting visitors to pause and reflect on care
 - type: image
+  src: "/content/media/care-lab/care-lab-printmaking-workshop.jpg"
+  alt: Visitors gathered around a worktable with printing blocks, rollers and coloured inks
+  layout: full-width
+- type: image
+  src: "/content/media/care-lab/care-lab-at-the-press.jpg"
+  alt: Gina operating the hand printing press at Care Lab
+- type: image
+  src: "/content/media/care-lab/care-lab-printing-together.jpg"
+  alt: Gina and a participant arranging printing blocks beside the press
+- type: image
+  src: "/content/media/care-lab/care-lab-printing-detail.jpg"
+  alt: Gloved hands positioning paper over wooden printing blocks
+- type: image
+  src: "/content/media/care-lab/care-lab-participant-printmaking.jpg"
+  alt: A participant arranging letters and shapes for a print
+- type: image
+  src: "/content/media/care-lab/care-lab-festival-visitors.jpg"
+  alt: Festival visitors exploring Care Lab beneath suspended CARE banners
+  layout: full-width
+- type: image
   src: "/content/media/home/making.jpg"
   alt: Hanging a printed sheet within the Care Lab installation
 - type: image
@@ -54,7 +74,7 @@ sections:
   text: |-
     ## Project link
 
-    [Project website **Care Lab at GRASP Festival**](https://graspfestival.dk/en/program/art/care-lab)
+    [GRASP Festival](https://graspfestival.dk/)
 question: How can artistic experimentation open conversations about care?
 documentation_sources:
 - document: portfolio_2026
@@ -70,6 +90,6 @@ credits:
 - role: Collaborating institutions
   name: Europa-Universität Flensburg, Roskilde University, regional hospitals and nursing schools, and participating students
 - role: Programme source
-  name: Care Lab at GRASP
-  url: https://graspfestival.dk/en/program/art/care-lab
+  name: GRASP Festival
+  url: https://graspfestival.dk/
 ---

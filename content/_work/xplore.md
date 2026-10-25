@@ -1,4 +1,7 @@
 ---
+cover:
+  src: "/content/media/placeholder.png"
+  alt: 'Placeholder image: two white Xs on black'
 title: How can sculpture and performance create a collective encounter?
 permalink: "/work/xplore/"
 listing_placeholder: Original project photography pending

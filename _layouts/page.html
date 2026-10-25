@@ -13,8 +13,27 @@ layout: default
   <div class="prose" id="top">
     {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
     {% include content.html %}
-    {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
     {% for item in page.media %}{% include media.html item=item %}{% endfor %}
   </div>
+  {% if page.selected_work %}
+    <div class="prose">{{ page.work_intro | markdownify }}</div>
+    <div class="work-grid">
+      {% for card in page.selected_work %}
+        {% assign entry = site.work | where: 'key', card.key | first %}
+        {% assign thumbnail_src = entry.thumbnail.src | default: entry.cover.src | default: '/content/media/placeholder.png' %}
+        <article class="work-card">
+          <a class="work-thumbnail" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}"></a>
+          <p>{{ card.category | escape }}</p>
+          <h2><a href="{{ entry.url | relative_url }}">{{ card.title | escape }}</a></h2>
+          <p>{{ card.description | escape }}</p>
+          <p>{{ card.role | escape }}</p>
+          <a href="{{ entry.url | relative_url }}">View case →</a>
+        </article>
+      {% endfor %}
+    </div>
+    {% assign href_prefix = 'href="' | append: site.baseurl | append: '/' %}
+    <div class="prose">{{ page.after_work | markdownify | replace: 'href="/', href_prefix }}</div>
+  {% endif %}
+  {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
 </div>
 {% endif %}

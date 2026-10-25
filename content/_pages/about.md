@@ -1,4 +1,7 @@
 ---
+cover:
+  src: "/content/media/gina-marin-profile-2026.jpg"
+  alt: Portrait of Gina Marin
 title: "Profile."
 permalink: "/about/"
 media:

@@ -1,4 +1,7 @@
 ---
+cover:
+  src: "/content/media/placeholder.png"
+  alt: 'Placeholder image: two white Xs on black'
 title: "From a shared idea to work in the world."
 permalink: "/services/"
 ---

@@ -121,4 +121,20 @@ Checks cover the 25 retained routes, all 51 work entries, unique keys/URLs, pare
 
 Use this folder as the repository root, including `.github/`. Configure `url` and `baseurl` in `_config.yml`, select **Settings → Pages → Source → GitHub Actions**, and push to `main`. The workflow takes its hosting prefix from GitHub Pages. Nothing has been published by this restructuring.
 
-Services is a single text-only page at `/services/`, combining the existing service descriptions and methods. Its three former subpages have been deleted without redirects.
+Services is a single page at `/services/`, combining the existing service descriptions and methods. Its three former subpages have been deleted without redirects.
+
+## Covers and square grids
+
+Every page and work entry has a `cover` image in its YAML. The template displays it at full viewport height, with navigation over the image and content below. Existing work images are also retained uncropped in the body. Missing images use `content/media/placeholder.png` (the supplied white XX on black).
+
+```yaml
+cover:
+  src: /content/media/example.jpg
+  alt: Description of the image
+  position: 50% 50%
+thumbnail:
+  src: /content/media/example-detail.jpg
+  position: 50% 50%
+```
+
+`position` is optional and controls the crop focal point. `thumbnail` is optional; square listing cards use the cover by default. Listing grids adapt from three columns to two and then one on small screens. The homepage's `selected_work` references work keys and preserves its existing descriptions; `work_intro` and `after_work` hold the surrounding Markdown.

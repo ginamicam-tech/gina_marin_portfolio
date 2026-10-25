@@ -3,6 +3,7 @@
 {% assign entries = site.work | sort: sort_key %}
 {% if selection.reverse %}{% assign entries = entries | reverse %}{% endif %}
 {% assign shown = 0 %}
+<div class="work-grid">
 {% for entry in entries %}
   {% assign matches = true %}
   {% if selection.type and selection.type != entry.type %}{% assign matches = false %}{% endif %}
@@ -18,14 +19,18 @@
   {% endif %}
   {% if matches %}
     {% if selection.limit and shown >= selection.limit %}{% break %}{% endif %}
-    <article data-work-id="{{ entry.key | escape }}">
+    <article class="work-card" data-work-id="{{ entry.key | escape }}">
       {% for anchor in entry.legacy_anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
-      {% if entry.name != entry.title %}<p>{{ entry.name | escape }}</p>{% endif %}
+      {% assign thumbnail_src = entry.thumbnail.src | default: entry.cover.src | default: '/content/media/placeholder.png' %}
+      <a class="work-thumbnail" href="{{ entry.url | relative_url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ thumbnail_src | relative_url }}" alt="" loading="lazy" decoding="async" style="object-position: {{ entry.thumbnail.position | default: entry.cover.position | default: '50% 50%' | escape }}">
+      </a>
+      {% if entry.name != entry.title %}<p class="eyebrow">{{ entry.name | escape }}</p>{% endif %}
       <h2><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h2>
       {% if entry.listing_context %}<p>{{ entry.listing_context | escape }}</p>{% endif %}
-      {% if entry.cover %}{% include media.html item=entry.cover %}{% endif %}
-      {% if entry.listing_placeholder %}<p>{{ entry.listing_placeholder | escape }}</p>{% endif %}
     </article>
     {% assign shown = shown | plus: 1 %}
   {% endif %}
 {% endfor %}
+
+</div>

@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   </head>
-  <body>
+  <body{% unless page.redirect_to %} class="has-cover"{% endunless %}>
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header wrap">
       <a class="wordmark" href="{{ '/' | relative_url }}">{{ site.title | escape }}<span aria-hidden="true">*</span></a>
@@ -19,7 +19,7 @@
         {% endfor %}
       </nav>
     </header>
-    <main id="main" class="wrap" tabindex="-1">{{ content }}</main>
+    <main id="main" tabindex="-1">{% unless page.redirect_to %}{% include cover.html %}{% endunless %}<div class="wrap">{{ content }}</div></main>
     <footer class="site-footer wrap">
       <span>© {{ 'now' | date: '%Y' }} {{ site.title | escape }}</span>
       <span>{{ site.location | escape }}</span>

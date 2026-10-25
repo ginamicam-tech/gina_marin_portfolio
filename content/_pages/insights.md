@@ -1,4 +1,7 @@
 ---
+cover:
+  src: "/content/media/portfolio/exhibitions/no-salvan-installation-colour.jpg"
+  alt: Material interaction in an installation
 title: "Questions behind the work."
 permalink: "/insights/"
 media:

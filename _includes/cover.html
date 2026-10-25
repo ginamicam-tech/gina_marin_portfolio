@@ -1,0 +1,5 @@
+{% assign cover_src = page.cover.src | default: '/content/media/placeholder.png' %}
+<div class="page-cover">
+  <img src="{{ cover_src | relative_url }}" alt="{{ page.cover.alt | default: 'Placeholder image: two white Xs on black' | escape }}" style="object-position: {{ page.cover.position | default: '50% 50%' | escape }}" fetchpriority="high">
+  <a class="cover-scroll" href="#top" aria-label="Scroll to page content">↓</a>
+</div>

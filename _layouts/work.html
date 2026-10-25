@@ -20,7 +20,7 @@ layout: default
       {% assign href_prefix = 'href="' | append: site.baseurl | append: '/' %}
       {{ page.archive_notes | markdownify | replace: 'href="/', href_prefix }}
     {% endif %}
-    {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
     {% for item in page.media %}{% include media.html item=item %}{% endfor %}
   </article>
+  {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
 </div>

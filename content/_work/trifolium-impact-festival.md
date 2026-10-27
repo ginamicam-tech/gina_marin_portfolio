@@ -12,10 +12,22 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/trifolium-impact-festival.webp"
   alt: Impact Festival conversation at Trifolium in Copenhagen
+gallery_layout: square-grid
 media:
 - type: image
   src: "/content/media/portfolio/work/trifolium-gallery-01.jpg"
   alt: Impact Festival 2026 programme announcement
+  fit: contain
+- type: image
+  src: /content/media/trifolium/exhibition-space.webp
+  alt: Exhibition panels arranged in the Trifolium industrial hall
+- type: image
+  src: /content/media/trifolium/impact-festival-poster.webp
+  alt: Impact Festival poster announcing 11–12 September 2026 at Trifolium
+  fit: contain
+- type: image
+  src: /content/media/trifolium/shared-tables.png
+  alt: People gathered around shared tables in the Trifolium space
 type: project
 tags:
 - production

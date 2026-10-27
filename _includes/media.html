@@ -17,7 +17,7 @@
     {% assign crop = media.crop %}
     <div class="media-image-crop" style="aspect-ratio: {{ crop.width }} / {{ crop.height }}; --crop-scale: {{ crop.source_width | times: 100.0 | divided_by: crop.width }}%; --crop-left: {{ crop.x | times: -100.0 | divided_by: crop.width }}%; --crop-top: {{ crop.y | times: -100.0 | divided_by: crop.height }}%">
     {% endif %}
-    <img src="{{ media.src | relative_url }}" alt="{{ media.alt | escape }}"{% if media.position %} style="object-position: {{ media.position | escape }}"{% endif %} loading="lazy">
+    <img{% if media.fit == 'contain' %} class="media-image--contain"{% endif %} src="{{ media.src | relative_url }}" alt="{{ media.alt | escape }}"{% if media.position %} style="object-position: {{ media.position | escape }}"{% endif %} loading="lazy">
     {% if media.crop %}</div>{% endif %}
     {% if media.link %}</a>{% endif %}
   {% endif %}

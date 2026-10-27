@@ -10,7 +10,7 @@ Confirmar nombres ambiguos antes de modificar proyectos o eliminar imágenes.
 - [ ] Care Lab (dictado inicialmente como «Kerala»): tres fotos horizontales añadidas; About the project / My part ampliados en inglés con desarrollo conceptual, tarjetas de preguntas, instalación y cofacilitación.
 - [ ] «Huertas de Body»: identificar el proyecto mencionado.
 - [ ] Todo el sitio: cambiar Universidad Nacional de Córdoba por National University of Córdoba en textos visibles.
-- [ ] Trifolium: añadir dos fotos horizontales.
+- [x] Trifolium: añadidas las tres imágenes suministradas; grilla cuadrada de dos columnas, espacios uniformes y flyers completos.
 - [ ] Poetry Unleashed: añadir dos fotos y el otro poema leído. Confirmar si «Natural» es su título. Pendiente localizar o crear la entrada correcta.
 - [ ] The Poetics of the Collective / HOP: buscar o recibir una foto donde aparezca Gina.
 - [ ] Body scanning / fermentation / packaging: identificar entrada y explicar que la base son fotografías reales obtenidas con escáner y luego intervenidas con IA. Confirmar técnica y tipo de escáner.

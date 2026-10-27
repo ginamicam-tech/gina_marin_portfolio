@@ -12,69 +12,93 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/exhibitions/traza/traza-cover.png"
   alt: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
+gallery_layout: square-grid
 media:
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-wide.jpg"
   alt: Wide black and white work from Guillermo Kuitca's Everything series
   caption: "Guillermo Kuitca · Everything series · Mixed media on canvas"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-blue.jpg"
   alt: Blue vertical work from Guillermo Kuitca's Everything series
   caption: "Guillermo Kuitca · Everything"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-red.jpg"
   alt: Red vertical work from Guillermo Kuitca's Everything series
   caption: "Guillermo Kuitca · Everything"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/leticia-obeid-manuscript-buenos-aires.jpg"
   alt: Handwritten manuscript selected for Leticia Obeid's section of Traza
   caption: "Leticia Obeid · Manuscritos · Ink on paper"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/leticia-obeid-manuscript-letter.jpg"
   alt: English handwritten manuscript selected for Leticia Obeid's section of Traza
   caption: "Leticia Obeid · Manuscritos"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/leon-ferrari-braille-02.png"
   alt: León Ferrari print with Braille interventions over a reclining figure
   caption: "León Ferrari · Braille series · Intervened print"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/leon-ferrari-braille-01.png"
   alt: León Ferrari print with Braille interventions over a nude figure
   caption: "León Ferrari · Braille series"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/mariano-sardon-divergencia.jpg"
   alt: Interactive projection from Mariano Sardón's Divergencia diferente de cero
   caption: Mariano Sardón · Divergencia diferente de cero · interactive projection
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/mariano-sardon-libro-de-arena.jpg"
   alt: Interactive text projection from Mariano Sardón's Libro de arena
   caption: Mariano Sardón · Libro de arena · interactive projection
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-cover.png"
   alt: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-artwork-register.png"
   alt: Traza artwork register listing titles, authors, dimensions, media and mounting requirements
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-floorplan.png"
   alt: Colour-coded Traza floor plan showing artist zones, work numbers and the visitor route
   caption: "Proposed layout · 38 works"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-elevation-kuitca.png"
   alt: Wall elevation for Guillermo Kuitca's monumental Everything works
   caption: "Proposed elevation · Kuitca"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-elevation-ferrari.png"
   alt: Red wall elevation for the sequence of León Ferrari Braille works
   caption: "Proposed elevation · Ferrari"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-elevation-obeid.png"
   alt: Wall elevation alternating Leticia Obeid manuscripts and digital displays
   caption: "Proposed elevation · Obeid"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/traza/traza-technical-sardon.png"
   alt: Technical floor plan and sections for Mariano Sardón's interactive installations
   caption: "Proposed technical plan · Sardón"
+- type: video
+  buffered_playback: true
+  sources:
+  - src: /content/media/portfolio/exhibitions/traza/traza-communication-video.mp4
+    type: video/mp4
+  caption: Traza · Video communication
+  fallback: Your browser does not support this video.
 type: project
 tags:
 - exhibitions

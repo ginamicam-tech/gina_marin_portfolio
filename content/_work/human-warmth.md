@@ -22,6 +22,7 @@ cover:
   src: "/content/media/human-warmth/installation-visitor-cover.jpg"
   alt: Human Warmth illuminated against a blue wall, with a visitor in the foreground
   position: 50% 45%
+gallery_layout: square-grid
 media:
 - type: image
   src: "/content/media/human-warmth/installation-original.jpg"
@@ -54,7 +55,7 @@ media:
   src: "/content/media/human-warmth/label-artwork.png"
   alt: Complete Human Warmth infusion label, listing presence, connection, care and empathy as ingredients and inviting human-to-human warmth
   caption: "Human Warmth · Label artwork · Care Lab, GRASP 2026"
-  layout: full-width
+  fit: contain
 - type: image
   src: /content/media/human-warmth/material-roll.jpg
   alt: Red and reflective material rolls during fabrication

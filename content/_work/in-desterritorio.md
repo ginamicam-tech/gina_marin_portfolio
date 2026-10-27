@@ -103,6 +103,10 @@ sections:
 
     *Oscillating Dialectics* was a collective exhibition at Avellaneda Café in Córdoba, Argentina, in 2019. I participated as an exhibiting artist and contributed to its organisation and production. The exhibition brought individual drawing practices into a shared setting, connecting artworks with the practical work of installation and public presentation.
 
+    ## Exhibiting artists
+
+    Jazmín López, Luis María Marcial, Caterina Vignolo, Lucas Agustín López Gerónimo, Alexandro Poggi, María Guadalupe Dean Eguia, Antonella Biasutti, Milena Lucía Vázquez, Guadalupe Bassoli, Agustina Lia, Yoseli Leiva U., Lucía Gonzalez Cief, Angeles Torino, Constanza Casarino, Gabriela Paz, Gina Marín and Lucas Di Pascuale.
+
     ## My contribution
 
     I exhibited *IN_Deterritory*, a series of ink drawings and digital variations exploring bodies in virtual space. Developed in the Visual Narratives Laboratory seminar, this project asks how a body might inhabit a virtual environment. Organic networks, graphic rhythms and fragments of faces suggest a space made from movement and connection rather than fixed boundaries.

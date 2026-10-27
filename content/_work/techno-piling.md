@@ -11,8 +11,9 @@ role: Brand identity · brand applications · social media
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/portfolio/techno-piling-header.png"
-  alt: Four Techno Piling logo variations in white on red and blue backgrounds
+  src: "/content/media/techno-piling/brand-logo-cover.jpg"
+  alt: Techno Piling logo in grey, red and blue above the company name on white
+  fit: contain
 media:
 - type: image
   src: "/content/media/portfolio/techno-8.jpg"

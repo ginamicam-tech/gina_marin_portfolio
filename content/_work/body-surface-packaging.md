@@ -38,10 +38,14 @@ sections:
   text: |-
     ## Scanning the surface
 
+    The source images are real scans of the body, captured with a handheld roller scanner that I moved manually across the skin. This direct capture forms the material basis of the project; the resulting images were subsequently developed through interventions using artificial intelligence.
+
     The scans bring this process into intimate proximity with the skin. Pores, folds, hair, and marks coexist with interruptions and distortions produced during capture. The face and torso become discontinuous surfaces, unsettling the expectation that a technological image can offer a stable or complete account of a person. These fragments expose the limits of identification and the distance between bodily experience and its digital representation.
 - layout: newspaper
   text: |-
     ## Packaging the body
+
+    The AI-assisted interventions build on these original body scans to explore fragmentation and imagined packaging.
 
     Packaging gives this tension a tangible form. The enclosure suggests protection and preservation while also evoking standardization, restriction, and availability. It raises a question about our involvement in these processes: to what extent do we shape our own image to fit the systems that capture it, until we participate in packaging ourselves?
 - layout: newspaper
@@ -115,8 +119,10 @@ media:
 portfolio_pdf:
   category: art-research
   layout: project
-  summary: Scanning, fragmentation and packaging examine how bodily characteristics become measurable
-    information. Original scans retain skin textures and interruptions, while packaging studies explore
+  summary: Real body scans captured by manually moving a handheld roller scanner across the skin
+    form the basis of this investigation into bodily representation. Subsequent interventions using
+    artificial intelligence develop the scans into fragmentation and packaging studies. Original scans
+    retain skin textures and interruptions, while packaging studies explore
     the tension between protection, classification and display. The research asks how we adapt our own
     images to systems that capture us. Installation visualisations extend the enquiry spatially; they
     are studies rather than documentation of a realised exhibition.

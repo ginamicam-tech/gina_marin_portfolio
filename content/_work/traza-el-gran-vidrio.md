@@ -1,22 +1,18 @@
 ---
-card_label: Exhibition proposal
+card_label: Curatorial project management
 title: Trace at The Great Glass
 permalink: "/portfolio/traza-el-gran-vidrio/"
 order: 12
 name: Trace at The Great Glass
 listing_context: 2020 · Exhibition proposal / Fundación El Gran Vidrio · Córdoba, Argentina
 context: Fundación El Gran Vidrio · Córdoba, Argentina · 2020 · Exhibition proposal
-role: Project Lead · Art Direction · Communication
+role: Curatorial project management · Production · Post-production
 back_label: "← Work"
 back_url: "/work/"
 cover:
   src: "/content/media/portfolio/exhibitions/traza/traza-cover.png"
   alt: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
 media:
-- type: image
-  src: "/content/media/portfolio/exhibitions/el-gran-vidrio-visitors.jpg"
-  alt: Two visitors viewing an installation at El Gran Vidrio
-  caption: Venue archive · El Gran Vidrio · Ojo de Cabra, Nina Kovensky · Not documentation of the Traza proposal
 - type: image
   src: "/content/media/portfolio/exhibitions/traza/guillermo-kuitca-everything-wide.jpg"
   alt: Wide black and white work from Guillermo Kuitca's Everything series
@@ -91,25 +87,27 @@ sections:
   text: |-
     ## About the proposal
 
-    Traza is a 2020 exhibition proposal for Fundación El Gran Vidrio in Córdoba. It brings together works by Guillermo Kuitca, Leticia Obeid, León Ferrari and Mariano Sardón around mapping, writing, touch and interactive media.
+    Traza is a collaborative project in curatorial management, production and post-production, developed in 2020 as an exhibition proposal for Fundación El Gran Vidrio in Córdoba. The project team consisted of Gina Marín, Carla Scerbo, Naira Vallejos and Caterina Vignolo. It brings together works by Guillermo Kuitca, Leticia Obeid, León Ferrari and Mariano Sardón around mapping, writing, touch and interactive media.
 
     The project is presented here as an exhibition plan. The documents show how the selected works could be arranged and encountered within the space.
 - layout: newspaper
   text: |-
     ## My part
 
-    I developed the curatorial research, artwork register, spatial plan and visual communication. I organised 38 works into a proposed visitor route, considering how large canvases, intimate manuscripts, Braille interventions and interactive projections could share the gallery.
+    As part of the project team, I contributed to curatorial management, production and post-production. Our collaborative work connected curatorial research, an artwork register, spatial planning and visual communication. The proposed visitor route organised 38 works, considering how large canvases, intimate manuscripts, Braille interventions and interactive projections could share the gallery.
 
     Floor plans and wall elevations translated those choices into practical requirements for mounting, supports, screens, electrical access and projection.
 - layout: newspaper
   text: |-
     ## Documentation and credits
 
-    **Proposal, curatorial research, visual communication and technical drawings:** Gina Marín.
+    **Curatorial project management, production and post-production:** Gina Marín, Carla Scerbo, Naira Vallejos and Caterina Vignolo.
 
     The brochure, artwork register and technical drawings document the proposal. The artworks are by Guillermo Kuitca, Leticia Obeid, León Ferrari and Mariano Sardón, credited in the gallery captions.
 
-    The venue photograph shows *Ojo de Cabra* by Nina Kovensky at El Gran Vidrio; it is contextual material, not documentation of Traza being realised.
+    [Explore the complete Traza project →](https://5ef5f9412fd40.site123.me/)
+
+    The project website documents the curatorial script, selected artists, technical planning and communication materials.
 question: How can different artistic languages shape one exhibition route?
 show_cover_in_gallery: false
 anchors:
@@ -136,8 +134,9 @@ anchors:
 portfolio_pdf:
   category: projects-production
   layout: project
-  summary: For this exhibition proposal, I developed curatorial research, an artwork register, spatial
-    planning and visual communication. A proposed route organised 38 works by Guillermo Kuitca, Leticia
+  summary: Developed with Carla Scerbo, Naira Vallejos and Caterina Vignolo, Traza is a collaborative
+    project in curatorial management, production and post-production. Our exhibition proposal connects
+    curatorial research, an artwork register, spatial planning and visual communication. A proposed route organised 38 works by Guillermo Kuitca, Leticia
     Obeid, León Ferrari and Mariano Sardón around mapping, writing, touch and interactive media. Floor
     plans and elevations translated the concept into requirements for mounting, screens and projection.
     These documents describe a proposal, not a realised exhibition.
@@ -145,9 +144,9 @@ portfolio_pdf:
   - src: /content/media/portfolio/exhibitions/traza/traza-cover.png
     caption: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
     fit: contain
-  - src: /content/media/portfolio/exhibitions/el-gran-vidrio-visitors.jpg
-    caption: Venue archive · El Gran Vidrio · Ojo de Cabra, Nina Kovensky · Not documentation of the Traza
-      proposal
+  - src: /content/media/portfolio/exhibitions/traza/traza-floorplan.png
+    caption: Proposed exhibition floor plan
     fit: contain
-  credits: ''
+  credits: 'Curatorial project management, production and post-production: Gina Marín, Carla Scerbo,
+    Naira Vallejos and Caterina Vignolo. Project archive: https://5ef5f9412fd40.site123.me/'
 ---

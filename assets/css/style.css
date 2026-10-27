@@ -185,3 +185,6 @@ h1,h2,h3,h4,h5,h6,button,input,select,textarea,.eyebrow,.site-header,.site-foote
 .media-grid--square img.media-image--contain{object-fit:contain}
 
 .project-supporters{grid-template-columns:minmax(0,1fr);max-width:640px;margin:64px auto 0}
+
+/* A subtle document edge distinguishes captured web pages from photographs. */
+.media-webpage>img{background:#fff;border:1px solid #e5e5e5;box-shadow:0 5px 18px rgb(0 0 0 / 14%);border-radius:3px}

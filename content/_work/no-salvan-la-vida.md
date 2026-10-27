@@ -25,6 +25,7 @@ media:
   alt: Four participants posing beside a suspended textile installation
 - type: image
   fit: contain
+  presentation: webpage
   src: /content/media/portfolio/exhibitions/no-salvan-press-coverage.png
   alt: English-translated Hoy Día Córdoba article announcing the exhibition They Do Not Save Life, Nor Sustain the Soul
   caption: Hoy Día Córdoba · 16 August 2019 · Press coverage, shown in an English-translated browser view.
@@ -71,9 +72,6 @@ media:
 - type: image
   src: "/content/media/portfolio/exhibitions/no-salvan-body-frame-hands.jpg"
   alt: Pale textile frame with an oval opening and two sculpted hands
-- type: image
-  src: "/content/media/portfolio/exhibitions/no-salvan-textile-installation-view.png"
-  alt: Full view of a suspended blue and white textile installation with a framed work beyond
 - type: image
   src: "/content/media/portfolio/exhibitions/no-salvan-projection-body.jpg"
   alt: Green projected image of intertwined bodies and organic forms

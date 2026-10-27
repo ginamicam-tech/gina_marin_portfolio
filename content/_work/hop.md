@@ -21,13 +21,47 @@ cover:
   src: "/content/media/hop/poetics-cover.png"
   alt: A performer holding a bowl in front of projected patterns at The Poetics of the Collective
   credit: 'Photography: Jacob Stage'
-show_cover_in_gallery: false
+show_cover_in_gallery: true
+gallery_layout: square-grid
 media:
 - type: image
   src: "/content/media/hop/poetics-poster.png"
   alt: Poster for The Poetics of the Collective, a 24-hour live art ritual at House of Play on 14–15 March 2026
+  fit: contain
   caption: The Poetics of the Collective · House of Play · 14–15 March 2026
   credit: 'Photography: Jacob Stage'
+- type: image
+  src: /content/media/hop/gina-portrait.jpg
+  alt: Gina during the collective performance
+  position: 50% 40%
+- type: image
+  src: /content/media/hop/collective-movement.jpg
+  alt: Gina and another participant moving together
+  position: 60% 65%
+- type: image
+  src: /content/media/hop/collective-8611.jpg
+  alt: Projected text across suspended translucent fabrics in the performance space
+  position: 50% 45%
+- type: image
+  src: /content/media/hop/projected-poetry-01.jpg
+  alt: Poetic text projected onto suspended mesh fabric
+  position: 50% 50%
+- type: image
+  src: /content/media/hop/projected-poetry-02.jpg
+  alt: Layers of projected words on translucent fabric
+  position: 50% 50%
+- type: image
+  src: /content/media/hop/projected-poetry-detail.jpg
+  alt: Close view of projected lettering and the mesh surface
+  position: 50% 50%
+- type: image
+  src: /content/media/hop/collective-8673.jpg
+  alt: A laptop displaying The Collective Becoming during the creative process
+  position: 50% 50%
+- type: image
+  src: /content/media/hop/collective-8725.jpg
+  alt: A laptop displaying fragments of poetic text during the creative process
+  position: 50% 50%
 sections:
 - layout: newspaper
   text: |-
@@ -55,6 +89,8 @@ sections:
 
     **Photography (header and poster):** Jacob Stage.
 
+    **Additional photographic documentation:** Mads Hobye and Jacob Stage.
+
     [Read the original event description and artistic director biographies →](https://www.houseofplay.dk/special-events/the-poetics-of-the-collective)
 portfolio_pdf:
   category: art-research
@@ -72,5 +108,5 @@ portfolio_pdf:
     caption: 'The Poetics of the Collective · House of Play · 14–15 March 2026 | Photography: Jacob Stage'
     fit: contain
   credits: 'Artistic direction: Anso, Anitta and Mads. Collective creation: House of Play Playlab group.
-    Co-creation, performance and original poetry: Gina Marín. Photography: Jacob Stage.'
+    Co-creation, performance and original poetry: Gina Marín. Header and poster photography: Jacob Stage. Additional photographic documentation: Mads Hobye and Jacob Stage.'
 ---

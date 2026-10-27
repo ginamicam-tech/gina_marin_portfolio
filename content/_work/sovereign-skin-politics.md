@@ -47,16 +47,16 @@ media:
 - type: image
   src: /content/media/sovereign-skin-politics/poetry-reading-black-background.png
   alt: Gina reading at a microphone during a Poetry Unleashed gathering
-  caption: Poetry Unleashed · Reading documentation · Background colour edited
+  caption: Poetry Unleashed · Reading documentation
 - type: image
   src: /content/media/sovereign-skin-politics/instagram-reading-black-background.png
   alt: Instagram screenshot from poetry_unleashed_cph showing Gina reading at a microphone
-  caption: Poetry Unleashed · Instagram reading documentation · Background colour edited
+  caption: Poetry Unleashed · Instagram reading documentation
   fit: contain
 - type: image
   src: /content/media/sovereign-skin-politics/instagram-group-black-background.png
   alt: Instagram screenshot from poetry_unleashed_cph showing a group gathered after a reading
-  caption: Poetry Unleashed · Instagram group documentation · Background colour edited
+  caption: Poetry Unleashed · Instagram group documentation
   fit: contain
 sections:
 - layout: newspaper

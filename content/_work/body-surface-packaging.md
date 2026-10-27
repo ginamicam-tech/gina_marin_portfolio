@@ -50,6 +50,8 @@ sections:
     Packaging gives this tension a tangible form. The enclosure suggests protection and preservation while also evoking standardization, restriction, and availability. It raises a question about our involvement in these processes: to what extent do we shape our own image to fit the systems that capture it, until we participate in packaging ourselves?
 - layout: newspaper
   text: |-
+    The gallery distinguishes original handheld roller scans from AI interventions based on those scans. Installation visualisations are AI-assisted studies, rather than photographs of a realised exhibition.
+
     ## Beyond the scan
 
     Moving between bodily materiality and virtual representation, the work places the promise of biometric legibility under scrutiny. Its distortions and discontinuities hold open the possibility of a body that exceeds the information extracted from it—a presence that remains unstable, situated, and irreducible to its scan.
@@ -60,62 +62,68 @@ credits:
   name: Gina Marín
 - role: Collaboration
   name: Mads Høbye
+gallery_layout: square-grid
 media:
 - type: image
   src: /content/media/body-surface-packaging/installation-visualisation.png
   alt: Installation visualisation with suspended body scans and a central form surrounding a red heart
-  caption: Installation visualisation
-  layout: full-width
+  caption: AI-assisted installation visualisation
 - type: image
   src: /content/media/body-surface-packaging/packaged-face.png
   alt: Fragmented facial scan enclosed in transparent packaging with biometric graphics
-  caption: Packaging study · Face
+  caption: AI intervention based on body scans · Packaging study · Face
 - type: image
   src: /content/media/body-surface-packaging/packaged-torso.png
   alt: Sections of a torso scan enclosed in transparent packaging
-  caption: Packaging study · Torso
+  caption: AI intervention based on body scans · Packaging study · Torso
 - type: image
   src: /content/media/body-surface-packaging/packaged-feet.png
   alt: Feet and lower legs enclosed in transparent packaging with biometric graphics
-  caption: Packaging study · Feet
+  caption: AI intervention based on body scans · Packaging study · Feet
 - type: image
   src: /content/media/body-surface-packaging/central-form.png
   alt: A suspended red heart within a rounded transparent form draped in fine strands
-  caption: Installation visualisation · Central form
+  caption: AI-assisted installation visualisation · Central form
 - type: image
   src: /content/media/body-surface-packaging/face-fragments-01.jpg
   alt: Facial features interrupted and repeated across horizontal scan bands
-  caption: Original scan · Facial fragments I
+  caption: Original handheld roller scan · Facial fragments I
 - type: image
   src: /content/media/body-surface-packaging/face-fragments-02.jpg
   alt: A face broken into discontinuous bands against a dark background
-  caption: Original scan · Facial fragments II
+  caption: Original handheld roller scan · Facial fragments II
 - type: image
   src: /content/media/body-surface-packaging/face-distortion.jpg
   alt: A mouth and facial surface stretched and interrupted during scanning
-  caption: Original scan · Distortion
+  caption: Original handheld roller scan · Distortion
 - type: image
   src: /content/media/body-surface-packaging/hand-scan.jpg
   alt: A hand emerging softly from the dark surface of a scan
-  caption: Original scan · Hand
+  caption: Original handheld roller scan · Hand
 - type: image
   src: /content/media/body-surface-packaging/feet-scan.jpg
   alt: The tops of two feet and lower legs against a dark background
-  caption: Original scan · Feet
+  caption: Original handheld roller scan · Feet
 - type: image
   src: /content/media/body-surface-packaging/soles-scan.jpg
   alt: The soles of two feet pressed against the scanning surface
-  caption: Original scan · Soles
+  caption: Original handheld roller scan · Soles
 - type: image
   src: /content/media/body-surface-packaging/hand-fragments.jpg
   alt: A wide scan of a hand interrupted by horizontal bands
-  caption: Original scan · Hand fragments
-  layout: full-width
+  caption: Original handheld roller scan · Hand fragments
 - type: image
   src: /content/media/body-surface-packaging/abdomen-scan.jpg
   alt: Close scan of abdominal skin and a pierced navel
-  caption: Original scan · Skin surface
-  layout: full-width
+  caption: Original handheld roller scan · Skin surface
+- type: image
+  src: /content/media/body-surface-packaging/roller-scan-palm-0039.jpg
+  alt: Palm with a ring and horizontal distortions captured using a handheld roller scanner
+  caption: Original handheld roller scan · Palm
+- type: image
+  src: /content/media/body-surface-packaging/roller-scan-hand-0066.jpg
+  alt: Hand and forearm against a dark background, captured using a handheld roller scanner
+  caption: Original handheld roller scan · Hand and forearm
 portfolio_pdf:
   category: art-research
   layout: project

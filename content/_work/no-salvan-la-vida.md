@@ -7,14 +7,16 @@ order: 13
 name: They Do Not Save Life, Nor Sustain the Soul
 listing_context: 2019 / Garín Space · Córdoba, Argentina
 context: Garín Space · Córdoba, Argentina · 2019
-role: Curator, organiser & exhibiting artist
+role: Curatorial project management · Production · Post-production · Exhibiting artist
 back_label: "← Work"
 back_url: "/work/"
 cover:
   src: "/content/media/portfolio/exhibitions/no-salvan-opening-wide.png"
   alt: Artists gathered between two colourful wall interventions during the exhibition opening
+gallery_layout: square-grid
 media:
 - type: image
+  fit: contain
   src: /content/media/portfolio/exhibitions/no-salvan-newspaper.jpg
   alt: Newspaper article announcing No Salvan la Vida, ni Sustentan el Alma
   caption: Hoy Día Córdoba · 16 August 2019 · Newspaper coverage
@@ -22,26 +24,18 @@ media:
   src: /content/media/portfolio/exhibitions/no-salvan-collective-textile.jpg
   alt: Four participants posing beside a suspended textile installation
 - type: image
-  src: /content/media/portfolio/exhibitions/no-salvan-opening-group.jpg
-  alt: Participants gathered between colourful wall interventions at the exhibition
-    opening
-- type: image
+  fit: contain
   src: /content/media/portfolio/exhibitions/no-salvan-press-coverage.png
   alt: English-translated Hoy Día Córdoba article announcing the exhibition They Do Not Save Life, Nor Sustain the Soul
   caption: Hoy Día Córdoba · 16 August 2019 · Press coverage, shown in an English-translated browser view.
-  layout: full-width
-  crop:
-    x: 245
-    y: 290
-    width: 1160
-    height: 1330
-    source_width: 1646
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/no-salvan-la-vida-flyer.jpg"
   alt: Black and white invitation for They Do Not Save Life, Nor Sustain the Soul
   caption: "/ Exhibition invitation They Do Not Save Life, Nor Sustain the Soul Opening · 16 August 2019 · Casa de Pepino,
     Córdoba"
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/no-salvan-public-programme.jpg"
   alt: Invitation for the Approaches to Creativity workshop associated with the exhibition
   caption: "Approaches to Creativity workshop · 22 August 2019"
@@ -90,6 +84,7 @@ media:
   src: "/content/media/portfolio/exhibitions/no-salvan-process-book.jpg"
   alt: Hands opening an artist book containing a colour study and printed body fragments
 - type: image
+  fit: contain
   src: "/content/media/portfolio/exhibitions/no-salvan-exhibition-text.jpg"
   alt: Wall text introducing the collective exhibition They Do Not Save Life, Nor Sustain the Soul
 - type: image
@@ -107,9 +102,6 @@ media:
 - type: image
   src: "/content/media/portfolio/exhibitions/no-salvan-artists-portrait.jpg"
   alt: Four participating artists standing together during the exhibition
-- type: image
-  src: "/content/media/portfolio/exhibitions/no-salvan-opening-group.jpg"
-  alt: Group of visitors making a photograph together during the opening
 - type: image
   src: "/content/media/portfolio/exhibitions/no-salvan-audience-reading.jpg"
   alt: Visitor reading printed material inside the exhibition
@@ -135,15 +127,15 @@ sections:
     *They Do Not Save Life, Nor Sustain the Soul* brought together Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
 - layout: newspaper
   text: |-
-    ## Curating and organising
+    ## Curatorial management, production and post-production
 
-    I curated and organised the exhibition, secured sponsors and brought the project into public presentation. Alongside this work, I contributed as an installation artist within [Atmosphere Collective](/work/atmosfera/). My curatorial work addressed the relationships between the artworks, their placement in the space and the information available to visitors. Communication and the public programme created further ways for people to encounter the work. I connected these artistic decisions with the organisation and support needed to make the exhibition happen.
+    I managed the curatorial project across production and post-production, coordinated the exhibition and secured sponsorship. I brought together artistic planning, installation requirements, public communication and exhibition documentation to support the project’s public presentation. Alongside this work, I contributed as an installation artist within [Atmosphere Collective](/work/atmosfera/). My curatorial work addressed the relationships between the artworks, their placement in the space and the information available to visitors. Communication and the public programme created further ways for people to encounter the work. I connected these artistic decisions with the organisation and support needed to make the exhibition happen.
 - layout: newspaper
-  text: "## Credits and documentation\n\n**Curation, organisation and sponsorship:** Gina Marín.  \n**Participating artists:** Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina
+  text: "## Credits and documentation\n\n**Curatorial project management, production, post-production and sponsorship:** Gina Marín.  \n**Participating artists:** Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina
     Marín.  \n**Presentation:** Espacio Garín at Centro Cultural Municipal Casa de Pepino.  \n**Opening music:** Gluko Lin.\n\nThe
     photographs and video document the collective exhibition, its opening and public programme.\n\n[Contemporary press coverage](https://hoydia.com.ar/negocios-y-empresas/61370-espacio-garin-inaugura-hoy-la-muestra-no-salvan-la-vida-ni-sustentan-el-alma/)
     · [Exhibition archive](https://www.instagram.com/p/B1YrSjVA_iQ/)"
-summary: Curation, exhibition organisation and sponsorship, alongside an installation contribution within Atmosphere Collective.
+summary: Curatorial project management, production and post-production, including sponsorship and an installation contribution within Atmosphere Collective.
 question: How can individual artistic practices become a shared collective experience?
 show_cover_in_gallery: false
 anchors:
@@ -172,6 +164,17 @@ anchors:
 - archive-image-18
 - archive-image-19
 - exhibition-sources-title
+supporters:
+  type: image
+  src: /content/media/portfolio/exhibitions/no-salvan-invitation-supporters.jpg
+  alt: Sponsor and institutional support logos from the exhibition invitation
+  caption: Sponsors and institutional support · National University of Córdoba · Science and Technology Secretariat · Garín · Cynar · Casa de Pepino · Municipality of Córdoba · Espacio Garín
+  crop:
+    source_width: 1000
+    x: 60
+    y: 800
+    width: 920
+    height: 175
 portfolio_pdf:
   category: projects-production
   layout: project
@@ -187,7 +190,7 @@ portfolio_pdf:
   - src: /content/media/portfolio/exhibitions/no-salvan-installation-colour.jpg
     caption: Visitor encountering translucent coloured garments suspended against the exhibition wall
     fit: contain
-  credits: 'Curation, organisation and sponsorship: Gina Marín. Participating artists: Paz Herrera, Nayra
+  credits: 'Curatorial project management, production, post-production and sponsorship: Gina Marín. Participating artists: Paz Herrera, Nayra
     Vallejos, Florencia Aravena and Gina Marín. Presented by Espacio Garín at Casa de Pepino. Images document
     the collective exhibition.'
 ---

@@ -20,7 +20,7 @@ summary: A collaborative photographic project using myth to examine ecological v
 context: Collaborative photographic project · 2019
 role: Co-creator
 cover:
-  src: /content/media/portfolio-additions/atmosfera-sunflower-field.jpg
+  src: /content/media/yellow-poison-land/sunflower-cover-warm.png
   alt: Figures among tall sunflowers in a field beneath an evening sky
 sections:
 - layout: newspaper
@@ -34,9 +34,18 @@ sections:
 credits:
 - role: Co-creation
   name: Gina Marín, Lenna Aravena and Catalina
+gallery_layout: square-grid
 media:
 - type: image
-  src: /content/media/yellow-poison-land/figures-among-sunflowers.jpg
+  src: /content/media/yellow-poison-land/field-original-0759.jpg
+  alt: Three figures reaching towards sunflowers beneath an evening sky
+  caption: Yellow Poison Land · 2019
+- type: image
+  src: /content/media/yellow-poison-land/field-original-0768.jpg
+  alt: Figures partly concealed among sunflowers in a wide field view
+  caption: Yellow Poison Land · 2019
+- type: image
+  src: /content/media/yellow-poison-land/field-original-0755.jpg
   alt: Three figures among tall sunflowers beneath a pale sky
   caption: Yellow Poison Land · 2019
 - type: image
@@ -67,10 +76,10 @@ portfolio_pdf:
     envy, leaving sunflowers as their final vision. Figures and flowers share the image, connecting beauty
     with the rupture of coexistence. Co-created with Lenna Aravena and Catalina within Atmosphere Collective.
   images:
-  - src: /content/media/portfolio-additions/atmosfera-sunflower-field.jpg
+  - src: /content/media/yellow-poison-land/sunflower-cover-warm.png
     caption: Figures among tall sunflowers in a field beneath an evening sky
     fit: contain
-  - src: /content/media/yellow-poison-land/figures-among-sunflowers.jpg
+  - src: /content/media/yellow-poison-land/field-original-0755.jpg
     caption: Yellow Poison Land · 2019
     fit: contain
   credits: 'Co-creation: Gina Marín, Lenna Aravena and Catalina'

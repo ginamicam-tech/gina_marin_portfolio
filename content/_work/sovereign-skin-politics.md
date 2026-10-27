@@ -25,20 +25,39 @@ cover:
   position: '50% 0%'
   credit: "Photo: @zoia.means.life"
   source_url: https://www.instagram.com/zoia.means.life/
+gallery_layout: square-grid
 media:
 - type: image
+  fit: contain
   src: "/content/media/sovereign-skin-politics/event-poster.webp"
   alt: Pink Poetry Unleashed CPH poster announcing the Kulturnatten event at Union on October 9, with the theme Imagine
   caption: Poetry Unleashed CPH · Event poster
 - type: image
+  fit: contain
   src: "/content/media/sovereign-skin-politics/poem-excerpt-01.webp"
   alt: Poem excerpt beginning “The revolution… the revolution of sovereign skin politics…” and describing a shared language and interconnected bodies
 - type: image
+  fit: contain
   src: "/content/media/sovereign-skin-politics/poem-skin-and-resonance.webp"
   alt: Poem excerpt beginning “We own the skin” and exploring bodily experience, a new language and shared resonance
 - type: image
+  fit: contain
   src: "/content/media/sovereign-skin-politics/poem-excerpt-02.webp"
   alt: Poem excerpt beginning “Yes… We build another language” and exploring skin, touch, breath and the sovereignty of bodies
+- type: image
+  src: /content/media/sovereign-skin-politics/poetry-reading-black-background.png
+  alt: Gina reading at a microphone during a Poetry Unleashed gathering
+  caption: Poetry Unleashed · Reading documentation · Background colour edited
+- type: image
+  src: /content/media/sovereign-skin-politics/instagram-reading-black-background.png
+  alt: Instagram screenshot from poetry_unleashed_cph showing Gina reading at a microphone
+  caption: Poetry Unleashed · Instagram reading documentation · Background colour edited
+  fit: contain
+- type: image
+  src: /content/media/sovereign-skin-politics/instagram-group-black-background.png
+  alt: Instagram screenshot from poetry_unleashed_cph showing a group gathered after a reading
+  caption: Poetry Unleashed · Instagram group documentation · Background colour edited
+  fit: contain
 sections:
 - layout: newspaper
   text: |-
@@ -56,6 +75,11 @@ sections:
     > Not the royalty of thrones or crowns, but the sovereignty of bodies. In this chorus, we dissolve.
 
     Excerpts from *The Revolution of Sovereign Skin Politics*, by Gina Marín. Further excerpts are reproduced below from the shared text images.
+- layout: newspaper
+  text: |-
+    ## Further Poetry Unleashed documentation
+
+    The gallery also includes a performance photograph and Instagram screenshots from another Poetry Unleashed gathering. These document my wider participation in poetry readings, separately from the Kulturnatten event described above.
 credits:
 - role: Poem and reading
   name: Gina Marín

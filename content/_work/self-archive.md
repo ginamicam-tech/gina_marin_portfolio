@@ -15,6 +15,7 @@ permalink: "/work/self-archive/"
 cover:
   src: "/content/media/thesis/self-archive-city.jpg"
   alt: A self-portrait layered with trees and architecture in Copenhagen
+  fit: contain
   caption: 'Self Archive · Photography and montage: Gina Marín · 2025.'
 legacy_anchors:
 - self-archive
@@ -26,13 +27,20 @@ summary: >-
   of daily journeys.
 context: Copenhagen, Denmark · 2025
 role: Artist, photographer & image editor
+gallery_layout: square-grid
 media:
 - type: image
+  fit: contain
   src: "/content/media/thesis/self-archive-sequence.jpg"
   alt: A horizontal sequence of overlapping self-portraits
 - type: image
+  fit: contain
   src: "/content/media/thesis/self-archive-frames.jpg"
   alt: Self-portraits framed and layered with light architectural forms
+- type: image
+  src: /content/media/self-archive/portrait-architecture-triptych.jpg
+  alt: Three repeated self-portraits layered with an architectural interior and city buildings
+  fit: contain
 sections:
 - layout: newspaper
   text: |-

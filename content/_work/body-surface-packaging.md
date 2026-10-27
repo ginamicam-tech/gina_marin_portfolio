@@ -36,6 +36,11 @@ sections:
     The investigation asks how virtual environments shape the ways we scan, represent, and understand ourselves. As we produce and circulate digital versions of our bodies, we also adapt ourselves to the formats through which we become visible. Packaging emerges here as both a visual operation and a critical proposition: the body is rendered into something that can be contained, classified, displayed, and consumed.
 - layout: newspaper
   text: |-
+    ## Installation proposal · Dark Gallery CPH
+
+    These images were developed for an installation proposal submitted to Dark Gallery CPH’s open call, *The Interactive Street Monster*. The call formed part of Golden Days Festival, whose theme for that edition was *Monster*. The scans and AI-assisted visualisations served as material for the application and the development of the proposed installation.
+- layout: newspaper
+  text: |-
     ## Scanning the surface
 
     The source images are real scans of the body, captured with a handheld roller scanner that I moved manually across the skin. This direct capture forms the material basis of the project; the resulting images were subsequently developed through interventions using artificial intelligence.
@@ -133,7 +138,9 @@ portfolio_pdf:
     retain skin textures and interruptions, while packaging studies explore
     the tension between protection, classification and display. The research asks how we adapt our own
     images to systems that capture us. Installation visualisations extend the enquiry spatially; they
-    are studies rather than documentation of a realised exhibition.
+    are studies rather than documentation of a realised exhibition. The images were developed for an
+    installation proposal submitted to Dark Gallery CPH’s The Interactive Street Monster open call,
+    part of Golden Days Festival’s Monster-themed edition.
   images:
   - src: /content/media/body-surface-packaging/installation-visualisation.png
     caption: Installation visualisation | Study, not a realised exhibition

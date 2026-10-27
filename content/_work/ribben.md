@@ -3,7 +3,7 @@ key: ribben
 title: "Ribben: The Resonance Circle"
 name: "Ribben: The Resonance Circle"
 question: How can a public sculpture offer support without enclosing us?
-summary: A proposal for an open circle of steel ribs, creating space for care, collective action and shared expression.
+summary: A public art proposal for Nørrebros Runddel, developed for the Municipality of Copenhagen’s open call to commemorate International Women’s Day.
 card_label: Public art proposal
 permalink: "/work/ribben/"
 type: project

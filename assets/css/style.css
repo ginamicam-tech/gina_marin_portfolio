@@ -24,7 +24,7 @@ h1,h2,h3{overflow-wrap:break-word}#top{scroll-margin-top:24px}
 
 /* Homepage featured projects: native swipe, manual navigation, no autoplay. */
 .featured-carousel{position:relative;background:#000;color:#fff}
-.featured-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;height:100vh;height:100svh;overscroll-behavior-x:contain}
+.featured-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;height:85vh;height:85svh;overscroll-behavior-x:contain}
 .featured-track::-webkit-scrollbar{display:none}
 .featured-slide{flex:0 0 100%;min-width:0;scroll-snap-align:start;scroll-snap-stop:always;position:relative}
 .featured-link{display:block;position:relative;height:100%;color:#fff;text-decoration:none}
@@ -93,6 +93,8 @@ h1,h2,h3{overflow-wrap:break-word}#top{scroll-margin-top:24px}
 .media-grid .media-full-width{grid-column:1 / -1}
 .media-grid .media-full-width img{width:100%}
 .media-grid img,.media-grid video{max-width:100%;height:auto}
+.media-image-crop{position:relative;overflow:hidden}
+.media-grid .media-image-crop img{position:absolute;width:var(--crop-scale);max-width:none;height:auto;left:var(--crop-left);top:var(--crop-top)}
 .media-grid figcaption{font-size:14px;color:var(--muted);margin-top:8px}
 .media-grid--artwork{grid-template-columns:1fr}
 .work-credits{margin:32px 0;font-size:16px;line-height:1.5}
@@ -162,3 +164,10 @@ h1,h2,h3,h4,h5,h6,button,input,select,textarea,.eyebrow,.site-header,.site-foote
 /* A continuous gallery avoids empty rows between Illutron photos, posters and reels. */
 .media-grid--single-column{grid-template-columns:minmax(0,1fr);max-width:760px;margin-inline:auto;gap:32px}
 .media-grid--single-column img,.media-grid--single-column video{display:block;width:100%}
+
+/* Flat artwork presentation: real image edges, no simulated physical frame. */
+.media-grid--flat-artwork figure{padding:clamp(20px,4vw,56px);background:#f5f3ef;text-align:center}
+.media-grid--flat-artwork img{display:block;width:auto;max-width:100%;max-height:85vh;margin:auto;border:1px solid #c8c5bf;box-sizing:border-box}
+
+/* Work overview uses edge-to-edge photographs and artwork details. */
+.filter-page .work-thumbnail{border:0}

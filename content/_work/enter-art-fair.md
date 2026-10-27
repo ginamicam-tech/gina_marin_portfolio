@@ -60,4 +60,20 @@ credit_note: >-
   The header and gallery photographs date from the 2024 fair. They provide context for the organisation rather than documenting
   my 2026 role.
 show_cover_in_gallery: false
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: I supported fair operations and VIP guest experiences during an Enter Art Fair visit to Louisiana
+    Museum of Modern Art. My contribution focused on guest coordination, logistics and transportation,
+    supporting the practical conditions for a welcoming cultural experience.
+  images:
+  - src: /content/media/portfolio/work/enter-art-fair-gallery-01.jpg
+    caption: 'Visitors viewing contemporary sculpture and painting at Enter Art Fair | Photography: Julie
+      Nymann'
+    fit: contain
+  - src: /content/media/portfolio/work/enter-art-fair-gallery-02.jpg
+    caption: Visitor guidance near an installation at Enter Art Fair
+    fit: contain
+  credits: 'Event and VIP experience coordination: Gina Marín. Organiser: Enter Art Fair / World Fairs
+    ApS. Header photography: Julie Nymann'
 ---

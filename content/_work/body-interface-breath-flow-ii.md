@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 215
 permalink: "/work/body-interface-breath-flow-ii/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-16-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-16.jpg"
+  src: "/content/media/artworks/clean/graphic-16.jpg"
   alt: Breath / Flow II
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-16

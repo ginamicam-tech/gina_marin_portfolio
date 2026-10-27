@@ -56,4 +56,21 @@ sections:
     **Photography (header and poster):** Jacob Stage.
 
     [Read the original event description and artistic director biographies →](https://www.houseofplay.dk/special-events/the-poetics-of-the-collective)
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: A 24-hour collective experiment at House of Play brought music, movement, meals, rest and everyday
+    tasks into an unfolding performance. I contributed as co-creator, performer and reader of original
+    poetry. Participants moved between observing and contributing, allowing individual gestures to develop
+    into shared scenes. Consent, personal boundaries and responsibility for one another shaped the setting.
+  images:
+  - src: /content/media/hop/poetics-cover.png
+    caption: 'A performer holding a bowl in front of projected patterns at The Poetics of the Collective
+      | Photography: Jacob Stage'
+    fit: contain
+  - src: /content/media/hop/poetics-poster.png
+    caption: 'The Poetics of the Collective · House of Play · 14–15 March 2026 | Photography: Jacob Stage'
+    fit: contain
+  credits: 'Artistic direction: Anso, Anitta and Mads. Collective creation: House of Play Playlab group.
+    Co-creation, performance and original poetry: Gina Marín. Photography: Jacob Stage.'
 ---

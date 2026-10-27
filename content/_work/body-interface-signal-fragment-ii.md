@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 204
 permalink: "/work/body-interface-signal-fragment-ii/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-05-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-05.jpg"
+  src: "/content/media/artworks/clean/graphic-05.jpg"
   alt: Signal Fragment II
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-5

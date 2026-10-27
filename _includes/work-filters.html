@@ -1,3 +1,7 @@
+<section class="work-filter-description" data-filter-description="all" aria-labelledby="description-all">
+  <h2 id="description-all">{{ page.work_intro_title | escape }}</h2>
+  <div class="newspaper prose">{% include markdown.html text=page.work_intro %}</div>
+</section>
 {% for filter in site.data.work_filters %}
 <section class="work-filter-description" data-filter-description="{{ filter.id | escape }}" aria-labelledby="description-{{ filter.id | escape }}" hidden>
   <h2 id="description-{{ filter.id | escape }}">{{ filter.label | escape }}</h2>

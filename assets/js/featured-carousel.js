@@ -5,18 +5,26 @@ document.querySelectorAll('[data-featured-carousel]').forEach((carousel) => {
   const counter = carousel.querySelector('.featured-counter');
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   let index = 0;
+  let navigating = false;
   let timer;
 
-  function update() {
-    index = Math.max(0, Math.min(slides.length - 1, Math.round(track.scrollLeft / track.clientWidth)));
+  function render() {
     counter.textContent = `${index + 1} / ${slides.length}`;
     slides.forEach((slide, position) => {
       slide.querySelector('a').tabIndex = position === index ? 0 : -1;
     });
   }
 
+  function updateFromScroll() {
+    index = Math.max(0, Math.min(slides.length - 1, Math.round(track.scrollLeft / track.clientWidth)));
+    render();
+  }
+
   function move(direction) {
+    clearTimeout(timer);
+    navigating = true;
     index = (index + direction + slides.length) % slides.length;
+    render();
     track.scrollTo({left: index * track.clientWidth, behavior: reducedMotion.matches ? 'instant' : 'smooth'});
   }
 
@@ -31,10 +39,21 @@ document.querySelectorAll('[data-featured-carousel]').forEach((carousel) => {
   });
   track.addEventListener('scroll', () => {
     clearTimeout(timer);
-    timer = setTimeout(update, 120);
+    if (!navigating) updateFromScroll();
+    timer = setTimeout(() => {
+      navigating = false;
+      updateFromScroll();
+    }, 120);
   }, {passive: true});
+  // Let a swipe or wheel gesture take over from an arrow-triggered animation.
+  ['pointerdown', 'wheel'].forEach((type) => {
+    track.addEventListener(type, () => {
+      navigating = false;
+      updateFromScroll();
+    }, {passive: true});
+  });
   new ResizeObserver(() => {
     track.scrollTo({left: index * track.clientWidth, behavior: 'instant'});
   }).observe(track);
-  update();
+  updateFromScroll();
 });

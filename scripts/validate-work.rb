@@ -50,6 +50,6 @@ series_records.each do |r|
 end
 artwork_keys = records.select { |r| r['type'] == 'artwork' }.map { |r| r['key'] }
 raise 'Each artwork must belong to exactly one series gallery' unless covered.sort == artwork_keys.sort
-index_years = shown.map { |key| records.find { |r| r['key'] == key }.fetch('year') }
-raise 'Work index not newest first' unless index_years == index_years.sort.reverse
+index_years = shown.map { |key| records.find { |r| r['key'] == key }.then { |r| r['year_start'] || r.fetch('year') } }
+raise 'Work index not newest start year first' unless index_years == index_years.sort.reverse
 puts "Validated #{records.size} work records, parents, unique URLs and the grouped Work index (#{shown.size} cards, #{covered.size} artworks in series)."

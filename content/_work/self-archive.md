@@ -59,4 +59,20 @@ documentation_sources:
 credits:
 - role: Photography, performance and montage
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Self Archive began as a daily photographic record of moving to Denmark. Repeated phone portraits
+    register changes in attention, energy and belonging. I layered these images with windows, corridors
+    and architecture encountered in Copenhagen, turning the vertical phone image into horizontal compositions.
+    Repetition and transparency give everyday moments a shared rhythm, approaching identity as something
+    shaped through language, movement and place.
+  images:
+  - src: /content/media/thesis/self-archive-sequence.jpg
+    caption: A horizontal sequence of overlapping self-portraits
+    fit: contain
+  - src: /content/media/thesis/self-archive-city.jpg
+    caption: 'Self Archive · Photography and montage: Gina Marín · 2025.'
+    fit: contain
+  credits: 'Photography, performance and montage: Gina Marín'
 ---

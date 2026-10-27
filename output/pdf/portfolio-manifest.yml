@@ -1,0 +1,239 @@
+pages: 40
+projects:
+- key: body-interface
+  page: 4
+  category: art-research
+  images:
+  - /content/media/thesis/body-interface-title-montage.png
+  - /content/media/thesis/arena-body-interface-archive.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/body-interface/
+- key: clinical-fold
+  page: 5
+  category: art-research
+  images:
+  - /content/media/clinical-fold/performance.jpg
+  - /content/media/clinical-fold/neck-and-folds.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/clinical-fold/
+- key: self-archive
+  page: 6
+  category: art-research
+  images:
+  - /content/media/thesis/self-archive-sequence.jpg
+  - /content/media/thesis/self-archive-city.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/self-archive/
+- key: human-warmth
+  page: 7
+  category: art-research
+  images:
+  - /content/media/human-warmth/installation.jpg
+  - /content/media/human-warmth/label.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/human-warmth/
+- key: body-surface-packaging
+  page: 8
+  category: art-research
+  images:
+  - /content/media/body-surface-packaging/installation-visualisation.png
+  - /content/media/body-surface-packaging/face-fragments-01.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/body-surface-packaging/
+- key: embodied-portals
+  page: 9
+  category: art-research
+  images:
+  - /content/media/embodied-portals/dream-reality.png
+  - /content/media/embodied-portals/face-galaxy.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/embodied-portals/
+- key: ribben
+  page: 10
+  category: art-research
+  images:
+  - /content/media/ribben/concept-visualization.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/ribben/
+- key: xplore
+  page: 11
+  category: art-research
+  images:
+  - /content/media/xplore/monster-red-light.jpg
+  - /content/media/xplore/monster-heart-close-up.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/xplore/
+- key: hop
+  page: 12
+  category: art-research
+  images:
+  - /content/media/hop/poetics-cover.png
+  - /content/media/hop/poetics-poster.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/hop/
+- key: sovereign-skin-politics
+  page: 13
+  category: art-research
+  images:
+  - /content/media/sovereign-skin-politics/reading.webp
+  - /content/media/sovereign-skin-politics/event-poster.webp
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/sovereign-skin-politics/
+- key: optical-pulse-series
+  page: 14
+  category: art-research
+  images:
+  - /content/media/artworks/clean/chromatic-10.jpg
+  - /content/media/artworks/clean/chromatic-13.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/optical-pulse-series/
+- key: chromatic-body-series
+  page: 15
+  category: art-research
+  images:
+  - /content/media/artworks/clean/chromatic-12.jpg
+  - /content/media/artworks/clean/chromatic-01.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/chromatic-body-series/
+- key: body-interface-series
+  page: 16
+  category: art-research
+  images:
+  - /content/media/artworks/clean/graphic-12.jpg
+  - /content/media/artworks/clean/graphic-01.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/body-interface-series/
+- key: conversations-with-technology
+  page: 17
+  category: art-research
+  images:
+  - /content/media/conversations-with-technology/publications-and-cutouts.jpg
+  - /content/media/conversations-with-technology/poetic-spread.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/conversations-with-technology/
+- key: in-cavilaciones
+  page: 18
+  category: art-research
+  images:
+  - /content/media/thesis/in-cavilaciones-book.jpg
+  - /content/media/thesis/in-cavilaciones-pages.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/in-cavilaciones/
+- key: in-desterritorio
+  page: 19
+  category: art-research
+  images:
+  - /content/media/thesis/in-desterritorio-cover.jpg
+  - /content/media/thesis/in-desterritorio-landscape.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/in-desterritorio/
+- key: in-huellas
+  page: 20
+  category: art-research
+  images:
+  - /content/media/thesis/in-huellas-cover.jpg
+  - /content/media/thesis/in-huellas-drawing.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/in-huellas/
+- key: in-resonancia-corporea
+  page: 21
+  category: art-research
+  images:
+  - /content/media/thesis/in-resonancia-corporea-print.jpg
+  - /content/media/thesis/in-resonancia-corporea-blocks.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/in-resonancia-corporea/
+- key: in-plano-metamorfico
+  page: 22
+  category: art-research
+  images:
+  - /content/media/thesis/in-plano-metamorfico-colour.jpg
+  - /content/media/thesis/in-plano-metamorfico-print.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/in-plano-metamorfico/
+- key: yellow-poison-land
+  page: 23
+  category: art-research
+  images:
+  - /content/media/portfolio-additions/atmosfera-sunflower-field.jpg
+  - /content/media/yellow-poison-land/figures-among-sunflowers.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/yellow-poison-land/
+- key: fibrous-flesh
+  page: 24
+  category: art-research
+  images:
+  - /content/media/fibrous-flesh/performance-01.png
+  - /content/media/fibrous-flesh/performance-04.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/fibrous-flesh/
+- key: modus-androginus
+  page: 25
+  category: art-research
+  images:
+  - /content/media/portfolio-additions/modus-live-painting.png
+  - /content/media/modus/modus-painting-close.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/modus-androginus/
+- key: care-lab
+  page: 27
+  category: projects-production
+  images:
+  - /content/media/care-lab/care-lab-printmaking-workshop.jpg
+  - /content/media/care-lab/care-lab-at-the-press.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/care-lab/
+- key: illutron
+  page: 28
+  category: projects-production
+  images:
+  - /content/media/portfolio/illutron-art-technology.jpg
+  - /content/media/illutron/meet-and-build-event-poster.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/illutron/
+- key: blindmotion
+  page: 29
+  category: projects-production
+  images:
+  - /content/media/blindmotion/kayaking-group.png
+  - /content/media/blindmotion/kayaking-silkeborg.avif
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/blindmotion/
+- key: no-salvan-la-vida
+  page: 30
+  category: projects-production
+  images:
+  - /content/media/portfolio/exhibitions/no-salvan-opening-wide.png
+  - /content/media/portfolio/exhibitions/no-salvan-installation-colour.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/portfolio/no-salvan-la-vida/
+- key: atmosfera
+  page: 31
+  category: projects-production
+  images:
+  - /content/media/portfolio-additions/atmosfera-collective.png
+  - /content/media/portfolio-additions/atmosfera-projection-performance.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/atmosfera/
+- key: altar-mujeres-sxxi
+  page: 32
+  category: projects-production
+  images:
+  - /content/media/portfolio/exhibitions/altar-mujeres-installation-01.jpg
+  - /content/media/portfolio/exhibitions/altar-biography-cards.png
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/portfolio/altar-mujeres-sxxi/
+- key: traza-el-gran-vidrio
+  page: 33
+  category: projects-production
+  images:
+  - /content/media/portfolio/exhibitions/traza/traza-cover.png
+  - /content/media/portfolio/exhibitions/el-gran-vidrio-visitors.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/portfolio/traza-el-gran-vidrio/
+- key: trifolium-impact-festival
+  page: 34
+  category: projects-production
+  images:
+  - /content/media/portfolio/trifolium-impact-festival.webp
+  - /content/media/portfolio/work/trifolium-gallery-01.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/trifolium-impact-festival/
+- key: enter-art-fair
+  page: 35
+  category: projects-production
+  images:
+  - /content/media/portfolio/work/enter-art-fair-gallery-01.jpg
+  - /content/media/portfolio/work/enter-art-fair-gallery-02.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/work/enter-art-fair/
+- key: morhaven
+  page: 37
+  category: design-communication
+  images:
+  - /content/media/portfolio-additions/morhaven-catalogue-colours.jpg
+  - /content/media/portfolio/morhaven-38.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/portfolio/morhaven/
+- key: emun
+  page: 38
+  category: design-communication
+  images:
+  - /content/media/portfolio/emun-catalogue-cover.png
+  - /content/media/portfolio/emun-7.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/portfolio/emun/
+- key: techno-piling
+  page: 39
+  category: design-communication
+  images:
+  - /content/media/portfolio/techno-piling-header.png
+  - /content/media/portfolio/techno-8.jpg
+  url: https://ginamicam-tech.github.io/gina_marin_portfolio/portfolio/techno-piling/

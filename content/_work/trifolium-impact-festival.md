@@ -52,4 +52,19 @@ credits:
   name: Impact Festival
   url: https://www.trifolium-impactfestival.com/
 credit_note: Festival photographs and programme graphics provide context for the production work.
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: I supported production and operations for the two-day Impact Festival at Trifolium in Copenhagen.
+    My contribution included event preparation, coordination and on-site activities, helping the programme
+    take place through practical work with the organising team.
+  images:
+  - src: /content/media/portfolio/trifolium-impact-festival.webp
+    caption: Impact Festival conversation at Trifolium in Copenhagen
+    fit: contain
+  - src: /content/media/portfolio/work/trifolium-gallery-01.jpg
+    caption: Impact Festival 2026 programme announcement
+    fit: contain
+  credits: 'Event production and operations support: Gina Marín. Organiser: Forening Impact, Sydhavnen.
+    Venue: Trifolium, Copenhagen'
 ---

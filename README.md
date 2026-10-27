@@ -94,7 +94,7 @@ Studio, Artworks and Exhibitions have been removed. Their practice and series de
 
 ## Old URLs
 
-Existing project URLs are preserved, even where they begin with `/portfolio/`. The Video Editing showcase is consolidated into Alta Gracia, with `/portfolio/moving-image/` redirecting to that project. Duplicate overview pages redirect: `/portfolio/` → `/work/`, `/profile/` → `/about/`. The research material is consolidated into BODY.INTERFACE and its children; `/research/` redirects to `/work/body-interface/`. Redirect templates retain URL fragments and provide a plain link without JavaScript.
+Retained project URLs are preserved, even where they begin with `/portfolio/`. Duplicate overview pages redirect: `/portfolio/` → `/work/`, `/profile/` → `/about/`. The research material is consolidated into BODY.INTERFACE and its children; `/research/` redirects to `/work/body-interface/`. Redirect templates retain URL fragments and provide a plain link without JavaScript.
 
 ## Run locally
 
@@ -107,6 +107,14 @@ bundle exec jekyll serve --baseurl ""
 ```
 
 Open http://localhost:4000. **Restart an already-running Jekyll server after this collection change**, because `_config.yml` is not reloaded automatically.
+
+### Preview optimized images
+
+```sh
+bash scripts/preview-optimized.sh
+```
+
+This builds a temporary copy, runs the same image optimizer as GitHub Actions, checks its links and serves it at http://127.0.0.1:4001. Original images and the normal development server remain unchanged. Stop with Ctrl+C; rerun after edits to rebuild. Requires the Ruby dependencies above and Python 3.10 or newer. Pillow is installed in a temporary environment if needed. Set `PYTHON` to choose an interpreter or `PORT` to choose another port.
 
 ## Verify
 

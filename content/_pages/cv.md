@@ -32,11 +32,11 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2019–2023 · Gemma Yoga Studio** — Owner & Facilitator · Córdoba, Argentina
 
-- **2019–2023 · Government of Alta Gracia** — I produced and edited audiovisual and graphic materials for institutional campaigns, keeping the visual presentation and messaging consistent across digital communication channels. · [Department of Technology, Innovation and Design · Córdoba, Argentina](/portfolio/alta-gracia/)
+- **2019–2023 · Government of Alta Gracia** — I produced and edited audiovisual and graphic materials for institutional campaigns, keeping the visual presentation and messaging consistent across digital communication channels. · Department of Technology, Innovation and Design · Córdoba, Argentina
 
 - **2019–2023 · Graphic Designer & Audiovisual Editor** — I designed digital and print assets and coordinated creative deliverables. · Zumma360
 
-- **2018–2023 · Exhibition Production & Art Handling** — I supported installation, spatial organisation and artwork handling within a university arts environment. · [Universidad Nacional de Córdoba · CePIA](/work/cepia/)
+- **2018–2023 · Exhibition Production & Art Handling** — I supported installation, spatial organisation and artwork handling within a university arts environment. · [Universidad Nacional de Córdoba · CePIA](https://artes.unc.edu.ar/centros/cepia/)
 
 - **2017–2023 · Video Artist & Visuals Designer** — I developed projections and audiovisual environments with artists, performers and technical teams. · Freelance · Cultural and performance projects
 
@@ -51,7 +51,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2026 · The Poetics of the Collective** — Co-creator, performer & poetry reader · Original poetry readings · [HOP](/work/hop/) · Copenhagen, Denmark
 
-- **2025–2026 · Poetry Unleashed** — Poet & spoken-word performer · Original poetry readings · HUSET and Union · Copenhagen, Denmark
+- **2025–2026 · Poetry Unleashed** — Poet & spoken-word performer · [Original poetry readings](/work/sovereign-skin-politics/) · HUSET and Union · Copenhagen, Denmark
 
 - **2024 · Waves of Pura Vida** — Exhibiting Painter · Independent exhibition context · Costa Rica
 

@@ -14,8 +14,14 @@ dimensions: 42 × 59.4 cm
 featured: false
 order: 202
 permalink: "/work/body-interface-fragment-study-ii/"
+show_cover: false
+artwork_presentation: flat
+thumbnail:
+  src: /content/media/artworks/clean/graphic-03-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-03.jpg"
+  src: "/content/media/artworks/clean/graphic-03.jpg"
   alt: Fragment Study II
 legacy_anchors:
 - gallery-body-interface-artworks-artwork-3

@@ -55,4 +55,19 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: Carved wooden blocks, layers of colour and repeated bodily forms establish a rhythm through
+    printmaking. The project brings the pressure and resistance of making into the image, allowing bodily
+    presence to emerge through repeated impressions. It forms part of the material investigations that
+    precede the Body.Interface thesis.
+  images:
+  - src: /content/media/thesis/in-resonancia-corporea-print.jpg
+    caption: Layered coloured woodcut of an outstretched figure inside an ellipse
+    fit: contain
+  - src: /content/media/thesis/in-resonancia-corporea-blocks.jpg
+    caption: IN_Bodily Resonance · Gina Marín · 2018
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---

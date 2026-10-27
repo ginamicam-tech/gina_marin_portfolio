@@ -46,6 +46,26 @@ media:
   src: "/content/media/human-warmth/label-in-progress.jpg"
   alt: Printed Human Warmth label panels laid out before assembly
   caption: Human Warmth · Preparing the infusion-bag label
+- type: image
+  src: "/content/media/home/care-lab.jpg"
+  alt: Human Warmth glowing red above a visitor in the exhibition space
+- type: image
+  src: "/content/media/human-warmth/label-artwork.png"
+  alt: Complete Human Warmth infusion label, listing presence, connection, care and empathy as ingredients and inviting human-to-human warmth
+  caption: "Human Warmth · Label artwork · Care Lab, GRASP 2026"
+  layout: full-width
+- type: image
+  src: /content/media/human-warmth/material-roll.jpg
+  alt: Red and reflective material rolls during fabrication
+  caption: Human Warmth · Material and fabrication study
+- type: image
+  src: /content/media/human-warmth/surface-study.jpg
+  alt: Close view of reflective material components during fabrication
+  caption: Human Warmth · Material and fabrication study
+- type: image
+  src: /content/media/human-warmth/construction-components.jpg
+  alt: Reflective components laid out during construction
+  caption: Human Warmth · Material and fabrication study
 sections:
 - layout: newspaper
   text: |-
@@ -67,7 +87,7 @@ sections:
 
     Before Human Warmth took the form of an infusion bag, I explored an oversized blister pack. These earlier prototypes were a way of developing the concept and searching for a concrete form: using the language of medical packaging to think about presence and care.
 
-    From that exploration, I developed and made the infusion-bag installation, working with a transparent enclosure, red material and light. The suspended form, outlet and printed label bring the familiar appearance of clinical equipment into a sculptural work. The process photographs below trace the earlier blister experiments and the preparation of the Human Warmth label.
+    From that exploration, I developed and made the infusion-bag installation, working with a transparent enclosure, red material and light. The suspended form, outlet and printed label bring the familiar appearance of clinical equipment into a sculptural work. The process photographs below trace the earlier blister experiments, material tests, construction components and preparation of the Human Warmth label.
 
 - layout: newspaper
   text: |-
@@ -82,4 +102,20 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: 'An enlarged transparent infusion bag, red light and a printed clinical label turn a familiar
+    medical object into a sculpture about care. The label describes presence and connection as a solution
+    to be shared: “Do not substitute presence with efficiency.” I developed the installation through material
+    tests, prototyping and fabrication for Care Lab at GRASP Festival. Its clinical format asks what sustains
+    us beyond a procedure.'
+  images:
+  - src: /content/media/human-warmth/installation.jpg
+    caption: Human Warmth, a transparent infusion-bag sculpture suspended against a blue wall
+    fit: contain
+  - src: /content/media/human-warmth/label.jpg
+    caption: Detail of the Human Warmth label on the transparent bag
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---

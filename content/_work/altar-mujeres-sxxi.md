@@ -1,4 +1,5 @@
 ---
+parent: atmosfera
 card_label: CCK, Buenos Aires
 title: "Women and LGTBIQ+ Altar #LivesInStruggle"
 permalink: "/portfolio/altar-mujeres-sxxi/"
@@ -13,6 +14,11 @@ cover:
   src: "/content/media/portfolio/exhibitions/altar-mujeres-installation-01.jpg"
   alt: Visitors moving through hanging portraits, QR linked biographies and living plants at the CCK opening
 media:
+- type: image
+  src: /content/media/portfolio/exhibitions/altar-biography-cards.png
+  alt: Overview of Altar portrait and biography cards with QR codes connecting to the collective archive
+  caption: Altar · Collective biography cards and QR-linked research.
+  layout: full-width
 - type: image
   src: "/content/media/portfolio/exhibitions/altar-mujeres-installation-01.jpg"
   alt: Visitors moving through hanging portraits, QR linked biographies and living plants at the CCK opening
@@ -109,6 +115,9 @@ key: altar-mujeres-sxxi
 sections:
 - layout: newspaper
   text: |-
+    Part of [Atmosphere Collective](/work/atmosfera/), bringing artistic practices together through collaborative projects.
+- layout: newspaper
+  text: |-
     ## About the project
 
     Altar brings portraits, biographies and QR links together in a shared archive of women and LGBTI+ lives. Initiated by Silvia Barrios, the project grew through collective research and public exhibitions. At the 2020 CCK edition in Buenos Aires, visitors could encounter the portraits in the space and follow links to the stories behind them.
@@ -152,4 +161,22 @@ anchors:
 - archive-image-8
 - archive-image-9
 - exhibition-sources-title
+portfolio_pdf:
+  category: projects-production
+  layout: project
+  summary: Altar brings portraits, biographies and QR links together in a collective archive of women
+    and LGBTI+ lives. Initiated by Silvia Barrios, the project connects research with public exhibitions.
+    I contributed as a collaborating research artist and audiovisual content producer to its 2020 CCK
+    edition, helping connect the shared archive with images and moving-image documentation.
+  images:
+  - src: /content/media/portfolio/exhibitions/altar-mujeres-installation-01.jpg
+    caption: Visitors moving through hanging portraits, QR linked biographies and living plants at the
+      CCK opening
+    fit: contain
+  - src: /content/media/portfolio/exhibitions/altar-biography-cards.png
+    caption: Altar · Collective biography cards and QR-linked research.
+    fit: contain
+  credits: 'Concept and artistic direction: Silvia Barrios. CCK curatorship: Kekena Corvalán. Research
+    and audiovisual contribution: Gina Marín, within the artist-researcher collective. Full collective
+    credits online.'
 ---

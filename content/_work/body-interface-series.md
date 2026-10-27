@@ -13,12 +13,13 @@ year: 2024
 featured: false
 order: 300
 permalink: "/work/body-interface-series/"
+thumbnail:
+  src: /content/media/artworks/clean/graphic-12-square.jpg
+  position: 50% 50%
+  zoom: 1
 cover:
-  src: "/content/media/artworks/graphic-12.jpg"
+  src: "/content/media/artworks/clean/graphic-12.jpg"
   alt: Flowing Systems I
-  position: '50% 30%'
-  zoom: 1.8
-  zoom_origin: '45% 40%'
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork
@@ -29,6 +30,21 @@ work_lists:
 credits:
 - role: Artist
   name: Gina Marín
+portfolio_pdf:
+  category: art-research
+  layout: project
+  summary: This series gathers works on paper concerned with bodily fragments, graphic rhythms and relations
+    between forms. Repeated marks and layered structures approach the body as a changing field rather
+    than a fixed outline. Presented together, the selected pieces connect drawing and printmaking with
+    the wider Body.Interface research into how bodies become images.
+  images:
+  - src: /content/media/artworks/clean/graphic-12.jpg
+    caption: Flowing Systems I | 2018 | Ink on paper | 42 × 59.4 cm
+    fit: contain
+  - src: /content/media/artworks/clean/graphic-01.jpg
+    caption: Signal Fragment I | 2019 | Ink on paper | 42 × 59.4 cm
+    fit: contain
+  credits: 'Artist: Gina Marín'
 ---
 These drawings explore the body as an interface: a meeting place for physical sensation, memory and the flows of digital life. Figures emerge from dense networks of marks, sometimes fragmenting or merging with their surroundings. The body is not presented as a fixed outline, but as a presence that changes through its relationship with the space around it.
 

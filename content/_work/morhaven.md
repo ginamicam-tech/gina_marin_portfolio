@@ -14,6 +14,18 @@ cover:
   alt: Morhaven logo in concentric circles on a muted coastal blue field
 media:
 - type: image
+  src: /content/media/portfolio-additions/morhaven-tote-mockup.jpg
+  alt: Canvas tote bag displaying the Morhaven circular identity
+  caption: Morhaven · Tote bag mockup
+- type: image
+  src: /content/media/portfolio-additions/morhaven-catalogue-applications.jpg
+  alt: Open Morhaven brand catalogue showing applications and coloured identity cards
+  caption: Morhaven · Catalogue application mockup
+- type: image
+  src: /content/media/portfolio-additions/morhaven-catalogue-colours.jpg
+  alt: Morhaven catalogue cover beside an open spread of colours and graphic patterns
+  caption: Morhaven · Brand catalogue mockup
+- type: image
   src: "/content/media/portfolio/morhaven-1.jpg"
   alt: Morhaven brand guidelines cover in muted coastal blue
 - type: image
@@ -53,17 +65,17 @@ sections:
   text: |-
     ## About the project
 
-    Morhaven began as a holistic retreat concept in Cornwall, with a brief rooted in nature, Celtic heritage and quiet transformation. Before individual communication pieces could be developed, the project needed a shared identity and a clear position. The challenge was to connect the retreat’s intended character with a visual language that could work across print and digital contexts. Circles, elemental symbols and coastal references offered a foundation for that language. The existing archive contains concept research, a brand manual, an icon system, editorial applications and website concepts. These materials document the development of the brand as a system rather than an isolated logo.
+    Morhaven began as a retreat concept in Cornwall, rooted in nature, Celtic heritage and quiet transformation. I developed its brand identity, brand catalogue and marketing strategy from the initial concept, connecting the retreat’s positioning with a visual system for print and digital communication.
 - layout: newspaper
   text: |-
     ## My part
 
-    I developed positioning and launch strategy alongside the visual identity, working with narrative, logo, colour and typography. The work extended into visual elements, photography direction, editorial applications and website concepts. Circles and elemental symbols connect the brand manual, icon system and application studies. The website studies are design concepts.
+    I translated the positioning into a logo, typography, colour palette and graphic elements, using circles, elemental symbols and coastal references. The brand catalogue brings these decisions together as a shared guide for communication. Photography direction, editorial applications and website studies show how the identity can work across formats.
 - layout: newspaper
   text: |-
     ## Documentation
 
-    My contribution **Brand identity · brand strategy · marketing direction**2024
+    The selected images show brand guidelines and application studies. Website, stationery and merchandise mockups illustrate proposed uses of the identity.
 question: How can a retreat concept become a coherent visual identity?
 documentation_sources:
 - document: portfolio_2026
@@ -74,4 +86,20 @@ credits:
   name: Gina Marín
 - role: Client
   name: Morhaven Retreats
+portfolio_pdf:
+  category: design-communication
+  layout: project
+  summary: I developed the identity, brand catalogue and marketing strategy for a retreat concept in Cornwall.
+    Circles, elemental symbols and coastal references connect its positioning with a visual language for
+    print and digital communication. The work spans logo, typography, colour, graphic elements and photography
+    direction. The catalogue and application studies show how the system could support a consistent public
+    presence; mockups illustrate proposed uses.
+  images:
+  - src: /content/media/portfolio-additions/morhaven-catalogue-colours.jpg
+    caption: Morhaven · Brand catalogue mockup
+    fit: contain
+  - src: /content/media/portfolio/morhaven-38.jpg
+    caption: Website concept | Proposed desktop and mobile applications
+    fit: contain
+  credits: 'Brand identity, strategy and marketing direction: Gina Marín. Client: Morhaven Retreats'
 ---

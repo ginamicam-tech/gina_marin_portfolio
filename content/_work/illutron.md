@@ -11,9 +11,17 @@ role: Vice Chair, Illutron Anchors · Community & Creative Projects
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/portfolio/illutron-art-technology.jpg"
-  alt: Illutron industrial barge illuminated at night in Copenhagen
+  src: "/content/media/illutron/barge-daylight-cover.png"
+  alt: Illutron barge in daylight behind the large black ILLUTRON sign
+  position: 50% 60%
+gallery_layout: single-column
 media:
+- type: image
+  src: "/content/media/illutron/barge-daylight-cover.png"
+  alt: Illutron barge and its large black sign under a blue sky
+- type: image
+  src: "/content/media/illutron/barge-information-panels.jpg"
+  alt: Information panels on the Illutron barge presenting its history, renovation and invitation to join
 - type: image
   src: "/content/media/illutron/board-call-01.png"
   alt: 'Help shape what comes next: Illutron open call for external board members'
@@ -70,6 +78,20 @@ media:
   poster: "/content/media/illutron/meet-and-build-03.jpg"
   caption: Meet & Build · Reel 3
   fallback: Meet & Build reel 3. Your browser does not support this video.
+- type: video
+  buffered_playback: true
+  sources:
+  - src: "/content/media/illutron/community-reel-20260920.mp4"
+    type: video/mp4
+  caption: Illutron · Reel 4
+  fallback: Your browser does not support this video.
+- type: video
+  buffered_playback: true
+  sources:
+  - src: "/content/media/illutron/community-reel-20260912.mp4"
+    type: video/mp4
+  caption: Illutron · Reel 5
+  fallback: Your browser does not support this video.
 type: project
 tags:
 - community

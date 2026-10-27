@@ -19,21 +19,33 @@ context: Care Lab · GRASP Festival · October 2026
 listing_context: 2026 · Installation · Care Lab, GRASP Festival
 role: Artist
 cover:
-  src: "/content/media/human-warmth/installation.jpg"
+  src: "/content/media/human-warmth/installation-original.jpg"
   alt: Human Warmth, a transparent infusion-bag sculpture suspended against a blue wall
 media:
 - type: image
-  src: "/content/media/human-warmth/label.jpg"
-  alt: Detail of the Human Warmth label on the transparent bag
+  src: "/content/media/human-warmth/installation-detail-original.jpg"
+  alt: Close view of the illuminated Human Warmth infusion bag and its printed label
+  caption: Human Warmth · Installed at Care Lab, GRASP Festival
 - type: image
-  src: "/content/media/human-warmth/exhibition.jpg"
-  alt: Human Warmth on its stand beside exhibition panels
+  src: "/content/media/human-warmth/installation-visitor-original.jpg"
+  alt: A visitor standing beside the illuminated infusion bag against a blue wall
+  caption: Human Warmth · Encounter with the installation
 - type: image
-  src: "/content/media/human-warmth/visitor.jpg"
-  alt: A visitor looking at the illuminated Human Warmth installation
+  src: "/content/media/human-warmth/blister-early-assembly.jpg"
+  alt: Aluminium trays arranged on a large support during an early blister-pack experiment
+  caption: Earlier conceptual exploration · Assembling an oversized blister pack
 - type: image
-  src: "/content/media/home/care-lab.jpg"
-  alt: Human Warmth glowing red above a visitor in the exhibition space
+  src: "/content/media/human-warmth/blister-material-test.jpg"
+  alt: A tray covered with translucent material during an early packaging experiment
+  caption: Earlier conceptual exploration · Testing materials for the blister pack
+- type: image
+  src: "/content/media/human-warmth/blister-presence-study.jpg"
+  alt: An oversized blister-pack study with labels reading Presence 100 mg, Human Supplement
+  caption: Earlier conceptual exploration · Presence as a human supplement
+- type: image
+  src: "/content/media/human-warmth/label-in-progress.jpg"
+  alt: Printed Human Warmth label panels laid out before assembly
+  caption: Human Warmth · Preparing the infusion-bag label
 sections:
 - layout: newspaper
   text: |-
@@ -53,7 +65,9 @@ sections:
   text: |-
     ## Making the installation
 
-    I developed and made the installation, working with a transparent enclosure, red material and light to suggest the contents of an oversized infusion bag. The suspended form, outlet and printed label bring the familiar appearance of clinical equipment into a sculptural work.
+    Before Human Warmth took the form of an infusion bag, I explored an oversized blister pack. These earlier prototypes were a way of developing the concept and searching for a concrete form: using the language of medical packaging to think about presence and care.
+
+    From that exploration, I developed and made the infusion-bag installation, working with a transparent enclosure, red material and light. The suspended form, outlet and printed label bring the familiar appearance of clinical equipment into a sculptural work. The process photographs below trace the earlier blister experiments and the preparation of the Human Warmth label.
 
 - layout: newspaper
   text: |-

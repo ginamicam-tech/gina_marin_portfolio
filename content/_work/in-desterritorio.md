@@ -34,19 +34,54 @@ media:
   alt: Two people installing artwork at the Avellaneda window
   caption: Exhibition preparation at Avellaneda
 - type: image
+  src: /content/media/oscillating-dialectics/drawing-02-46.jpg
+  alt: Seated figure within dense black ink forms
   fit: contain
-  src: "/content/media/thesis/in-desterritorio-landscape.jpg"
-  alt: Black and red ink forms across a white field
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-02-48.jpg
+  alt: Layered variation of a figure and dense ink forms
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-02-49.jpg
+  alt: Figure with flowing black lines and fragmented textures
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-02-45.jpg
+  alt: White figure and textured forms against a black background
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-1111-03.jpg
+  alt: Fine black ink textures with a red accent
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-1111-15.jpg
+  alt: Textured floating form surrounding a red centre
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-1111-15-variant.jpg
+  alt: Textured floating form with a black centre
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-1111-09.jpg
+  alt: Red marks and black ink textures on wrinkled white paper
+  fit: contain
+  caption: IN_Deterritory · Gina Marín · 2019
+- type: image
+  src: /content/media/oscillating-dialectics/drawing-1111-13.jpg
+  alt: Black and red forms interrupted by fine linear textures
+  fit: contain
   caption: IN_Deterritory · Gina Marín · 2019
 - type: image
   fit: contain
   src: "/content/media/thesis/in-desterritorio-face.jpg"
   alt: A face suggested by small repeated ink marks
-  caption: IN_Deterritory · Gina Marín · 2019
-- type: image
-  fit: contain
-  src: "/content/media/thesis/in-desterritorio-fragment.jpg"
-  alt: An irregular field of ink surrounding a dark central shape
   caption: IN_Deterritory · Gina Marín · 2019
 - type: image
   fit: contain

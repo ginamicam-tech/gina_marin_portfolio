@@ -14,7 +14,6 @@ cover:
   src: "/content/media/illutron/barge-daylight-cover.png"
   alt: Illutron barge in daylight behind the large black ILLUTRON sign
   position: 50% 60%
-gallery_layout: single-column
 media:
 - type: image
   src: "/content/media/illutron/barge-daylight-cover.png"

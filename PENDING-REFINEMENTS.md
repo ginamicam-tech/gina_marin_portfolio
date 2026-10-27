@@ -7,7 +7,7 @@ Confirmar nombres ambiguos antes de modificar proyectos o eliminar imágenes.
 - [ ] Riven: sin cambios señalados; confirmar a qué proyecto corresponde este nombre.
 - [ ] Illutron: uniformar separación entre fotos, flyers y reels; añadir dos reels más (confirmar que «Electron» se refiere a Illutron).
 - [ ] Human Warmth: mejorar selección y calidad; mostrar proceso y resultado final de la drip bag. Revisar si retirar el prototipo de blister/pastillero; no decidir aún su inclusión.
-- [ ] Kerala: añadir tres fotos horizontales y ampliar About the project / My part. Pendiente identificar el proyecto en este repositorio.
+- [ ] Care Lab (dictado inicialmente como «Kerala»): tres fotos horizontales añadidas; About the project / My part ampliados en inglés con desarrollo conceptual, tarjetas de preguntas, instalación y cofacilitación.
 - [ ] «Huertas de Body»: identificar el proyecto mencionado.
 - [ ] Todo el sitio: cambiar Universidad Nacional de Córdoba por National University of Córdoba en textos visibles.
 - [ ] Trifolium: añadir dos fotos horizontales.
@@ -46,5 +46,7 @@ Usar originales de cámara/exportación cuando estén disponibles; aumentar tama
 - Galería: vista completa de la portada y foto de paneles informativos.
 - Dos reels adicionales incorporados como Illutron Reel 4 y Reel 5, sin inferir el nombre de campaña.
 - Conversiones web con avconvert: aproximadamente 28 MB y 20 MB; originales externos intactos.
-- Galería de una columna con separación uniforme de 32 px, sin recortar flyers ni fotos.
+- Galería corregida a dos imágenes por fila en computadora, con separación uniforme de 32 px; una columna en móvil, sin recortar flyers ni fotos.
 - Validación de registros y existencia de todos los medios completada; vista previa completa pendiente por dependencia local de Bundler.
+
+- Care Lab: galería corregida a dos imágenes por fila en computadora; eliminadas las expansiones a ancho completo. Portada solicitada: DSC05964.JPG, ya disponible como installation-detail-original.jpg.

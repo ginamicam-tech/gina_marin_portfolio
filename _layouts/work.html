@@ -25,4 +25,5 @@ layout: default
   </div>
   {% endif %}
   {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
+  {% if page.supporters %}<div class="media-grid project-supporters" aria-label="Venue and supporters">{% include media.html item=page.supporters %}</div>{% endif %}
 </div>

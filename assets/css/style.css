@@ -183,3 +183,5 @@ h1,h2,h3,h4,h5,h6,button,input,select,textarea,.eyebrow,.site-header,.site-foote
 .media-grid--square img[src*="board-call-"],.media-grid--square img[src*="campaign-"],.media-grid--square img[src*="event-poster"]{object-fit:contain}
 
 .media-grid--square img.media-image--contain{object-fit:contain}
+
+.project-supporters{grid-template-columns:minmax(0,1fr);max-width:640px;margin:64px auto 0}

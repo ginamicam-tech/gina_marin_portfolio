@@ -1,8 +1,8 @@
 ---
 key: in-desterritorio
-title: IN_Deterritory
-name: IN_Deterritory
-card_label: Bodies in virtual space
+title: Oscillating Dialectics
+name: Oscillating Dialectics
+card_label: Exhibition · Avellaneda
 type: project
 year: 2019
 tags:
@@ -12,44 +12,63 @@ parent: body-interface
 permalink: "/work/in-desterritorio/"
 order: 104
 featured: false
-question: How can a drawing describe a space without solid ground?
-summary: Ink drawings and digital variations exploring the body within a fluid, networked space.
-context: Universidad Nacional de Córdoba · Argentina · 2019
-role: Artist
+question: How can drawing bring individual practices into a shared exhibition?
+summary: A collective exhibition at Avellaneda Café, combining my drawing practice with exhibition organisation and production.
+context: Avellaneda Café · Córdoba, Argentina · 2019
+role: Exhibiting artist · Exhibition organisation & production
 cover:
   src: "/content/media/thesis/in-desterritorio-cover.jpg"
   alt: A seated figure emerging from dense black ink patterns
+gallery_layout: square-grid
 media:
 - type: image
+  fit: contain
   src: /content/media/portfolio-additions/oscillating-dialectics-credits.jpg
   alt: Oscillating Dialectics programme cover and exhibition credits
   caption: Oscillating Dialectics · Córdoba · 2019
 - type: image
+  fit: contain
   src: /content/media/portfolio-additions/avellaneda-installation.jpg
   alt: Two people installing artwork at the Avellaneda window
   caption: Exhibition preparation at Avellaneda
 - type: image
+  fit: contain
   src: "/content/media/thesis/in-desterritorio-landscape.jpg"
   alt: Black and red ink forms across a white field
   caption: IN_Deterritory · Gina Marín · 2019
 - type: image
+  fit: contain
   src: "/content/media/thesis/in-desterritorio-face.jpg"
   alt: A face suggested by small repeated ink marks
   caption: IN_Deterritory · Gina Marín · 2019
 - type: image
+  fit: contain
   src: "/content/media/thesis/in-desterritorio-fragment.jpg"
   alt: An irregular field of ink surrounding a dark central shape
   caption: IN_Deterritory · Gina Marín · 2019
 - type: image
+  fit: contain
   src: "/content/media/portfolio-additions/oscillating-dialectics-programme.jpg"
   alt: Exhibition programme with curatorial text, artwork images and a list of exhibitors including Gina Marin
   caption: Oscillating Dialectics · Exhibition programme and participating artists
+- type: image
+  src: /content/media/oscillating-dialectics/projector-setup.jpg
+  alt: Two people adjusting a projector while preparing the exhibition at Avellaneda
+  caption: Oscillating Dialectics · Exhibition preparation
+- type: image
+  src: /content/media/oscillating-dialectics/exhibition-room.jpg
+  alt: Suspended face drawings displayed in the doorway of the exhibition space at Avellaneda
+  caption: Oscillating Dialectics · Exhibition view at Avellaneda
 sections:
 - layout: newspaper
   text: |-
-    ## About the work
+    ## About the exhibition
 
-    Developed in the Visual Narratives Laboratory seminar, this project asks how a body might inhabit a virtual environment. Organic networks, graphic rhythms and fragments of faces suggest a space made from movement and connection rather than fixed boundaries.
+    *Oscillating Dialectics* was a collective exhibition at Avellaneda Café in Córdoba, Argentina, in 2019. I participated as an exhibiting artist and contributed to its organisation and production. The exhibition brought individual drawing practices into a shared setting, connecting artworks with the practical work of installation and public presentation.
+
+    ## My contribution
+
+    I exhibited *IN_Deterritory*, a series of ink drawings and digital variations exploring bodies in virtual space. Developed in the Visual Narratives Laboratory seminar, this project asks how a body might inhabit a virtual environment. Organic networks, graphic rhythms and fragments of faces suggest a space made from movement and connection rather than fixed boundaries.
 - layout: newspaper
   text: |-
     ## Making the work
@@ -81,6 +100,17 @@ documentation_sources:
 credits:
 - role: Artist
   name: Gina Marín
+supporters:
+  type: image
+  src: /content/media/portfolio-additions/oscillating-dialectics-credits.jpg
+  alt: Avellaneda, Fundación Lautaro and Fono Bus logos from the exhibition programme
+  caption: Venue and supporters · Avellaneda · Fundación Lautaro · Fono Bus
+  crop:
+    source_width: 1280
+    x: 35
+    y: 700
+    width: 580
+    height: 120
 portfolio_pdf:
   category: art-research
   layout: project

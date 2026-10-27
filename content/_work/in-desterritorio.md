@@ -17,13 +17,15 @@ summary: A collective exhibition at Avellaneda Café, combining my drawing pract
 context: Avellaneda Café · Córdoba, Argentina · 2019
 role: Exhibiting artist · Exhibition organisation & production
 cover:
-  src: "/content/media/thesis/in-desterritorio-cover.jpg"
-  alt: A seated figure emerging from dense black ink patterns
+  src: "/content/media/oscillating-dialectics/programme-cover-selected.jpg"
+  alt: Oscillating Dialectics exhibition programme with curatorial text, participating artists and artwork images
+  fit: contain
+show_cover_in_gallery: false
 gallery_layout: square-grid
 media:
 - type: image
   fit: contain
-  src: /content/media/portfolio-additions/oscillating-dialectics-credits.jpg
+  src: /content/media/oscillating-dialectics/credits-selected.jpg
   alt: Oscillating Dialectics programme cover and exhibition credits
   caption: Oscillating Dialectics · Córdoba · 2019
 - type: image
@@ -102,7 +104,7 @@ credits:
   name: Gina Marín
 supporters:
   type: image
-  src: /content/media/portfolio-additions/oscillating-dialectics-credits.jpg
+  src: /content/media/oscillating-dialectics/credits-selected.jpg
   alt: Avellaneda, Fundación Lautaro and Fono Bus logos from the exhibition programme
   caption: Venue and supporters · Avellaneda · Fundación Lautaro · Fono Bus
   crop:

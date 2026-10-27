@@ -14,6 +14,7 @@ cover:
   src: "/content/media/human-warmth/installation-detail-original.jpg"
   alt: Human Warmth illuminated against a blue wall, with a visitor in the foreground
   position: 50% 45%
+gallery_layout: square-grid
 media:
 - type: image
   src: /content/media/care-lab/care-lab-press-facilitation.jpg

@@ -19,12 +19,13 @@ context: Care Lab · GRASP Festival · October 2026
 listing_context: 2026 · Installation · Care Lab, GRASP Festival
 role: Artist
 cover:
-  src: "/content/media/human-warmth/installation-original.jpg"
-  alt: Human Warmth, a transparent infusion-bag sculpture suspended against a blue wall
+  src: "/content/media/human-warmth/installation-detail-original.jpg"
+  alt: Human Warmth illuminated against a blue wall, with a visitor in the foreground
+  position: 50% 45%
 media:
 - type: image
-  src: "/content/media/human-warmth/installation-detail-original.jpg"
-  alt: Close view of the illuminated Human Warmth infusion bag and its printed label
+  src: "/content/media/human-warmth/installation-original.jpg"
+  alt: Human Warmth infusion-bag installation against a blue wall
   caption: Human Warmth · Installed at Care Lab, GRASP Festival
 - type: image
   src: "/content/media/human-warmth/installation-visitor-original.jpg"

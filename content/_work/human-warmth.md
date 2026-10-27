@@ -19,7 +19,7 @@ context: Care Lab · GRASP Festival · October 2026
 listing_context: 2026 · Installation · Care Lab, GRASP Festival
 role: Artist
 cover:
-  src: "/content/media/human-warmth/installation-detail-original.jpg"
+  src: "/content/media/human-warmth/installation-visitor-cover.jpg"
   alt: Human Warmth illuminated against a blue wall, with a visitor in the foreground
   position: 50% 45%
 media:

@@ -11,9 +11,8 @@ role: Concept co-developer, installation artist & workshop co-facilitator
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/human-warmth/installation-detail-original.jpg"
-  alt: Human Warmth illuminated against a blue wall, with a visitor in the foreground
-  position: 50% 45%
+  src: "/content/media/care-lab/care-print.jpg"
+  alt: A red CARE bandage print suspended in the festival space
 gallery_layout: square-grid
 media:
 - type: image

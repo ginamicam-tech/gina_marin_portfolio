@@ -56,18 +56,18 @@ media:
 - type: image
   src: /content/media/portfolio-additions/cana-mural-wide.jpg
   alt: Wider view of artists painting a shared outdoor mural with paint and tools on the grass
-  caption: CANA festival
+  caption: Co-creation with Umbrality
 - type: image
   src: /content/media/portfolio-additions/atmosfera-blue-live-painting.jpg
   alt: An artist painting tall panels under blue event lighting
 - type: image
   src: "/content/media/portfolio-additions/cana-painting-materials.jpg"
   alt: An artist working with pots of coloured paint outdoors
-  caption: "CANA festival"
+  caption: "Co-creation with Umbrality"
 - type: image
   src: "/content/media/portfolio-additions/cana-collective-mural.jpg"
   alt: Participants painting a wall together outdoors
-  caption: "CANA festival"
+  caption: "Co-creation with Umbrality"
 - type: image
   src: "/content/media/portfolio-additions/atmosfera-live-painting.jpg"
   alt: Live painting on upright panels under coloured lighting
@@ -86,9 +86,9 @@ sections:
   text: |-
     ## Painting together
 
-    At CANA festival, I joined a collective painting intervention. Artists worked on a public wall during the event, sharing materials and making decisions as the image developed. The photographs show the work in progress.
+    In co-creation with the production company Umbrality, we developed collective painting interventions, sharing materials and making decisions as the work evolved. The photographs document this collaborative process.
 
-    Other collaborations brought painting, performance and projected images into live events, including work with Umbrality.
+    Other events included Labluhaus and Akana Festival, bringing painting, performance and projected imagery into shared live settings.
 - layout: newspaper
   text: |-
     ## Projects within the collective

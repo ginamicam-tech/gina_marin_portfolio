@@ -14,12 +14,12 @@ featured: false
 order: 300
 permalink: "/work/body-interface-series/"
 thumbnail:
-  src: /content/media/flowing-systems/cover-enhanced.png
-  position: 50% 50%
+  src: /content/media/flowing-systems/flowing-body-cover.jpg
+  position: 25% 50%
   zoom: 1
 cover:
-  src: "/content/media/flowing-systems/cover-enhanced.png"
-  alt: Flowing Systems I
+  src: "/content/media/flowing-systems/flowing-body-cover.jpg"
+  alt: Layered black and white bodily figure on a black background
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork
@@ -38,8 +38,8 @@ portfolio_pdf:
     than a fixed outline. Presented together, the selected pieces connect drawing and printmaking with
     the wider Body.Interface research into how bodies become images.
   images:
-  - src: /content/media/flowing-systems/cover-enhanced.png
-    caption: Flowing Systems I | 2018 | Ink on paper | 42 × 59.4 cm
+  - src: /content/media/flowing-systems/flowing-body-cover.jpg
+    caption: Flowing Systems · Selected drawing
     fit: contain
   - src: /content/media/artworks/clean/graphic-01.jpg
     caption: Signal Fragment I | 2019 | Ink on paper | 42 × 59.4 cm

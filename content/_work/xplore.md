@@ -7,6 +7,7 @@ cover:
 thumbnail:
   src: "/content/media/xplore/monster-heart-close-up.jpg"
   position: 50% 28%
+gallery_layout: square-grid
 media:
 - type: image
   src: /content/media/xplore/monster-visitor-red-light.jpg
@@ -20,6 +21,18 @@ media:
 - type: image
   src: "/content/media/xplore/monster-heart-close-up.jpg"
   alt: Close-up of the monster’s illuminated heart-shaped centre surrounded by translucent forms in blue and pink light
+- type: video
+  sources:
+  - src: /content/media/xplore/monster-installation-6523.mp4
+    type: video/mp4
+  poster: /content/media/xplore/monster-projections.jpg
+  caption: Interactive monster · Installation video
+- type: video
+  sources:
+  - src: /content/media/xplore/monster-installation-6495.mp4
+    type: video/mp4
+  poster: /content/media/xplore/monster-red-light.jpg
+  caption: Interactive monster · Installation video
 title: Rituals of Collective Descent
 permalink: "/work/xplore/"
 summary: An interactive monster made to greet visitors within the Xplore installation.

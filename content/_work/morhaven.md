@@ -12,47 +12,60 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/morhaven-1.jpg"
   alt: Morhaven logo in concentric circles on a muted coastal blue field
+gallery_layout: square-grid
 media:
 - type: image
-  src: /content/media/portfolio-additions/morhaven-tote-mockup.jpg
-  alt: Canvas tote bag displaying the Morhaven circular identity
-  caption: Morhaven · Tote bag mockup
+  src: /content/media/portfolio/morhaven-7.jpg
+  alt: Logo concept research based on Celtic circles and the Tree of Life
+  fit: contain
 - type: image
-  src: /content/media/portfolio-additions/morhaven-catalogue-applications.jpg
-  alt: Open Morhaven brand catalogue showing applications and coloured identity cards
-  caption: Morhaven · Catalogue application mockup
+  src: /content/media/portfolio-additions/morhaven-brand-seal.png
+  alt: Circular Morhaven seal with the tagline Sacred Shores, Endless Horizons
+  fit: contain
+- type: image
+  src: /content/media/portfolio/manuals/morhaven-17.jpg
+  alt: Primary colour palette from the Morhaven brand guidelines
+  fit: contain
+- type: image
+  src: /content/media/portfolio-additions/morhaven-logo-usage.jpg
+  alt: Guidelines for placing the Morhaven logo on photographs and graphics
+  fit: contain
+- type: image
+  src: /content/media/portfolio/morhaven-23.jpg
+  alt: Morhaven elemental icon system
+  fit: contain
+- type: image
+  src: /content/media/portfolio/manuals/morhaven-24.jpg
+  alt: Morhaven symbolic brand element library
+  fit: contain
+- type: image
+  src: /content/media/portfolio/morhaven-34.jpg
+  alt: Morhaven editorial poster system
+  fit: contain
+- type: image
+  src: /content/media/portfolio/manuals/morhaven-33.jpg
+  alt: Morhaven social media story templates
+  fit: contain
+- type: image
+  src: /content/media/portfolio-additions/morhaven-stationery-mockup.jpg
+  alt: Stationery and printed card application mockup
+  fit: contain
+- type: image
+  src: /content/media/portfolio-additions/morhaven-tote-mockup.jpg
+  alt: Canvas tote bag application mockup
+  fit: contain
 - type: image
   src: /content/media/portfolio-additions/morhaven-catalogue-colours.jpg
-  alt: Morhaven catalogue cover beside an open spread of colours and graphic patterns
-  caption: Morhaven · Brand catalogue mockup
+  alt: Brand catalogue mockup showing colours and graphic patterns
+  fit: contain
 - type: image
-  src: "/content/media/portfolio/morhaven-1.jpg"
-  alt: Morhaven brand guidelines cover in muted coastal blue
+  src: /content/media/portfolio-additions/morhaven-catalogue-applications.jpg
+  alt: Open brand catalogue application mockup
+  fit: contain
 - type: image
-  src: "/content/media/portfolio/morhaven-7.jpg"
-  alt: Morhaven logo concept research based on Celtic circles and the Tree of Life
-- type: image
-  src: "/content/media/portfolio/morhaven-23.jpg"
-  alt: Morhaven elemental icon system
-- type: image
-  src: "/content/media/portfolio/morhaven-34.jpg"
-  alt: Morhaven editorial poster system
-- type: image
-  src: "/content/media/portfolio/morhaven-38.jpg"
-  alt: Morhaven website concept shown on desktop and mobile
-- type: image
-  src: "/content/media/portfolio/manuals/morhaven-17.jpg"
-  alt: Morhaven primary colour palette from the brand guidelines
-- type: image
-  src: "/content/media/portfolio/manuals/morhaven-24.jpg"
-  alt: Morhaven symbolic brand element library
-- type: image
-  src: "/content/media/portfolio/manuals/morhaven-33.jpg"
-  alt: Morhaven social media story templates
-- type: image
-  src: "/content/media/portfolio-additions/morhaven-stationery-mockup.jpg"
-  alt: Morhaven identity applied to stationery and printed cards
-  caption: Morhaven · Stationery application mockup
+  src: /content/media/portfolio/morhaven-38.jpg
+  alt: Proposed Morhaven website on desktop and mobile
+  fit: contain
 type: project
 tags:
 - design
@@ -68,16 +81,39 @@ sections:
     Morhaven began as a retreat concept in Cornwall, rooted in nature, Celtic heritage and quiet transformation. I developed its brand identity, brand catalogue and marketing strategy from the initial concept, connecting the retreat’s positioning with a visual system for print and digital communication.
 - layout: newspaper
   text: |-
-    ## My part
+    ## Strategic foundation
 
-    I translated the positioning into a logo, typography, colour palette and graphic elements, using circles, elemental symbols and coastal references. The brand catalogue brings these decisions together as a shared guide for communication. Photography direction, editorial applications and website studies show how the identity can work across formats.
+    The brand strategy defined Morhaven as a premium, personalised retreat concept grounded in the landscape and Celtic heritage of South Cornwall. Its central proposition connected privacy and comfort with meaningful experiences in nature, expressed through the line *Sacred Shores, Endless Horizons*.
+
+    I developed an audience framework focused on established professionals, creative entrepreneurs and leaders seeking rest, reflection and personal growth. The strategy brought together the brand story, mission, vision and five core values: holistic well-being, connection to nature, sustainability, personalisation and cultural integrity. A competitor review helped clarify how the concept could distinguish itself through its location, privacy and bespoke experience.
+- layout: newspaper
+  text: |-
+    ## From positioning to visual identity
+
+    I translated the positioning into a logo, typography, colour palette and graphic elements, using circles, elemental symbols and coastal references. The circular seal extends the identity through its tagline, while the brand catalogue documents the system and provides practical guidance for applying the logo to photography and graphic compositions.
+
+    Photography direction, editorial layouts, social media templates and website studies demonstrate how the same visual language can work across different formats. Stationery, catalogue and merchandise mockups explore proposed applications of the identity.
+- layout: newspaper
+  text: |-
+    ## Communication and relationship building
+
+    The marketing direction proposed a coordinated approach across visual storytelling, search visibility and email communication. Instagram and short-form video would introduce the landscape and retreat atmosphere; search and website content would support discovery; personalised email journeys and follow-up communication would sustain relationships beyond a first visit.
+
+    The strategy also outlined repeat-guest experiences and a membership concept as ways to build continuity and a sense of belonging. These were strategic proposals rather than reported campaign results.
+- layout: newspaper
+  text: |-
+    ## My contribution and deliverables
+
+    Brand strategy and audience definition; positioning and messaging; visual identity and brand guidelines; photography and editorial direction; application mockups; and a proposed digital communication and guest-engagement framework.
 - layout: newspaper
   text: |-
     ## Documentation
 
-    The selected images show brand guidelines and application studies. Website, stationery and merchandise mockups illustrate proposed uses of the identity.
+    The gallery moves from identity research and the core visual system to communication templates, physical applications and website concepts. The 2025 brand strategy document provides the strategic foundation; application mockups illustrate proposed uses.
 question: How can a retreat concept become a coherent visual identity?
 documentation_sources:
+- document: morhaven_brand_strategy_development_2025
+  pdf_pages: 3–14
 - document: portfolio_2026
   slides:
   - 34

@@ -19,8 +19,9 @@ order: 111
 featured: false
 cover:
   type: image
-  src: "/content/media/modus/uhd/modus-live-painting-uhd.jpg"
-  alt: Live painting on a tall illustrated panel during Modus Androginus
+  src: "/content/media/modus/uhd/modus-painting-full-enhanced.jpg"
+  alt: Artist painting a tall collage portrait at Modus Androginus
+show_cover_in_gallery: false
 gallery_layout: square-grid
 media:
 - type: image
@@ -115,8 +116,8 @@ portfolio_pdf:
     the collective work and its making, connecting bodily presence with images produced during a live
     event.
   images:
-  - src: /content/media/modus/uhd/modus-live-painting-uhd.jpg
-    caption: Live painting on a tall illustrated panel during Modus Androginus
+  - src: /content/media/modus/uhd/modus-painting-full-enhanced.jpg
+    caption: Artist painting a tall collage portrait at Modus Androginus
     fit: contain
   - src: /content/media/modus/uhd/modus-painting-close-enhanced.jpg
     caption: Close view of live painting at Modus Androginus

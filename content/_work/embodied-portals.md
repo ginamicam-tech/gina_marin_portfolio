@@ -2,8 +2,8 @@
 key: embodied-portals
 title: Embodied Portals
 name: Embodied Portals
-question: How can the body become a way into a digital world?
-summary: Ongoing experiments with vibe coding, p5.js and live computer vision, exploring gesture, play and poetry as interfaces.
+question: What does liquid architecture reflect back to us about our bodies?
+summary: An exploration of liquid architecture as a mirror of the body’s fluid materiality, developed through p5.js, live computer vision and embodied interaction.
 card_label: Creative coding & embodied interaction
 permalink: "/work/embodied-portals/"
 type: research
@@ -37,7 +37,13 @@ sections:
 
     An ongoing Art & Research exploration of live computer vision and embodied interfaces. Using p5.js, I experiment with digital portals that respond to a face, a gesture or a change of position. Movement becomes a way to enter, play with and reshape a digital environment.
 
-    The enquiry continues [Body.Interface](/work/body-interface/): how can we engage with technology while remaining attentive to bodily experience? Here, the screen becomes a place to test the relationship between what a machine detects and what a person chooses to express.
+    The enquiry continues my thesis, [Body.Interface](/work/body-interface/), particularly its discussion of liquid architecture. Drawing on Marcos Novak’s conception of digital space as dynamic and mutable, I approach the interface as an environment of flows, shifting boundaries and continual transformation.
+
+    In my thesis, I propose a poetic affinity between this digital fluidity and the water that constitutes so much of our bodies. Liquid architecture becomes a mirror: a technological space that resembles our own material condition, yet offers a reflection we may struggle to recognise as ourselves. Its apparent immateriality can obscure the living body through which it is experienced.
+
+    Embodied Portals brings this tension into practice. A face, a gesture or a movement reshapes the digital environment, making the relationship between bodily presence and its computational reflection perceptible. The experiments ask how we might inhabit that fluidity without losing touch with sensation, attention and bodily agency.
+
+    *Theoretical framework: my thesis, section 1.2, “Liquid Architecture,” pp. 15–16; in dialogue with Marcos Novak (1991).*
 - layout: newspaper
   text: |-
     ## Vibe coding as a sketching process
@@ -73,31 +79,26 @@ media:
   src: /content/media/embodied-portals/in-pressure-editor-start.png
   alt: "Body.Interface / IN-Pressure · Editor and opening screen"
   caption: "Body.Interface / IN-Pressure · Editor and opening screen"
-  fit: contain
 - type: image
   fit: contain
   src: /content/media/embodied-portals/in-pressure-face-detected.png
   alt: "Body.Interface / IN-Pressure · Face detection and starting state"
   caption: "Body.Interface / IN-Pressure · Face detection and starting state"
-  fit: contain
 - type: image
   fit: contain
   src: /content/media/embodied-portals/in-pressure-first-question.png
   alt: "Body.Interface / IN-Pressure · What arrives first?"
   caption: "Body.Interface / IN-Pressure · What arrives first?"
-  fit: contain
 - type: image
   fit: contain
   src: /content/media/embodied-portals/in-pressure-word-input.png
   alt: "Body.Interface / IN-Pressure · What stays with you?"
   caption: "Body.Interface / IN-Pressure · What stays with you?"
-  fit: contain
 - type: image
   fit: contain
   src: /content/media/embodied-portals/in-pressure-moving-border.png
   alt: "Body.Interface / IN-Pressure · If the border moves with you, did you cross it?"
   caption: "Body.Interface / IN-Pressure · If the border moves with you, did you cross it?"
-  fit: contain
 - type: video
   caption: "Face Galaxy / Dream Reality Machine · Movement through a digital space"
   sources:
@@ -178,6 +179,5 @@ portfolio_pdf:
     fit: contain
   - src: /content/media/embodied-portals/face-galaxy.png
     caption: Face Galaxy / Dream Reality Machine · Another state
-    fit: contain
   credits: 'Artistic concept and experiments: Gina Marín'
 ---

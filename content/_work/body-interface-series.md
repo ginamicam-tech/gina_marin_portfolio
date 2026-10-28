@@ -14,11 +14,11 @@ featured: false
 order: 300
 permalink: "/work/body-interface-series/"
 thumbnail:
-  src: /content/media/artworks/clean/graphic-12-square.jpg
+  src: /content/media/flowing-systems/cover-enhanced.png
   position: 50% 50%
   zoom: 1
 cover:
-  src: "/content/media/artworks/clean/graphic-12.jpg"
+  src: "/content/media/flowing-systems/cover-enhanced.png"
   alt: Flowing Systems I
 listing_context: 2017–2024 · Artwork series
 work_lists:
@@ -38,7 +38,7 @@ portfolio_pdf:
     than a fixed outline. Presented together, the selected pieces connect drawing and printmaking with
     the wider Body.Interface research into how bodies become images.
   images:
-  - src: /content/media/artworks/clean/graphic-12.jpg
+  - src: /content/media/flowing-systems/cover-enhanced.png
     caption: Flowing Systems I | 2018 | Ink on paper | 42 × 59.4 cm
     fit: contain
   - src: /content/media/artworks/clean/graphic-01.jpg

@@ -8,7 +8,7 @@ tags:
 - painting
 - body
 series: chromatic-body
-year: 2024
+year: 2022
 technique: Ink on paper
 dimensions: 42 × 59.4 cm
 featured: false

@@ -43,67 +43,67 @@ media:
   fit: contain
   src: "/content/media/in-huellas/drawing-02-17.jpg"
   alt: Drawing of feet fastened to bricks with ropes
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-18.jpg"
   alt: Frontal graphite study of feet and ankles
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-01.jpg"
   alt: Graphic study of a raised foot and its shadow
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-22.jpg"
   alt: Red drawing of feet bound with ropes
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-23.jpg"
   alt: Negative tonal study of overlapping feet in motion
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-21.jpg"
   alt: Black and white drawing of feet bound with ropes
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-20.jpg"
   alt: Red and graphite variation of bound feet
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-19.jpg"
   alt: Graphite drawing of feet and rope bindings
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-16.jpg"
   alt: Textured graphic study of overlapping feet
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-15.jpg"
   alt: Negative frontal study of feet and ankles
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-25.jpg"
   alt: Drawing of makeshift brick shoes secured with ropes
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-24.jpg"
   alt: Tonal digital variation of bound feet
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-28.jpg"
   alt: Graphite study of a raised foot and its shadow
-  caption: IN_Huellas · Drawing and digital variation from photoperformance · 2019
+  caption: Footprints · Drawing and digital variation from photoperformance · 2019
 sections:
 - layout: newspaper
   text: |-
@@ -120,7 +120,7 @@ sections:
 
     I translated these photographic records into drawings on paper, then developed the illustrated sequences into digital variations. Using transparency, graphic layers and compositional rearrangements, I explored how a physical gesture becomes a visual trace.
 
-    **IN_Huellas, 2019.** Mixed media: photoperformance documentation, illustration and digital editing.
+    **Footprints, 2019.** Mixed media: photoperformance documentation, illustration and digital editing.
 - layout: newspaper
   text: |-
     ## Between lightness and weight

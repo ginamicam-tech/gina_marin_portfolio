@@ -10,7 +10,7 @@ tags:
 series: chromatic-body
 year: 2021
 technique: Oil on canvas
-dimensions: 59.4 × 42 cm
+dimensions: 70 × 50 cm
 featured: false
 order: 221
 permalink: "/work/chromatic-body-blue/"

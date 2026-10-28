@@ -10,7 +10,7 @@ tags:
 series: chromatic-body
 year: 2018
 technique: Oil on canvas
-dimensions: 70 × 100 cm
+dimensions: 35 × 20 cm
 featured: false
 order: 218
 permalink: "/work/chromatic-body-figure-study/"

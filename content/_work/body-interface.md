@@ -4,8 +4,8 @@ title: Body.Interface
 permalink: "/work/body-interface/"
 order: 6
 name: Body.Interface
-listing_context: 2025 · MA research / Universidad Nacional de Córdoba
-context: Universidad Nacional de Córdoba · 2025 · MA research
+listing_context: 2025 · MA research / National University of Córdoba
+context: National University of Córdoba · 2025 · MA research
 role: Artist & researcher
 back_label: "← Work"
 back_url: "/work/"
@@ -112,7 +112,7 @@ credits:
 - role: Thesis adviser
   name: Carolina Romano
 - role: Institution
-  name: Universidad Nacional de Córdoba
+  name: National University of Córdoba
 - role: Clinical Fold photography, including the photograph used in the header montage
   name: Florencia Aravena
 - role: Self Archive photography and montage
@@ -134,7 +134,6 @@ portfolio_pdf:
     caption: Body.Interface on Are.na · Data Wound, in a Scanned Body. Collected references retain their
       respective authorship.
     fit: contain
-  credits: 'Research and artworks: Gina Marín. Thesis adviser: Carolina Romano. Universidad Nacional de
-    Córdoba. Clinical Fold photography, including the header montage: Florencia Aravena. Are.na references
+  credits: 'Research and artworks: Gina Marín. Thesis adviser: Carolina Romano. National University of Córdoba. Clinical Fold photography, including the header montage: Florencia Aravena. Are.na references
     retain their respective authorship.'
 ---

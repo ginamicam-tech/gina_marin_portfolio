@@ -40,10 +40,10 @@ portfolio_pdf:
     to ambiguity.'
   images:
   - src: /content/media/artworks/clean/chromatic-05.jpg
-    caption: Kinetic Traces | 2023 | Ink on paper | 42 × 59.4 cm
+    caption: Kinetic Traces | 2023 | Ink on paper | 40 × 30 cm
     fit: contain
   - src: /content/media/artworks/clean/chromatic-13.jpg
-    caption: Sea of Strings | 2018 | Ink on paper | 42 × 59.4 cm
+    caption: Sea of Strings | 2018 | Ink on paper | 40 × 30 cm
     fit: contain
   credits: 'Artist: Gina Marín'
 ---

@@ -28,7 +28,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2019–present · Freelance Visual Communication Consultant** — I develop visual identities, branded content, digital and print marketing assets, website materials and promotional campaigns for international clients, adapting content to different formats, briefs and communication channels. Projects include EkoBrisa and Morhaven Retreats. · Europe & Latin America
 
-- **2021–2023 · English Instructor** — I taught English classes and guided students through lessons and practice. · Faculty of Languages, Universidad Nacional de Córdoba · Córdoba, Argentina
+- **2021–2023 · English Instructor** — I taught English classes and guided students through lessons and practice. · Faculty of Languages, National University of Córdoba · Córdoba, Argentina
 
 - **2019–2023 · Gemma Yoga Studio** — Owner & Facilitator · Córdoba, Argentina
 
@@ -36,7 +36,7 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2019–2023 · Graphic Designer & Audiovisual Editor** — I designed digital and print assets and coordinated creative deliverables. · Zumma360
 
-- **2018–2023 · Exhibition Production & Art Handling** — I supported installation, spatial organisation and artwork handling within a university arts environment. · [Universidad Nacional de Córdoba · CePIA](https://artes.unc.edu.ar/centros/cepia/)
+- **2018–2023 · Exhibition Production & Art Handling** — I supported installation, spatial organisation and artwork handling within a university arts environment. · [CePiA · Arts Research Centre](https://artes.unc.edu.ar/centros/cepia/)
 
 - **2017–2023 · Video Artist & Visuals Designer** — I developed projections and audiovisual environments with artists, performers and technical teams. · Freelance · Cultural and performance projects
 
@@ -57,11 +57,11 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2023 · Onyx Om Festival** — Live Painting Artist & Performer · Onyx Om Festival · Córdoba, Argentina
 
-- **2022 · Materiality** — Group Exhibition · [CePIA, Center for Production and Research in the Arts](https://artes.unc.edu.ar/centros/cepia/) · Córdoba, Argentina
+- **2022 · Materiality** — Group Exhibition · [CePiA, Arts Research Centre](https://artes.unc.edu.ar/centros/cepia/) · Córdoba, Argentina
 
 - **2021 · Contemporary Art Market (MAC)** — Participating visual artist · Mercado de Arte Contemporáneo · Córdoba, Argentina
 
-- **2021 · Clinical Fold** — Photo-performance artist & costume designer · [CePIA, Center for Production and Research in the Arts](/work/clinical-fold/) · Córdoba, Argentina
+- **2021 · Clinical Fold** — Photo-performance artist & costume designer · [CePiA, Arts Research Centre](/work/clinical-fold/) · Córdoba, Argentina
 
 - **2020–2021 · Women and LGTBIQ+ Altar #LivesInStruggle** — Collaborating research artist & audiovisual content producer · [Centro Cultural Kirchner](/portfolio/altar-mujeres-sxxi/) · Buenos Aires, Argentina
 
@@ -75,11 +75,11 @@ I am an interdisciplinary creative professional specialising in contemporary art
 
 - **2019 · Creative Process Facilitation** — Workshop facilitator in participatory artistic processes · Garín Space · Córdoba, Argentina
 
-- **2018 · Laughing with Water! (Risas al Agua)** — Illustrator · Special mention in illustration · Universidad Nacional de Córdoba · Córdoba, Argentina
+- **2018 · Laughing with Water! (Risas al Agua)** — Illustrator · Special mention in illustration · National University of Córdoba · Córdoba, Argentina
 
 - **2018 · Graphic Experiences** — Group Exhibition · Córdoba Israeli Cultural Association (ACIC) · Córdoba, Argentina
 
-- **2018 · Bite Fibrous Flesh** — Performer · [CePIA, Center for Production and Research in the Arts](https://artes.unc.edu.ar/centros/cepia/) · Córdoba, Argentina
+- **2018 · Bite Fibrous Flesh** — Performer · [CePiA, Arts Research Centre](https://artes.unc.edu.ar/centros/cepia/) · Córdoba, Argentina
 
 - **2017 · Tetragram** — Co-creator, aerial performer & costume designer · La Caracola Cultural Center · Córdoba, Argentina
 
@@ -88,20 +88,20 @@ I am an interdisciplinary creative professional specialising in contemporary art
 ## Education
 {: #about-education-title}
 
-- **2025 · Master’s Degree in Visual Arts and Digital Media** — Thesis: [IN/Pressions of a Body. Interface: Poetics, Clinical Practice, and Its Symbolic Activation in the Age of Liquid Architecture.](/work/body-interface/) · [Universidad Nacional de Córdoba (UNC)](https://www.unc.edu.ar/) · Córdoba, Argentina
+- **2025 · Master’s Degree in Visual Arts and Digital Media** — Thesis: [IN/Pressions of a Body. Interface: Poetics, Clinical Practice, and Its Symbolic Activation in the Age of Liquid Architecture.](/work/body-interface/) · [National University of Córdoba](https://www.unc.edu.ar/) · Córdoba, Argentina
 
 The thesis examines how bodily presence and personal agency can be sustained within digital life. Through Clinical Fold and Self Archive, supported by earlier drawing, printmaking and artist’s book projects, it connects performance and image-making with attention, care and the choice of how to appear online. [Read the English summary and view the projects →](/work/body-interface/)
 
-- **2020 · Bachelor’s Degree in Visual Arts** — [Universidad Nacional de Córdoba (UNC)](https://www.unc.edu.ar/) · Córdoba, Argentina
+- **2020 · Bachelor’s Degree in Visual Arts** — [National University of Córdoba](https://www.unc.edu.ar/) · Córdoba, Argentina
 
-- **2015 · Industrial Design and Technical Drawing Studies** — [Faculty of Architecture, Urbanism and Industrial Design, Universidad Nacional de Córdoba (UNC)](https://faud.unc.edu.ar/carrera-de-diseno-industrial/) · Córdoba, Argentina
+- **2015 · Industrial Design and Technical Drawing Studies** — [Faculty of Architecture, Urbanism and Industrial Design, National University of Córdoba](https://faud.unc.edu.ar/carrera-de-diseno-industrial/) · Córdoba, Argentina
 
-- **2007–2010 · Surveying Engineering Studies (degree not completed)** — [Universidad Nacional de Córdoba (UNC)](https://fcefyn.unc.edu.ar/) · Córdoba, Argentina
+- **2007–2010 · Surveying Engineering Studies (degree not completed)** — [National University of Córdoba](https://fcefyn.unc.edu.ar/) · Córdoba, Argentina
 
 ## Certifications & Training
 {: #about-training-title}
 
-- **2023 · English Course Trainer Certification** — [Progresar Program, National University of Córdoba (UNC)](https://www.unc.edu.ar/) · Córdoba, Argentina
+- **2023 · English Course Trainer Certification** — [Progresar Program, National University of Córdoba](https://www.unc.edu.ar/) · Córdoba, Argentina
 
 - **2022 · Accessible Communication and Universal Design in Digital Networks** — [Centro Cultural España Córdoba](https://ccec.com.ar/) · Córdoba, Argentina
 

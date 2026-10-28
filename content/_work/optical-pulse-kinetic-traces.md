@@ -10,7 +10,7 @@ tags:
 series: optical-pulse
 year: 2023
 technique: Ink on paper
-dimensions: 42 × 59.4 cm
+dimensions: 40 × 30 cm
 featured: false
 order: 228
 permalink: "/work/optical-pulse-kinetic-traces/"

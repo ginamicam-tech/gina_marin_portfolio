@@ -94,9 +94,9 @@ sections:
     include: true
 cv:
   education:
-  - 2025 | MA in Visual Arts and Digital Media, Universidad Nacional de Córdoba.
-  - 2020 | Bachelor’s Degree in Visual Arts, Universidad Nacional de Córdoba.
-  - 2015 | Industrial Design and Technical Drawing Studies, Universidad Nacional de Córdoba.
+  - 2025 | MA in Visual Arts and Digital Media, National University of Córdoba.
+  - 2020 | Bachelor’s Degree in Visual Arts, National University of Córdoba.
+  - 2015 | Industrial Design and Technical Drawing Studies, National University of Córdoba.
   experience:
   - 2026-present | Vice Chair, Illutron Anchors; community coordination and creative communication.
   - '2025-present | Blindmotion: inclusive activities and accessible learning materials.'

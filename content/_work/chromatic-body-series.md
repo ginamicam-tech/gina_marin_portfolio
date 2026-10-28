@@ -44,7 +44,7 @@ portfolio_pdf:
     caption: Inner Mirror | 2020 | Oil on canvas | 42 × 59.4 cm
     fit: contain
   - src: /content/media/artworks/clean/chromatic-01.jpg
-    caption: Figure Study | 2018 | Oil on canvas | 70 × 100 cm
+    caption: Figure Study | 2018 | Oil on canvas | 35 × 20 cm
     fit: contain
   credits: 'Artist: Gina Marín'
 ---

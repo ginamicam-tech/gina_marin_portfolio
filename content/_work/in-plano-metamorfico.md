@@ -14,11 +14,12 @@ order: 106
 featured: false
 question: How does a body change as it passes through a material?
 summary: Etching and aquatint exploring a body between human, mechanical and imagined forms.
-context: Universidad Nacional de Córdoba · Argentina · 2018
+context: National University of Córdoba · Argentina · 2018
 role: Artist
 cover:
-  src: "/content/media/thesis/in-plano-metamorfico-colour.jpg"
-  alt: A coloured print combining faces, mechanical forms and wave-like lines
+  src: "/content/media/thesis/in-plano-metamorfico-print.jpg"
+  alt: Black and white print of a hybrid body and mechanical structures
+show_cover_in_gallery: false
 media:
 - type: image
   src: "/content/media/thesis/in-plano-metamorfico-print.jpg"

@@ -14,7 +14,7 @@ tags:
 filter_groups:
 - art-research
 permalink: /work/fibrous-flesh/
-context: CePIA · Faculty of Arts, Universidad Nacional de Córdoba · 2017
+context: CePiA · Arts Research Centre · 2017
 role: Co-creator
 summary: A collaborative performance exploring bodily identity, consumer culture and resistance through stillness and projected imagery.
 cover:
@@ -29,7 +29,7 @@ sections:
 
     The phrase “bite into fibrous flesh and obtain metallic arrows” condenses the work’s tension between organic vulnerability and the hardness of social conditioning. Flesh becomes a material from which something rigid, directional, and potentially violent emerges, suggesting a system that transforms lived experience into prescribed forms of behaviour and desire. Yet the fibrous also implies endurance: tissue holds together under pressure. Within this enclosure, the possibility of a fissure—a narrow opening through which light might enter—allows resistance to remain imaginable. The work asks what persists of bodily identity when the self is repeatedly organised, displayed, and consumed.
 
-    Presented at [CePIA, the Center for Production and Research in the Arts](https://artes.unc.edu.ar/centros/cepia/), part of the Faculty of Arts at Universidad Nacional de Córdoba, Argentina, in 2017.
+    Presented at [CePiA, the Arts Research Centre](https://artes.unc.edu.ar/centros/cepia/), Argentina, in 2017.
 credits:
 - role: Co-creation
   name: Gina Marín, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez
@@ -77,7 +77,7 @@ portfolio_pdf:
     presence and apparent interchangeability. Light and projected imagery pass across their skin, examining
     how consumer culture shapes bodily identity. Stillness suggests both exhaustion and the possibility
     of withholding participation. Co-created with Angeles Torino, Yoseli Leiva, Lenna Aravena and Jazmin
-    Lopez, the work was presented at CePIA, Universidad Nacional de Córdoba.
+    Lopez, the work was presented at CePiA, the Arts Research Centre.
   images:
   - src: /content/media/fibrous-flesh/performance-01.png
     caption: Five still performers arranged in alternating orientations under warm projected light

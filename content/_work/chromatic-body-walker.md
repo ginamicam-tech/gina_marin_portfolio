@@ -10,7 +10,7 @@ tags:
 series: chromatic-body
 year: 2017
 technique: Oil on canvas
-dimensions: 42 × 59.4 cm
+dimensions: 70 × 100 cm
 featured: false
 order: 222
 permalink: "/work/chromatic-body-walker/"

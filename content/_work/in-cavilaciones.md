@@ -14,7 +14,7 @@ order: 105
 featured: false
 question: Can a book give shape to scattered thoughts?
 summary: A mixed-media artist’s book that moves between tactile pages and a digitally edited version.
-context: Universidad Nacional de Córdoba · Argentina · 2019
+context: National University of Córdoba · Argentina · 2019
 role: Artist
 cover:
   src: "/content/media/thesis/in-cavilaciones-book.jpg"

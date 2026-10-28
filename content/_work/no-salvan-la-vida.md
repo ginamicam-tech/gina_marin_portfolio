@@ -201,7 +201,8 @@ supporters:
 portfolio_pdf:
   category: projects-production
   layout: project
-  summary: This collective exhibition brought installation, individual artworks, live music and a creativity
+  summary: >-
+    This collective exhibition brought installation, individual artworks, live music and a creativity
     workshop together at Casa de Pepino in Córdoba. I curated and organised the exhibition, secured sponsors
     and contributed as an installation artist within Atmosphere Collective. My work connected the placement
     and relationships of artworks with communication, public programming and the practical support needed

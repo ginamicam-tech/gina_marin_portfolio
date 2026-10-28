@@ -18,9 +18,10 @@ context: Visual Narratives Laboratory · National University of Córdoba · Arge
 technique: Mixed media · Photoperformance documentation, illustration and digital editing
 role: Artist
 cover:
-  src: "/content/media/in-huellas/drawing-02-17.jpg"
-  alt: Drawing of feet fastened to bricks with ropes
+  src: "/content/media/in-huellas/drawing-02-20.jpg"
+  alt: Red and graphite drawing of feet bound with ropes
   fit: contain
+show_cover_in_gallery: false
 gallery_layout: square-grid
 media:
 - type: image
@@ -146,8 +147,8 @@ portfolio_pdf:
     with the marks and images they leave behind. The work forms an earlier strand of the enquiry developed
     through Body.Interface.
   images:
-  - src: /content/media/in-huellas/drawing-02-17.jpg
-    caption: Drawing of feet fastened to bricks with ropes
+  - src: /content/media/in-huellas/drawing-02-20.jpg
+    caption: Red and graphite drawing of feet bound with ropes
     fit: contain
   - src: /content/media/thesis/in-huellas-drawing.jpg
     caption: IN_Footprints · Gina Marín · 2019

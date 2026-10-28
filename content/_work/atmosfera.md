@@ -23,7 +23,8 @@ cover:
   type: image
   src: "/content/media/atmosfera/group-portrait-enhanced.jpg"
   alt: Four members of Atmosphere Collective together
-  fit: contain
+  fit: cover
+  position: 50% 65%
 gallery_layout: square-grid
 gallery_aspect: landscape
 media:

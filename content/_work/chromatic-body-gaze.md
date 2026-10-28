@@ -10,7 +10,7 @@ tags:
 series: chromatic-body
 year: 2018
 technique: Oil on canvas
-dimensions: 42 × 59.4 cm
+dimensions: 50 × 30 cm
 featured: false
 order: 226
 permalink: "/work/chromatic-body-gaze/"

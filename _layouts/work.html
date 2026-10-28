@@ -19,7 +19,7 @@ layout: default
   {% include sections.html sections=page.archive_sections %}
   {% if page.credits %}{% include credits.html credits=page.credits note=page.credit_note %}{% endif %}
   {% if page.cover and page.type != 'series' or page.media %}
-  <div class="media-grid{% if page.gallery_layout == 'square-grid' %} media-grid--square{% endif %}{% if page.gallery_layout == 'single-column' %} media-grid--single-column{% endif %}{% if page.type == 'artwork' %} media-grid--artwork{% endif %}{% if page.artwork_presentation == 'flat' %} media-grid--flat-artwork{% endif %}">
+  <div class="media-grid{% if page.gallery_layout == 'square-grid' %} media-grid--square{% endif %}{% if page.gallery_aspect == 'landscape' %} media-grid--landscape{% endif %}{% if page.gallery_layout == 'single-column' %} media-grid--single-column{% endif %}{% if page.type == 'artwork' %} media-grid--artwork{% endif %}{% if page.artwork_presentation == 'flat' %} media-grid--flat-artwork{% endif %}">
     {% if page.cover and page.type != 'series' and page.show_cover_in_gallery != false %}{% include media.html item=page.cover %}{% endif %}
     {% for item in page.media %}{% include media.html item=item %}{% endfor %}
   </div>

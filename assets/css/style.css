@@ -188,3 +188,8 @@ h1,h2,h3,h4,h5,h6,button,input,select,textarea,.eyebrow,.site-header,.site-foote
 
 /* A subtle document edge distinguishes captured web pages from photographs. */
 .media-webpage>img{background:#fff;border:1px solid #e5e5e5;box-shadow:0 5px 18px rgb(0 0 0 / 14%);border-radius:3px}
+
+/* Matching landscape frames keep complete brand-guideline spreads aligned. */
+.media-grid--landscape{gap:32px;align-items:start}
+.media-grid--landscape>figure{display:block;grid-row:auto;padding:0;margin:0}
+.media-grid--landscape>figure>img,.media-grid--landscape>figure>a>img{display:block;width:100%;height:auto;aspect-ratio:16 / 9;object-fit:contain;background:#faf4ec}

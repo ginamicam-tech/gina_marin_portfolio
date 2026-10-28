@@ -12,7 +12,9 @@ back_url: "/work/"
 cover:
   src: "/content/media/portfolio/morhaven-1.jpg"
   alt: Morhaven logo in concentric circles on a muted coastal blue field
+  fit: contain
 gallery_layout: square-grid
+gallery_aspect: landscape
 media:
 - type: image
   src: /content/media/portfolio/morhaven-7.jpg

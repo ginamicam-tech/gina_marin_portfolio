@@ -21,9 +21,24 @@ order: 110
 featured: false
 cover:
   type: image
-  src: "/content/media/portfolio-additions/atmosfera-collective.png"
+  src: "/content/media/atmosfera/group-portrait-enhanced.jpg"
   alt: Four members of Atmosphere Collective together
+  fit: contain
+gallery_layout: square-grid
+gallery_aspect: landscape
 media:
+- type: image
+  src: /content/media/atmosfera/exhibition-group-enhanced.jpg
+  alt: Four members of Atmosphere Collective in an exhibition space
+  fit: contain
+- type: image
+  src: /content/media/atmosfera/night-group-enhanced.jpg
+  alt: Members of the collective together at night
+  fit: contain
+- type: image
+  src: /content/media/atmosfera/outdoor-paintings-enhanced.jpg
+  alt: Four artists holding their paintings outdoors
+  fit: contain
 - type: image
   src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg
   alt: Projected imagery across a group of performers
@@ -112,7 +127,7 @@ portfolio_pdf:
     a context for projects including Modus Androginus, Yellow Poison Land and They Do Not Save Life, Nor
     Sustain the Soul.
   images:
-  - src: /content/media/portfolio-additions/atmosfera-collective.png
+  - src: /content/media/atmosfera/group-portrait-enhanced.jpg
     caption: Four members of Atmosphere Collective together
     fit: contain
   - src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg

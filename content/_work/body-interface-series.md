@@ -1,8 +1,8 @@
 ---
 card_label: Bodies & digital space
 year_start: 2017
-title: Body Interface
-name: Body Interface
+title: Flowing Systems
+name: Flowing Systems
 type: series
 key: body-interface-series
 tags:

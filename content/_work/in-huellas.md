@@ -20,7 +20,7 @@ role: Artist
 cover:
   src: "/content/media/in-huellas/drawing-02-20.jpg"
   alt: Red and graphite drawing of feet bound with ropes
-  fit: contain
+  fit: cover
 show_cover_in_gallery: false
 gallery_layout: square-grid
 media:

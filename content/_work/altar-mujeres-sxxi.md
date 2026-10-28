@@ -120,7 +120,9 @@ sections:
   text: |-
     ## About the project
 
-    Altar brings portraits, biographies and QR links together in a shared archive of women and LGBTI+ lives. Initiated by Silvia Barrios, the project grew through collective research and public exhibitions. At the 2020 CCK edition in Buenos Aires, visitors could encounter the portraits in the space and follow links to the stories behind them.
+    Altar brings portraits, biographies and QR links together in a collective archive that reclaims recognition for women’s contributions to society. Initiated by Silvia Barrios, it connects artistic research with public exhibition, foregrounding women whose work and struggles have challenged exclusion from professional, cultural and political life. This focus forms part of the project’s broader commitment to women and LGBTI+ lives, gender equality and resistance to patriarchal violence.
+
+    At the 2020 CCK edition in Buenos Aires, printed ceramic portraits linked visitors to digital biographies through QR codes. Research, installation and audiovisual material brought individual stories into a shared public space, inviting audiences to reflect on whose achievements are recognised, whose voices are heard and how collective memory is constructed.
 - layout: newspaper
   text: |-
     ## My part
@@ -141,7 +143,7 @@ sections:
     The gallery includes the collective portrait archive, exhibition views, moving-image documentation and communication from different editions. These materials include the work of other contributors.
 
     [Official project archive](https://altarmujeressxxi.wordpress.com/) · [Project history](https://culturasolidariaenred.wordpress.com/proyecto-altar-mujeres-sxxi/) · [CCK opening video](https://www.facebook.com/altarmujeressxxi/videos/199489048002924/)
-question: How can artistic research bring overlooked histories into public view?
+question: How can art reclaim recognition for women’s contributions to professional and public life?
 show_cover_in_gallery: false
 anchors:
 - exhibition-credits-title

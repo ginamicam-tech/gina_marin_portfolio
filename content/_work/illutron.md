@@ -11,8 +11,8 @@ role: Vice Chair, Illutron Anchors · Community & Creative Projects
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/illutron/barge-daylight-cover.png"
-  alt: Illutron barge in daylight behind the large black ILLUTRON sign
+  src: "/content/media/illutron/barge-night-cover.jpg"
+  alt: Illutron barge at night with illuminated orange and pink sculptures and visitors
   position: 50% 60%
 gallery_layout: square-grid
 media:

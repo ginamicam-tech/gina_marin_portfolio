@@ -3,6 +3,7 @@ parent: atmosfera
 key: yellow-poison-land
 title: Yellow Poison Land
 name: Yellow Poison Land
+question: How does the desire to possess beauty become violence against the living world?
 card_label: Collaborative photography
 type: project
 year: 2019

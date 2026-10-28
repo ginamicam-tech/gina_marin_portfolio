@@ -10,7 +10,7 @@ tags:
 series: chromatic-body
 year: 2020
 technique: Oil on canvas
-dimensions: 42 × 59.4 cm
+dimensions: 100 × 40 cm
 featured: false
 order: 223
 permalink: "/work/chromatic-body-inner-mirror/"

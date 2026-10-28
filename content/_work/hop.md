@@ -62,6 +62,31 @@ media:
   src: /content/media/hop/collective-8725.jpg
   alt: A laptop displaying fragments of poetic text during the creative process
   position: 50% 50%
+- type: image
+  src: /content/media/hop/collective-projection-04890.jpg
+  alt: Participants in front of a projected collective drawing
+  position: 50% 50%
+  credit: "Photography: Mads Hobye and Jacob Stage"
+- type: image
+  src: /content/media/hop/collective-drawing-06155.jpg
+  alt: Hands drawing concentric lines on paper under warm light
+  position: 50% 50%
+  credit: "Photography: Mads Hobye and Jacob Stage"
+- type: image
+  src: /content/media/hop/collective-writing-06157.jpg
+  alt: A participant writing reflections on paper under warm light
+  position: 50% 50%
+  credit: "Photography: Mads Hobye and Jacob Stage"
+- type: image
+  src: /content/media/hop/collective-projection-06803.jpg
+  alt: A hand interacting with projected concentric lines
+  position: 50% 50%
+  credit: "Photography: Mads Hobye and Jacob Stage"
+- type: image
+  src: /content/media/hop/collective-brushes-jacob-stage.jpg
+  alt: Paintbrushes arranged for the collective creative process
+  position: 50% 50%
+  credit: "Photography: Mads Hobye and Jacob Stage"
 sections:
 - layout: newspaper
   text: |-

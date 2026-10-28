@@ -2,6 +2,7 @@
 key: fibrous-flesh
 title: Fibrous Flesh
 name: Fibrous Flesh
+question: How can the body resist the identities imposed by consumer culture?
 card_label: Collaborative performance
 type: project
 year: 2017

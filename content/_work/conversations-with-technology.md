@@ -16,9 +16,8 @@ filter_groups:
 parent: body-interface
 permalink: /work/conversations-with-technology/
 question: How does technology shape the ways we recognise ourselves?
-summary: Drawing, poetic writing and experimental artist publications explore how mediation shapes identity, memory
-  and emotional proximity, bringing intimate gestures into shared experience.
-context: Artist publications and works on paper · 2019
+summary: Early fanzines and illustrated dialogues emerging from interaction with the computer explore the body as flesh, dust, time and space through drawing, poetic writing and experimental publishing.
+context: CePiA · Arts Research Centre · Spain Cultural Centre, Córdoba · Argentina
 role: Artist
 cover:
   src: /content/media/conversations-with-technology/publications-and-cutouts.jpg
@@ -27,38 +26,29 @@ show_cover_in_gallery: false
 sections:
 - layout: newspaper
   text: |-
-    ## Drawing, mediation, and experimental publishing
+    ## Early dialogues with the computer
 
-    This body of work brings drawing, poetic writing, and experimental publishing into dialogue with questions developed through my thesis research on technology and subjectivity. It explores how mediated experience shapes our perception of time, our sense of proximity, and the ways we recognise ourselves. Technology enters the work as a condition of everyday experience: something that participates in how we feel, remember, communicate, and imagine.
+    These fanzines and works on paper emerged from my first attempts to perceive and articulate what happened to my sense of self through interaction with the computer. Developed within the contexts of CePiA (Arts Research Centre) and the Spain Cultural Centre in Córdoba, they brought drawing, poetic writing and experimental publishing together as a space for reflection. As I worked with the screen, I began to write dialogues: exchanges between voices, sensations and questions that did not resolve into a single position. The computer became part of the situation from which the writing arose, shaping the rhythm of attention, the distance between thought and image, and the experience of encountering my own words through a technical surface. These publications mark an early stage in the enquiry that would later develop into *Body.Interface*, in which the relationship between the living body and its mediated presence became a sustained artistic and theoretical concern.
 - layout: newspaper
   text: |-
-    ## Drawing as inquiry
+    ## Flesh, dust, and the question of life
 
-    Drawing becomes a way of thinking through these relationships. Accumulated lines, dense black marks, interrupted contours, and red-orange fields create a visual language suspended between bodily sensation and abstract terrain. Forms appear to gather, dissolve, and reassemble. Their uncertain boundaries evoke a subject whose identity takes shape through encounters with images, signals, other bodies, and technical environments.
-
-    The relationship between drawing and technology unfolds as a conversation. The drawn mark carries the duration and pressure of a gesture; its repetition across printed copies brings that gesture into a different rhythm of circulation. This movement raises a central question within the research: what happens to an intimate trace when it becomes reproducible, shareable, and available to others? The publications hold together these different scales of experience—the singular act of making a mark and the collective life an image acquires through distribution.
+    The conceptual framework of the project begins with the body as a changing material condition. The body as flesh names the immediacy of sensation: the vulnerability of skin, the pressure of a gesture, the density of being alive and the impossibility of experiencing the world without being affected by it. The body as dust introduces another scale, in which the apparent unity of the individual opens onto dispersal, residue and transformation. Between these two images, I ask what life is, how it becomes perceptible, and what remains when the forms through which we recognise a body begin to dissolve. Flesh and dust therefore operate as interdependent figures through which to think about presence and impermanence. The drawings translate this tension into accumulated marks, interrupted contours and forms that gather and fragment, while the writing allows different voices to inhabit the uncertainty of a body that is simultaneously living matter and matter in transition.
 - layout: newspaper
   text: |-
-    ## Writing through mediation
+    ## The body as time and space
 
-    The accompanying texts extend this inquiry through fragmented dialogue, unanswered questions, and shifting voices. References to radio frequencies, artificiality, mechanical movement, distance, and reflection place emotional experience within a field of transmission. Closeness emerges as something negotiated through mediation. Loss persists as residue; identity appears as an ongoing process of becoming. The writing gives these tensions a temporal structure, allowing hesitation, interruption, and return to shape the act of reading.
+    To think of the body as time is to recognise that experience leaves traces: memory, repetition, fatigue, anticipation and loss become part of how a body inhabits the present. To think of the body as space is to consider how it establishes distances, occupies a place, encounters limits and enters into relation with other bodies and environments. In these publications, time and space are approached through the lived experience of writing, drawing and interacting with the computer. The screen offers a field in which images can be displaced, repeated and recomposed, while the body continues to experience the duration of the gesture and the material circumstances of its production. The dialogues emerge within this relationship, attending to the gap between the mobility of a digital image and the situated life of the person who makes and observes it. Rather than closing that gap, the work uses it as a space for questioning how presence is constructed and how a body recognises itself across different forms of mediation.
 - layout: newspaper
   text: |-
-    ## The publication as a research space
+    ## The fanzine as a material space for thought
 
-    Within this framework, the fanzine functions as a material space for research. The page brings language and image into contact while allowing their differences to remain visible. Changes in density, empty space, and the relationship between text and drawing invite the reader to move between looking and reading, recognition and uncertainty. Handling the publication introduces another dimension: thought becomes something that can be held, revisited, and passed between people.
+    Experimental publishing gave these reflections a form that could be handled, revisited and shared. Drawing and text coexist on the page as distinct but connected modes of enquiry: a dense field of marks can interrupt a sentence, an empty area can prolong a pause, and a fragment of dialogue can redirect the reading of an image. The passage from interaction with the computer to the printed publication returns these questions to a tactile encounter, where thought acquires weight, surface and sequence. Reproduction also changes the scale of the work, allowing an intimate reflection to circulate between readers without fixing it into a definitive explanation. In this sense, the fanzine functions as a research space in its own right, holding together bodily sensation, existential questioning and the technical processes through which language and images become available to others.
 - layout: newspaper
   text: |-
-    ## Circulation and encounter
+    ## Context and circulation
 
-    Presented at Copperweld, a fair dedicated to experimental editions, the work entered a context of independent publishing and direct exchange. This setting is integral to its conceptual significance. Circulation becomes part of the inquiry into connection: a publication travels from one person to another, creating an encounter through a material object.
-
-    Presented at **Copperweld, Experimental Editions Fair**, Centro Cultural España Córdoba, Argentina, **30 November 2021**.
-- layout: newspaper
-  text: |-
-    ## In dialogue with the thesis
-
-    Read in relation to my thesis, these works articulate an early investigation into technologically mediated subjectivity. They approach drawing as a method of inquiry and publishing as a way of making that inquiry public. Their central concern is how to sustain sensitivity, ambiguity, and the possibility of connection within the systems through which contemporary experience takes form.
+    The project developed in the contexts of **CePiA (Arts Research Centre)** and the **Spain Cultural Centre in Córdoba, Argentina**. Its circulation included **Copperweld, Experimental Editions Fair**, at the Spain Cultural Centre in Córdoba on **30 November 2021**. Bringing these publications into spaces of exchange extended their enquiry into relation and encounter: the dialogues generated through an individual engagement with the computer became material objects through which other people could read, interpret and respond.
 
     [Explore Body.Interface →](/work/body-interface/)
 credits:
@@ -92,15 +82,16 @@ media:
 - type: image
   src: /content/media/conversations-with-technology/copperweld-poster.jpg
   alt: Green and white Copperweld Experimental Editions Fair poster dated 30 November 2021
-  caption: Copperweld · Event poster · Centro Cultural España Córdoba · 2021
+  caption: Copperweld · Event poster · Spain Cultural Centre, Córdoba · 2021
 portfolio_pdf:
   category: art-research
   layout: project
   summary: Drawing, poetic writing and experimental publishing explore how mediation shapes identity,
     memory and emotional proximity. Dense marks and fragmented forms move between bodily sensation and
     abstract terrain. Repetition across printed copies brings an intimate gesture into shared circulation.
-    Developed alongside my thesis research, the publications were presented at Copperweld, Experimental
-    Editions Fair, Centro Cultural España Córdoba, on 30 November 2021.
+    These early enquiries later developed into my thesis research. Developed in the contexts of CePiA
+    (Arts Research Centre) and the Spain Cultural Centre in Córdoba, the publications were presented at Copperweld, Experimental
+    Editions Fair, Spain Cultural Centre, Córdoba, on 30 November 2021.
   images:
   - src: /content/media/conversations-with-technology/publications-and-cutouts.jpg
     caption: Artist publications and cut-out figures with black linework and red accents

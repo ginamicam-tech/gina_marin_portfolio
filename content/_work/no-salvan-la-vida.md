@@ -122,7 +122,7 @@ sections:
   text: |-
     ## About the project
 
-    *They Do Not Save Life, Nor Sustain the Soul* brought together Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina Marín at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
+    *They Do Not Save Life, Nor Sustain the Soul* was a group exhibition by Atmosphere Collective — Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina Marín — at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
 - layout: newspaper
   text: |-
     ## Curatorial framework
@@ -152,9 +152,9 @@ sections:
   text: |-
     ## Curatorial management, production and post-production
 
-    I managed the curatorial project across production and post-production, coordinated the exhibition and secured sponsorship. I brought together artistic planning, installation requirements, public communication and exhibition documentation to support the project’s public presentation. Alongside this work, I contributed as an installation artist within [Atmosphere Collective](/work/atmosfera/). My curatorial work addressed the relationships between the artworks, their placement in the space and the information available to visitors. Communication and the public programme created further ways for people to encounter the work. I connected these artistic decisions with the organisation and support needed to make the exhibition happen.
+    As part of Atmosphere Collective, I contributed to the shared work of curatorial project management, production, post-production and sponsorship. Together, we connected artistic planning, installation requirements, public communication and exhibition documentation to bring the exhibition into public presentation. Alongside this work, I contributed as an installation artist within [Atmosphere Collective](/work/atmosfera/). Our curatorial work addressed the relationships between the artworks, their placement in the space and the information available to visitors. Communication and the public programme created further ways for people to encounter the work. We connected these artistic decisions with the organisation and support needed to make the exhibition happen.
 - layout: newspaper
-  text: "## Credits and documentation\n\n**Curatorial project management, production, post-production and sponsorship:** Gina Marín.  \n**Participating artists:** Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina
+  text: "## Credits and documentation\n\n**Curatorial project management, production, post-production and sponsorship:** Atmosphere Collective — Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina Marín.  \n**Participating artists:** Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina
     Marín.  \n**Presentation:** Espacio Garín at Centro Cultural Municipal Casa de Pepino.  \n**Opening music:** Gluko Lin.\n\nThe
     photographs and video document the collective exhibition, its opening and public programme.\n\n[Contemporary press coverage](https://hoydia.com.ar/negocios-y-empresas/61370-espacio-garin-inaugura-hoy-la-muestra-no-salvan-la-vida-ni-sustentan-el-alma/)
     · [Exhibition archive](https://www.instagram.com/p/B1YrSjVA_iQ/)"
@@ -203,8 +203,8 @@ portfolio_pdf:
   layout: project
   summary: >-
     This collective exhibition brought installation, individual artworks, live music and a creativity
-    workshop together at Casa de Pepino in Córdoba. I curated and organised the exhibition, secured sponsors
-    and contributed as an installation artist within Atmosphere Collective. My work connected the placement
+    workshop together at Casa de Pepino in Córdoba. Atmosphere Collective shared curatorial management, production, post-production and sponsorship.
+    I contributed to this collective work and exhibited my installation. Our work connected the placement
     and relationships of artworks with communication, public programming and the practical support needed
     to bring the exhibition into public view. Its curatorial framework explores fragmented bodies and
     shared realities through four installations: Clinamen, The Useless Body, I Left and The Eclipse Garden.
@@ -215,7 +215,7 @@ portfolio_pdf:
   - src: /content/media/portfolio/exhibitions/no-salvan-installation-colour.jpg
     caption: Visitor encountering translucent coloured garments suspended against the exhibition wall
     fit: contain
-  credits: 'Curatorial project management, production, post-production and sponsorship: Gina Marín. Participating artists: Paz Herrera, Nayra
+  credits: 'Curatorial project management, production, post-production and sponsorship: Atmosphere Collective. Participating artists: Paz Herrera, Nayra
     Vallejos, Ara Aravena and Gina Marín. Presented by Espacio Garín at Casa de Pepino. Images document
     the collective exhibition.'
 ---

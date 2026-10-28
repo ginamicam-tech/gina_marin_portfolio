@@ -14,31 +14,79 @@ order: 107
 featured: false
 question: How can layers of print make a body resonate?
 summary: A printmaking project built through carved wooden blocks, colour layers and repeated bodily forms.
-context: Universidad Nacional de Córdoba · Argentina · 2018
+context: National University of Córdoba · Argentina · 2018
 role: Artist
 cover:
-  src: "/content/media/thesis/in-resonancia-corporea-print.jpg"
-  alt: Layered coloured woodcut of an outstretched figure inside an ellipse
+  src: /content/media/resonancia-corporea/print-blue-red.png
+  alt: Blue bodily figure within a red and black elliptical field
+  fit: contain
+gallery_layout: square-grid
 media:
 - type: image
-  src: "/content/media/thesis/in-resonancia-corporea-blocks.jpg"
-  alt: Three carved wooden blocks used in the printmaking process
+  src: /content/media/resonancia-corporea/print-red-black.png
+  alt: Red and black layered colour woodcut
+  fit: contain
   caption: IN_Bodily Resonance · Gina Marín · 2018
 - type: image
-  src: "/content/media/thesis/in-resonancia-corporea-proof.jpg"
-  alt: Black and white print with a central figure and radiating bands
+  src: /content/media/resonancia-corporea/print-earth-tones.png
+  alt: Layered woodcut in ochre and black
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/study-fragmented-body.png
+  alt: Study of a fragmented body against an elliptical grid
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/print-monochrome.png
+  alt: Monochrome woodcut of the body within radiating bands
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/colour-study-dark.png
+  alt: Colour study of a blue body within an orange vibrational field
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/painted-wood-block.jpg
+  alt: Carved wooden block painted in vivid colours
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/carved-wood-block.jpeg
+  alt: Carved wooden matrix showing the figure and radiating bands
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/three-wood-blocks.jpg
+  alt: The three carved wooden matrices used for successive impressions
+  fit: contain
+  caption: IN_Bodily Resonance · Gina Marín · 2018
+- type: image
+  src: /content/media/resonancia-corporea/print-dark-paper.jpg
+  alt: Monochrome impression on textured dark paper
+  fit: contain
   caption: IN_Bodily Resonance · Gina Marín · 2018
 sections:
 - layout: newspaper
   text: |-
     ## About the work
 
-    The project imagines the body through overlapping fields: an ellipse surrounding a figure, a fragmented body, and an interior of muscle-like fibres. Their superposition creates a bodily image that appears to spread beyond its outline.
+    *IN_Resonancia Corpórea (IN_Bodily Resonance)* explores the body through woodcut, colour woodcut and reduction printmaking, also known as the lost-block method. Overlapping impressions bring together different fields of texture, colour and line, constructing an image of bodily resonance in which I inscribe my own presence as a woman and as a vibrational body.
 - layout: newspaper
   text: |-
-    ## Making the work
+    ## From studies to wooden matrices
 
-    I began with drawings, watercolour and ink studies, then carved three wooden blocks for successive colour layers. Working with woodcut, colour printing and reduction techniques, I explored how texture and repetition change the figure. The worked blocks remain part of the documentation, alongside the layered prints.
+    The process began with sketches on paper, using watercolour and ink to test texture and colour. I then produced three wooden blocks, carving them with gouges and working on them successively and sequentially, each intended for a different colour layer.
+
+    Each matrix was conceived as a distinct vibrational layer. One represented an electromagnetic field in the form of an ellipse, evoking toroidal geometry and the idea of an auric frequency surrounding the body. Another depicted a fragmented figure dispersing and expanding, its rough surfaces inscribing an almost political territory between lines and voids. The third revealed the body’s fleshy interior, with fibres and musculature immersed in a vibrational field.
+- layout: newspaper
+  text: |-
+    ## Superposition and material traces
+
+    The final composition brought these impressions together through superposition. Successive layers of colour and carved marks produced a more defined image of bodily resonance, allowing the figure and its surrounding field to emerge through their interaction.
+
+    The reduction process also left a material record. The wooden supports, carved and subsequently painted with oil paint and ink, remained as evidence of the work’s passage through different stages of transformation.
 - layout: newspaper
   text: |-
     ## Part of the research
@@ -63,10 +111,10 @@ portfolio_pdf:
     presence to emerge through repeated impressions. It forms part of the material investigations that
     precede the Body.Interface thesis.
   images:
-  - src: /content/media/thesis/in-resonancia-corporea-print.jpg
+  - src: /content/media/resonancia-corporea/print-blue-red.png
     caption: Layered coloured woodcut of an outstretched figure inside an ellipse
     fit: contain
-  - src: /content/media/thesis/in-resonancia-corporea-blocks.jpg
+  - src: /content/media/resonancia-corporea/three-wood-blocks.jpg
     caption: IN_Bodily Resonance · Gina Marín · 2018
     fit: contain
   credits: 'Artist: Gina Marín'

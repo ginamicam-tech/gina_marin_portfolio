@@ -1,7 +1,7 @@
 ---
 key: in-cavilaciones
-title: IN_Reflections
-name: IN_Reflections
+title: Reflections
+name: Reflections
 card_label: Artist’s book
 type: project
 year: 2019
@@ -23,27 +23,27 @@ media:
 - type: image
   src: "/content/media/thesis/in-cavilaciones-pages.jpg"
   alt: Open book with layered paper and drawn lines
-  caption: IN_Reflections · Gina Marín · 2019
+  caption: Reflections · Gina Marín · 2019
 - type: image
   src: "/content/media/thesis/in-cavilaciones-digital.jpg"
   alt: A digitally edited book spread in purple, black and red
-  caption: IN_Reflections · Gina Marín · 2019
+  caption: Reflections · Gina Marín · 2019
 - type: image
   src: /content/media/in-reflections/fine-line-spread.jpg
   alt: Open book with a dense black line drawing opposite a sparsely marked page
-  caption: IN_Reflections · Gina Marín · 2019
+  caption: Reflections · Gina Marín · 2019
 - type: image
   src: /content/media/in-reflections/red-black-spread.jpg
   alt: Red and black organic forms across an open book spread
-  caption: IN_Reflections · Gina Marín · 2019
+  caption: Reflections · Gina Marín · 2019
 - type: image
   src: /content/media/in-reflections/orange-layered-spread.jpg
   alt: Orange-toned book spread with layered translucent paper and drawn lines
-  caption: IN_Reflections · Gina Marín · 2019
+  caption: Reflections · Gina Marín · 2019
 - type: image
   src: /content/media/in-reflections/turquoise-spread.jpg
   alt: Turquoise-toned book spread with a central red form and dark textured edges
-  caption: IN_Reflections · Gina Marín · 2019
+  caption: Reflections · Gina Marín · 2019
 sections:
 - layout: newspaper
   text: |-
@@ -69,7 +69,7 @@ credits:
 portfolio_pdf:
   category: art-research
   layout: project
-  summary: IN_Reflections moves between a tactile mixed-media artist’s book and its digitally edited version.
+  summary: Reflections moves between a tactile mixed-media artist’s book and its digitally edited version.
     Drawn marks, layered paper and coloured fields create a sequence that can be handled and revisited.
     The project connects material experimentation with the changing experience of an image on screen,
     forming part of the earlier enquiries that developed into Body.Interface.
@@ -78,7 +78,7 @@ portfolio_pdf:
     caption: An open artist’s book with black and red graphic forms
     fit: contain
   - src: /content/media/thesis/in-cavilaciones-pages.jpg
-    caption: IN_Reflections · Gina Marín · 2019
+    caption: Reflections · Gina Marín · 2019
     fit: contain
   credits: 'Artist: Gina Marín'
 ---

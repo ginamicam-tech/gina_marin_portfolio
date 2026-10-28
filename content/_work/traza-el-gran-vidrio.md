@@ -10,8 +10,9 @@ role: Curatorial project management · Production · Post-production
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/portfolio/exhibitions/traza/traza-cover.png"
-  alt: Three-panel curatorial brochure prepared for the Traza exhibition proposal at El Gran Vidrio
+  src: "/content/media/portfolio/exhibitions/traza/traza-selected-cover-plan.png"
+  alt: Colour-coded Trace exhibition floor plan showing artist zones and the proposed visitor route
+  fit: contain
 gallery_layout: square-grid
 media:
 - type: image

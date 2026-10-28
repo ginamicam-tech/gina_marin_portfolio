@@ -122,14 +122,39 @@ sections:
   text: |-
     ## About the project
 
-    *They Do Not Save Life, Nor Sustain the Soul* brought together Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
+    *They Do Not Save Life, Nor Sustain the Soul* brought together Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina Marín at Casa de Pepino in Córdoba in 2019. Presented by Espacio Garín, the exhibition combined installation, individual artworks and a public programme, including live music and a creativity workshop.
+- layout: newspaper
+  text: |-
+    ## Curatorial framework
+
+    If creating is a form of thinking, art gives thought a material presence. The exhibition approaches reality as something perceived, constructed and shared, moving from the smallest bodily fragment to the scale of collective existence. Air, light and touch connect individual experience with the spaces we inhabit together.
+
+    The four artists had shared a studio and followed one another’s work for more than four years. This sustained exchange shaped an exhibition in which distinct practices could enter into dialogue. Fragmentation becomes a constructive method: breaking apart a body, an image or a pictorial frame opens possibilities for new relationships and ways of naming the world.
+
+    The installations invite visitors into parallel environments. Moving, looking and, where the work allows it, touching become ways of encountering these spaces. Participation takes different forms across the exhibition, from physical interaction to attentive, introspective observation.
+- layout: newspaper
+  text: |-
+    ## Works and spatial encounters
+
+    **Gina Marín — Clinamen.** An interactive, performative installation made from stitched fragments of lightweight silk, suspended in an irregular curtain around an elliptical structure. Openings and folds allow visitors to pass through and encounter the material. Low, warm lighting brings bodies, fabric and their shadows into a changing composition. The work takes its title from the idea of an unpredictable atomic swerve, using slight movements, encounters and chance to question fixed arrangements. Repeated adjustments and unexpected results formed part of its creative process.
+
+    **Paz Herrera — The Useless Body (El cuerpo inútil).** A participatory sculptural installation combining fabric, wooden frames and concrete supports. Textile impressions of the human figure are distributed across linked structures, some of which open or move. The fragmented body becomes a spatial enquiry that visitors complete through touch, movement and curiosity.
+
+    **Naira Vallejos Mihotek — I Left (Me fui).** An installation of blind-embossed prints made from the textures of clothing. Suspended, separated layers register an intimate bodily absence, while oblique lighting reveals the paper’s relief. Here, participation is contemplative: the changing viewpoint invites visitors to reconstruct a presence through memory and imagination, without physically handling the work.
+
+    **Ara Aravena — The Eclipse Garden (El jardín del eclipse).** An interactive audiovisual installation of suspended, laser-cut MDF forms, directional coloured light and sound. The work extends the pictorial space into three dimensions. Visitors become part of its shifting light and shadow, momentarily appearing within the image rather than observing it from outside.
+- layout: newspaper
+  text: |-
+    ## Curatorial route
+
+    The spatial plan brings *The Useless Body* and *I Left* together in Room 0, places *Clinamen* in Room 1, and develops *The Eclipse Garden* in Room 2. This sequence connects tactile encounters, traces of absence, movement through fabric and immersion in light and sound. Across the rooms, the visitor’s presence helps shape the relationship between individual artworks and a shared environment.
 - layout: newspaper
   text: |-
     ## Curatorial management, production and post-production
 
     I managed the curatorial project across production and post-production, coordinated the exhibition and secured sponsorship. I brought together artistic planning, installation requirements, public communication and exhibition documentation to support the project’s public presentation. Alongside this work, I contributed as an installation artist within [Atmosphere Collective](/work/atmosfera/). My curatorial work addressed the relationships between the artworks, their placement in the space and the information available to visitors. Communication and the public programme created further ways for people to encounter the work. I connected these artistic decisions with the organisation and support needed to make the exhibition happen.
 - layout: newspaper
-  text: "## Credits and documentation\n\n**Curatorial project management, production, post-production and sponsorship:** Gina Marín.  \n**Participating artists:** Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina
+  text: "## Credits and documentation\n\n**Curatorial project management, production, post-production and sponsorship:** Gina Marín.  \n**Participating artists:** Paz Herrera, Naira Vallejos Mihotek, Ara Aravena and Gina
     Marín.  \n**Presentation:** Espacio Garín at Centro Cultural Municipal Casa de Pepino.  \n**Opening music:** Gluko Lin.\n\nThe
     photographs and video document the collective exhibition, its opening and public programme.\n\n[Contemporary press coverage](https://hoydia.com.ar/negocios-y-empresas/61370-espacio-garin-inaugura-hoy-la-muestra-no-salvan-la-vida-ni-sustentan-el-alma/)
     · [Exhibition archive](https://www.instagram.com/p/B1YrSjVA_iQ/)"
@@ -180,7 +205,8 @@ portfolio_pdf:
     workshop together at Casa de Pepino in Córdoba. I curated and organised the exhibition, secured sponsors
     and contributed as an installation artist within Atmosphere Collective. My work connected the placement
     and relationships of artworks with communication, public programming and the practical support needed
-    to bring the exhibition into public view.
+    to bring the exhibition into public view. Its curatorial framework explores fragmented bodies and
+    shared realities through four installations: Clinamen, The Useless Body, I Left and The Eclipse Garden.
   images:
   - src: /content/media/portfolio/exhibitions/no-salvan-opening-wide.png
     caption: Artists gathered between two colourful wall interventions during the exhibition opening
@@ -189,6 +215,6 @@ portfolio_pdf:
     caption: Visitor encountering translucent coloured garments suspended against the exhibition wall
     fit: contain
   credits: 'Curatorial project management, production, post-production and sponsorship: Gina Marín. Participating artists: Paz Herrera, Nayra
-    Vallejos, Florencia Aravena and Gina Marín. Presented by Espacio Garín at Casa de Pepino. Images document
+    Vallejos, Ara Aravena and Gina Marín. Presented by Espacio Garín at Casa de Pepino. Images document
     the collective exhibition.'
 ---

@@ -29,4 +29,4 @@ legacy_anchors:
 key: optical-pulse-kinetic-body-ii
 artist: Gina Marín
 ---
-This image is also documented within [IN_Bodily Resonance](/work/in-resonancia-corporea/), where the thesis describes the project and its making process.
+This image is also documented within [Bodily Resonance](/work/in-resonancia-corporea/), where the thesis describes the project and its making process.

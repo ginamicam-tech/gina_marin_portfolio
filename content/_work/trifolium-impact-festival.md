@@ -52,7 +52,7 @@ sections:
     ## Project link
 
     [Project website **Visit Impact Festival**](https://www.trifolium-impactfestival.com/)
-question: How can communication support a shared festival experience?
+question: How can art and design come together to advance sustainable development?
 credits:
 - role: Event production and operations support
   name: Gina Marín

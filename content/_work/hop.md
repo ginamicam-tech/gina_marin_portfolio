@@ -18,9 +18,8 @@ context: House of Play · Copenhagen · 14–15 March 2026
 role: Co-creator, performer & poetry reader
 summary: A 24-hour collective art experiment at House of Play, with performance and readings of my original poetry.
 cover:
-  src: "/content/media/hop/collective-prompt-cover-jacob-stage.jpg"
-  alt: Handwritten prompt inviting participants to draw the collective energy in the space
-  credit: 'Photography: Jacob Stage'
+  src: "/content/media/hop/collective-becoming-cover.jpg"
+  alt: Laptop displaying The Collective Becoming during The Poetics of the Collective
 show_cover_in_gallery: true
 gallery_layout: square-grid
 media:

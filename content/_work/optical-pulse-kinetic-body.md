@@ -7,7 +7,6 @@ tags:
 - artwork
 - drawing
 - body
-series: optical-pulse
 year: 2024
 technique: Ink on paper
 dimensions: 42 × 59.4 cm

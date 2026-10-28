@@ -14,12 +14,12 @@ featured: false
 order: 302
 permalink: "/work/optical-pulse-series/"
 thumbnail:
-  src: /content/media/artworks/clean/chromatic-10-square.jpg
+  src: /content/media/artworks/clean/chromatic-05-square.jpg
   position: 50% 50%
   zoom: 1
 cover:
-  src: "/content/media/artworks/clean/chromatic-10.jpg"
-  alt: Kinetic Body
+  src: "/content/media/artworks/clean/chromatic-05.jpg"
+  alt: Kinetic Traces
 listing_context: 2018–2024 · Artwork series
 work_lists:
 - type: artwork
@@ -39,8 +39,8 @@ portfolio_pdf:
     of making meets the viewer’s shifting attention. Patterns organise perception while remaining open
     to ambiguity.'
   images:
-  - src: /content/media/artworks/clean/chromatic-10.jpg
-    caption: Kinetic Body | 2024 | Ink on paper | 42 × 59.4 cm
+  - src: /content/media/artworks/clean/chromatic-05.jpg
+    caption: Kinetic Traces | 2023 | Ink on paper | 42 × 59.4 cm
     fit: contain
   - src: /content/media/artworks/clean/chromatic-13.jpg
     caption: Sea of Strings | 2018 | Ink on paper | 42 × 59.4 cm

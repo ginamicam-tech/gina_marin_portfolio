@@ -63,7 +63,7 @@ sections:
   text: |-
     ## About the reading
 
-    My poem *The Revolution of Sovereign Skin Politics* was selected by [Poetry Unleashed CPH](https://www.instagram.com/poetryunleashedcph/) for their Kulturnatten event at Union in Copenhagen. I read it with live jazz in the background and shared the evening with [@lasvett](https://www.instagram.com/lasvett/).
+    My poem *The Revolution of Sovereign Skin Politics* was selected by [Poetry Unleashed CPH](https://www.instagram.com/poetryunleashedcph/) for their Kulturnatten event at Union in Copenhagen.
 
     The poem explores skin as a place of sensation, memory and connection. Through touch, breath and rhythm, it imagines sovereignty as something lived through bodies and their relationships. Reading it aloud brings that language into a shared space of voice, music and listening.
 - layout: newspaper

@@ -33,6 +33,7 @@ thumbnail:
   zoom: 1.1
   zoom_origin: "100% 100%"
 show_cover_in_gallery: false
+gallery_layout: square-grid
 sections:
 - layout: newspaper
   text: |-
@@ -71,6 +72,36 @@ credits:
 - role: Tools
   name: p5.js, Portal and AI-assisted coding
 media:
+- type: image
+  fit: contain
+  src: /content/media/embodied-portals/in-pressure-editor-start.png
+  alt: "Body.Interface / IN-Pressure · Editor and opening screen"
+  caption: "Body.Interface / IN-Pressure · Editor and opening screen"
+  fit: contain
+- type: image
+  fit: contain
+  src: /content/media/embodied-portals/in-pressure-face-detected.png
+  alt: "Body.Interface / IN-Pressure · Face detection and starting state"
+  caption: "Body.Interface / IN-Pressure · Face detection and starting state"
+  fit: contain
+- type: image
+  fit: contain
+  src: /content/media/embodied-portals/in-pressure-first-question.png
+  alt: "Body.Interface / IN-Pressure · What arrives first?"
+  caption: "Body.Interface / IN-Pressure · What arrives first?"
+  fit: contain
+- type: image
+  fit: contain
+  src: /content/media/embodied-portals/in-pressure-word-input.png
+  alt: "Body.Interface / IN-Pressure · What stays with you?"
+  caption: "Body.Interface / IN-Pressure · What stays with you?"
+  fit: contain
+- type: image
+  fit: contain
+  src: /content/media/embodied-portals/in-pressure-moving-border.png
+  alt: "Body.Interface / IN-Pressure · If the border moves with you, did you cross it?"
+  caption: "Body.Interface / IN-Pressure · If the border moves with you, did you cross it?"
+  fit: contain
 - type: video
   caption: "Face Galaxy / Dream Reality Machine · Movement through a digital space"
   sources:
@@ -86,48 +117,50 @@ media:
   poster: "/content/media/embodied-portals/face-galaxy-motion-poster.jpg"
   fallback: A screen recording of gestures changing the geometric environment.
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/dream-reality.png"
   alt: Face-responsive blue landscape with floating circles and the text “You do not owe the world total access to yourself”
   caption: "Face Galaxy / Dream Reality Machine · Prototype view"
-  crop: {x: 70, y: 188, width: 1382, height: 1435, source_width: 1454}
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/face-galaxy.png"
   alt: A spiral of outlined squares and floating words, with a camera portrait in the upper corner
   caption: "Face Galaxy / Dream Reality Machine · Another state"
-  crop: {x: 14, y: 84, width: 1381, height: 1435, source_width: 1398}
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/body-interface-editor.png"
   alt: Orange Body.Interface prompt asking what arrives first, with choices for the body, the story and the rule
   caption: "Body.Interface / IN-Pressure · Prompt and response"
-  crop: {x: 1432, y: 325, width: 1382, height: 1391, source_width: 2814}
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/candle-tetris.png"
   alt: A game board over a camera image, with blue blocks above a stack of colourful melting candles
   caption: "Body Candle Tetris · Prototype view"
-  crop: {x: 0, y: 51, width: 1222, height: 1437, source_width: 1222}
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/enter-the-body.png"
   alt: Dark gridded Body.Interface opening screen reading “Enter the body” and “Where does your attention need to go?”
   caption: "Body.Interface / P1 · Enter the body"
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/face-galaxy-orbits.png"
   alt: Concentric orbital lines and floating rectangles around a red point, with a live camera portrait framed in green
   caption: "Face Galaxy / Dream Reality Machine · Orbital space"
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/dream-reality-presence.png"
   alt: A dark violet digital space with an outlined chair, overlapping circles and a live portrait framed in yellow
   caption: "Face Galaxy / Dream Reality Machine · Presence and absence"
-  crop: {x: 0, y: 0, width: 1372, height: 1220, source_width: 1372}
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/candle-tetris-editor.png"
   alt: Colourful candle blocks accumulating and melting on a game board over a live camera image
   caption: "Body Candle Tetris · Melting blocks"
-  crop: {x: 1412, y: 297, width: 1384, height: 1435, source_width: 2796}
 - type: image
+  fit: contain
   src: "/content/media/embodied-portals/cat-machine-screenshot.png"
   alt: A drawn cat on a table beside a turquoise robot cat, with the message “Processing existential error”
   caption: "Cat / Machine · An experiment in understanding"
-  crop: {x: 1828, y: 386, width: 594, height: 1056, source_width: 2756}
 - type: video
   caption: "Cat / Machine · Full animation"
   sources:

@@ -22,11 +22,12 @@ role: Artist & researcher
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: /content/media/embodied-portals/enter-body-cover.png
-  alt: Enter the Body opening screen with the prompt Your body is not a map. It is a territory.
-  fit: contain
+  src: /content/media/embodied-portals/in-pressure-face-detected.png
+  alt: Body.Interface / IN-Pressure opening screen over a live face detection interface.
+  fit: cover
+  position: 50% 50%
 thumbnail:
-  src: /content/media/embodied-portals/enter-body-cover.png
+  src: /content/media/embodied-portals/in-pressure-face-detected.png
   position: 50% 50%
 show_cover_in_gallery: false
 gallery_layout: square-grid

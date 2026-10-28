@@ -22,16 +22,12 @@ role: Artist & researcher
 back_label: "← Work"
 back_url: "/work/"
 cover:
-  src: "/content/media/embodied-portals/dream-reality.png"
-  alt: Blue digital landscape of floating circles, with a live camera portrait framed by concentric rings
-  position: "100% 10%"
-  zoom: 1.25
-  zoom_origin: "100% 100%"
+  src: /content/media/embodied-portals/enter-body-cover.png
+  alt: Enter the Body opening screen with the prompt Your body is not a map. It is a territory.
+  fit: contain
 thumbnail:
-  src: "/content/media/embodied-portals/face-galaxy.png"
-  position: "100% 0%"
-  zoom: 1.1
-  zoom_origin: "100% 100%"
+  src: /content/media/embodied-portals/enter-body-cover.png
+  position: 50% 50%
 show_cover_in_gallery: false
 gallery_layout: square-grid
 sections:

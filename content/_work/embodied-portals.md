@@ -100,6 +100,11 @@ media:
   src: /content/media/embodied-portals/in-pressure-moving-border.png
   alt: "Body.Interface / IN-Pressure · If the border moves with you, did you cross it?"
   caption: "Body.Interface / IN-Pressure · If the border moves with you, did you cross it?"
+- type: image
+  fit: contain
+  src: "/content/media/embodied-portals/body-interface-editor.png"
+  alt: Orange Body.Interface prompt asking what arrives first, with choices for the body, the story and the rule
+  caption: "Body.Interface / IN-Pressure · Prompt and response"
 - type: video
   caption: "Face Galaxy / Dream Reality Machine · Movement through a digital space"
   sources:
@@ -124,11 +129,6 @@ media:
   src: "/content/media/embodied-portals/face-galaxy.png"
   alt: A spiral of outlined squares and floating words, with a camera portrait in the upper corner
   caption: "Face Galaxy / Dream Reality Machine · Another state"
-- type: image
-  fit: contain
-  src: "/content/media/embodied-portals/body-interface-editor.png"
-  alt: Orange Body.Interface prompt asking what arrives first, with choices for the body, the story and the rule
-  caption: "Body.Interface / IN-Pressure · Prompt and response"
 - type: image
   fit: contain
   src: "/content/media/embodied-portals/candle-tetris.png"

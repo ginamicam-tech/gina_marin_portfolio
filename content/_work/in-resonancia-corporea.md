@@ -17,9 +17,10 @@ summary: A printmaking project built through carved wooden blocks, colour layers
 context: National University of Córdoba · Argentina · 2018
 role: Artist
 cover:
-  src: /content/media/resonancia-corporea/print-blue-red.png
-  alt: Blue bodily figure within a red and black elliptical field
+  src: /content/media/resonancia-corporea/study-fragmented-body.png
+  alt: White fragmented body within a black and white elliptical field
   fit: contain
+show_cover_in_gallery: false
 gallery_layout: square-grid
 media:
 - type: image

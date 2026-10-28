@@ -21,55 +21,40 @@ cover:
   type: image
   src: "/content/media/modus/uhd/modus-live-painting-uhd.jpg"
   alt: Live painting on a tall illustrated panel during Modus Androginus
+gallery_layout: square-grid
 media:
 - type: image
-  src: /content/media/modus/uhd/modus-painting-close-uhd.jpg
+  src: /content/media/modus/uhd/modus-painting-close-enhanced.jpg
   alt: Close view of live painting at Modus Androginus
 - type: image
-  src: /content/media/modus/uhd/modus-painting-full-uhd.jpg
+  src: /content/media/modus/uhd/modus-painting-full-enhanced.jpg
   alt: Artist painting a tall collage portrait at Modus Androginus
 - type: image
-  src: /content/media/modus/uhd/modus-artists-and-panel-uhd.jpg
+  src: /content/media/modus/uhd/modus-artists-and-panel-enhanced.jpg
   alt: Two artists beside a completed painted panel
 - type: image
-  src: /content/media/modus/uhd/modus-backstage-uhd.jpg
+  src: /content/media/modus/uhd/modus-backstage-enhanced.jpg
   alt: Backstage portrait of two participants at Modus Androginus
 - type: image
-  src: /content/media/modus/uhd/live-painting-090817-uhd.jpg
+  src: /content/media/modus/uhd/live-painting-090817-enhanced.jpg
   alt: Live painting documented in an Instagram story at Modus Androginus
-  crop:
-    x: 0.0
-    y: 340.0
-    width: 2160.0
-    height: 2420.0
-    source_width: 2160.0
+  fit: contain
+  presentation: webpage
 - type: image
-  src: /content/media/modus/uhd/live-painting-090830-uhd.jpg
+  src: /content/media/modus/uhd/live-painting-090830-enhanced.jpg
   alt: Live painting documented in an Instagram story at Modus Androginus
-  crop:
-    x: 0.0
-    y: 340.0
-    width: 2160.0
-    height: 2220.0
-    source_width: 2160.0
+  fit: contain
+  presentation: webpage
 - type: image
-  src: /content/media/modus/uhd/live-painting-105822-uhd.jpg
+  src: /content/media/modus/uhd/live-painting-105822-enhanced.jpg
   alt: Live painting documented in an Instagram story at Modus Androginus
-  crop:
-    x: 320.0
-    y: 630.0
-    width: 1520.0
-    height: 2020.0
-    source_width: 2160.0
+  fit: contain
+  presentation: webpage
 - type: image
   src: /content/media/modus/uhd/live-painting-111040-uhd.jpg
   alt: Live painting documented in an Instagram story at Modus Androginus
-  crop:
-    x: 304.0
-    y: 550.0
-    width: 1552.0
-    height: 2320.0
-    source_width: 2160.0
+  fit: contain
+  presentation: webpage
 - type: image
   src: /content/media/modus/uhd/modus-event-scene-uhd.jpg
   alt: Visitors and participants under coloured lighting at Modus Androginus
@@ -79,12 +64,8 @@ media:
 - type: image
   src: /content/media/modus/uhd/live-painting-105844-uhd.jpg
   alt: Live painting documented in an Instagram story at Modus Androginus
-  crop:
-    x: 322.0
-    y: 660.0
-    width: 1514.0
-    height: 2450.0
-    source_width: 2160.0
+  fit: contain
+  presentation: webpage
 - type: image
   src: /content/media/modus/uhd/modus-artist-poster-uhd.jpg
   alt: Modus Androginus artist presentation poster
@@ -97,6 +78,11 @@ media:
 - type: image
   src: "/content/media/modus/uhd/modus-painting-detail-uhd.jpg"
   alt: An artist painting the surface of a panel
+- type: image
+  src: /content/media/modus/uhd/modus-social-azulmowszet-enhanced.jpg
+  alt: Instagram story documenting live painting at Modus Androginus
+  fit: contain
+  presentation: webpage
 sections:
 - layout: newspaper
   text: |-
@@ -132,7 +118,7 @@ portfolio_pdf:
   - src: /content/media/modus/uhd/modus-live-painting-uhd.jpg
     caption: Live painting on a tall illustrated panel during Modus Androginus
     fit: contain
-  - src: /content/media/modus/uhd/modus-painting-close-uhd.jpg
+  - src: /content/media/modus/uhd/modus-painting-close-enhanced.jpg
     caption: Close view of live painting at Modus Androginus
     fit: contain
   credits: 'Performance contribution: Gina Marín with Atmosphere Collective. Venue: Studio Teatro, Córdoba'

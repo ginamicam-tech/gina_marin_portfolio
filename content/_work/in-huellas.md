@@ -1,7 +1,7 @@
 ---
 key: in-huellas
-title: IN_Footprints
-name: IN_Footprints
+title: Footprints
+name: Footprints
 card_label: Movement & drawing
 type: project
 year: 2019
@@ -28,17 +28,17 @@ media:
   fit: contain
   src: "/content/media/thesis/in-huellas-drawing.jpg"
   alt: Drawings of feet and weighted steps
-  caption: IN_Footprints · Gina Marín · 2019
+  caption: Footprints · Gina Marín · 2019
 - type: image
   fit: contain
   src: "/content/media/thesis/in-huellas-sequence.jpg"
   alt: Repeated studies of feet in movement
-  caption: IN_Footprints · Gina Marín · 2019
+  caption: Footprints · Gina Marín · 2019
 - type: image
   fit: contain
   src: "/content/media/thesis/in-huellas-red.jpg"
   alt: Red and black graphic variations of feet and rope
-  caption: IN_Footprints · Gina Marín · 2019
+  caption: Footprints · Gina Marín · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-17.jpg"
@@ -109,7 +109,7 @@ sections:
   text: |-
     ## About the work
 
-    *IN_Huellas (IN_Footprints)* opens this sequence of illustrative investigations with a series of studies centred on the feet, understood as the body’s point of anchorage in the material world. Initially conceived as a photoperformance, the work used serial photographic captures to create a rhythmic sequence, approaching chronophotography or a movement study. These records were subsequently translated into drawings on paper.
+    *Footprints* opens this sequence of illustrative investigations with a series of studies centred on the feet, understood as the body’s point of anchorage in the material world. Initially conceived as a photoperformance, the work used serial photographic captures to create a rhythmic sequence, approaching chronophotography or a movement study. These records were subsequently translated into drawings on paper.
 
     The work is driven by an existential question: what does it mean to take a step in the material world when digital environments seem to offer a light, almost disembodied experience? In this sense, it enters into dialogue with Byung-Chul Han’s reflections (2012) on the erosion of worldly resistance in digital society: a frictionless hyperreality in which bodily presence loses its density.
 - layout: newspaper
@@ -151,7 +151,7 @@ portfolio_pdf:
     caption: Red and graphite drawing of feet bound with ropes
     fit: contain
   - src: /content/media/thesis/in-huellas-drawing.jpg
-    caption: IN_Footprints · Gina Marín · 2019
+    caption: Footprints · Gina Marín · 2019
     fit: contain
   credits: 'Artist: Gina Marín'
 ---

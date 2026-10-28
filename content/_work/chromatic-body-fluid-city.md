@@ -10,7 +10,7 @@ tags:
 series: chromatic-body
 year: 2021
 technique: Oil on canvas
-dimensions: 80 × 100 cm
+dimensions: 100 × 140 cm
 featured: false
 order: 225
 permalink: "/work/chromatic-body-fluid-city/"

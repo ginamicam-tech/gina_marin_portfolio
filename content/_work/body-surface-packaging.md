@@ -2,9 +2,9 @@
 key: body-surface-packaging
 title: Body, Surface, and Packaging
 name: Body, Surface, and Packaging
-question: What happens when the body becomes information?
-summary: An artistic investigation into biometrics and bodily representation through scanning, fragmentation and
-  packaging.
+question: What happens when the body is translated solely into biodata?
+summary: An artistic investigation into the desire to preserve the body as biodata, and what escapes
+  its translation into a digital presence through scanning, fragmentation and packaging.
 card_label: Biometrics & bodily representation
 permalink: /work/body-surface-packaging/
 type: research
@@ -23,17 +23,19 @@ role: Artist & researcher
 back_label: ← Work
 back_url: /work/
 cover:
-  src: /content/media/body-surface-packaging/installation-visualisation.png
-  alt: Installation visualisation with suspended body scans and a central form surrounding a red heart
+  src: /content/media/body-surface-packaging/roller-scan-face-0027.jpg
+  alt: Original roller scan of a face fragmented into overlapping horizontal bands against a dark background
 show_cover_in_gallery: false
 sections:
 - layout: newspaper
   text: |-
-    ## An artistic investigation into biometrics and bodily representation
+    ## The body translated into biodata
 
-    This body of work originates in my degree thesis and an investigation into biometrics: the translation of bodily characteristics into measurable, recognizable information. Through scanning, fragmentation, and packaging, the project questions how the body becomes legible within technological systems and how we participate in making ourselves available to them.
+    What happens when the body is translated solely into biodata? Emerging from my degree thesis, this investigation approaches the biometric body as a question about representation: what becomes of a living presence when its visible traits are treated as information that can be captured, stored and reconstructed? The scans are the material starting point for this enquiry. They do not constitute a biometric identification system; through them, I explore the expectation that a technical image might make the body fully legible, and the distance between that image and the person whose skin it records.
 
-    The investigation asks how virtual environments shape the ways we scan, represent, and understand ourselves. As we produce and circulate digital versions of our bodies, we also adapt ourselves to the formats through which we become visible. Packaging emerges here as both a visual operation and a critical proposition: the body is rendered into something that can be contained, classified, displayed, and consumed.
+    The work reflects on an imagined condition of continuous translation, in which the physical body is repeatedly carried into a digital, virtual form. Each capture seems to promise that something of us can be retained: a fold, a contour, a mark, another trace of having been here. I approach this accumulation as a desire for preservation, as though we did not want to lose even a milligram of our being. That phrase gives bodily weight to the wish for a complete digital presence. It also exposes a tension: an archive can accumulate traces without containing the experience of being the body from which they came.
+
+    Within this enquiry, the virtual body becomes a way of negotiating absence, continuity and recognition. To scan oneself is to participate in making a version of oneself available to another mode of seeing. Yet the translation always has a frame: it registers a surface at a particular moment, through contact, movement and the limits of an apparatus. Sensation, fatigue, memory and the changing experience of inhabiting that surface cannot simply be read from its pixels. The project asks what happens when the resulting representation begins to stand in for the whole person, and when the wish to preserve ourselves becomes a demand to remain continuously capturable.
 - layout: newspaper
   text: |-
     ## Installation proposal · Dark Gallery CPH
@@ -45,21 +47,21 @@ sections:
 
     The source images are real scans of the body, captured with a handheld roller scanner that I moved manually across the skin. This direct capture forms the material basis of the project; the resulting images were subsequently developed through interventions using artificial intelligence.
 
-    The scans bring this process into intimate proximity with the skin. Pores, folds, hair, and marks coexist with interruptions and distortions produced during capture. The face and torso become discontinuous surfaces, unsettling the expectation that a technological image can offer a stable or complete account of a person. These fragments expose the limits of identification and the distance between bodily experience and its digital representation.
+    The scans bring this process into intimate proximity with the skin. Pores, folds, hair, and marks coexist with interruptions and distortions produced during capture. The face and torso become discontinuous surfaces, unsettling the expectation that a technological image can offer a stable or complete account of a person. The distortions also register the encounter between skin, hand and scanner: the attempt to preserve a surface produces an image of interruption. I read these fragments as traces of a translation that cannot close around its subject. They make the distance between bodily experience and its digital representation visible within the scan itself.
 - layout: newspaper
   text: |-
     ## Packaging the body
 
     The AI-assisted interventions build on these original body scans to explore fragmentation and imagined packaging.
 
-    Packaging gives this tension a tangible form. The enclosure suggests protection and preservation while also evoking standardization, restriction, and availability. It raises a question about our involvement in these processes: to what extent do we shape our own image to fit the systems that capture it, until we participate in packaging ourselves?
+    Packaging gives the desire for preservation a tangible form. The enclosure promises to hold the body together, protect it and prevent its loss, while its boundaries also make the fragment appear finite and available for classification. In these studies, the body becomes something that seems capable of being sealed and kept. I use this imagined containment to ask how far we participate in formatting ourselves for capture: how we adjust our own images to remain recognisable within the systems through which we appear, until preservation and restriction become difficult to separate.
 - layout: newspaper
   text: |-
     The gallery distinguishes original handheld roller scans from AI interventions based on those scans. Installation visualisations are AI-assisted studies, rather than photographs of a realised exhibition.
 
     ## Beyond the scan
 
-    Moving between bodily materiality and virtual representation, the work places the promise of biometric legibility under scrutiny. Its distortions and discontinuities hold open the possibility of a body that exceeds the information extracted from it—a presence that remains unstable, situated, and irreducible to its scan.
+    The wish to lose nothing of ourselves remains unresolved. A digital fragment can preserve the appearance of a moment and become a meaningful trace, but what would it mean to ask that trace to carry the entirety of a life? Moving between original scans and imagined enclosures, the work keeps this question open. Its gaps and discontinuities make room for a body that continues to feel, change and enter into relations beyond the image: a presence whose existence does not depend on being completely recorded.
 
     The investigation develops from [Body.Interface](/work/body-interface/).
 credits:
@@ -132,8 +134,10 @@ media:
 portfolio_pdf:
   category: art-research
   layout: project
-  summary: Real body scans captured by manually moving a handheld roller scanner across the skin
-    form the basis of this investigation into bodily representation. Subsequent interventions using
+  summary: What happens when the body is translated solely into biodata? Original handheld roller scans
+    explore the desire to preserve every trace of ourselves in a digital presence, as though we did not
+    want to lose even a milligram of our being. Fragmentation exposes the distance between a recorded
+    surface and the lived body. Subsequent interventions using
     artificial intelligence develop the scans into fragmentation and packaging studies. Original scans
     retain skin textures and interruptions, while packaging studies explore
     the tension between protection, classification and display. The research asks how we adapt our own

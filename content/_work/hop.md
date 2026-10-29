@@ -133,4 +133,14 @@ portfolio_pdf:
     fit: contain
   credits: 'Artistic direction: Anso, Anitta and Mads. Collective creation: House of Play Playlab group.
     Co-creation, performance and original poetry: Gina Marín. Header and poster photography: Jacob Stage. Additional photographic documentation: Mads Hobye and Jacob Stage.'
+visual_story:
+- images: 2
+  text: |-
+    How can individual contributions become a shared artistic experience? The Poetics of the Collective unfolded at House of Play in Copenhagen from noon on 14 March to noon on 15 March 2026. Concluding the first six-month Playlab cycle, it approached a whole day as material for performance. Music, movement, meals, rest and everyday tasks entered the same evolving situation.
+- images: 2
+  text: |-
+    Participants moved between observing and contributing, allowing small gestures to develop into collective scenes. The experiment took place in a sex-inclusive setting, shaped by consent, personal boundaries and responsibility for one another. These conditions were part of how the work could unfold. Artistic direction came from Anso, Anitta and Mads, with collective creation by the House of Play Playlab group of artists, musicians, kink practitioners and facilitators.
+- images: 11
+  text: |-
+    I contributed as co-creator, performer and reader of my original poetry. Voice and movement became ways of participating in the shared experience, alongside the contributions of others. The documentation includes projected words, encounters and materials from the performance, with photography by Mads Hobye and Jacob Stage. Together, these records offer fragments of an event whose form developed through participation over time. My role remains situated within that collective process, connecting poetic language with the changing rhythms of a shared space.
 ---

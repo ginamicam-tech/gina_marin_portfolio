@@ -181,4 +181,14 @@ portfolio_pdf:
   - src: /content/media/embodied-portals/face-galaxy.png
     caption: Face Galaxy / Dream Reality Machine · Another state
   credits: 'Artistic concept and experiments: Gina Marín'
+visual_story:
+- images: 6
+  text: |-
+    What does liquid architecture reflect back to us about our bodies? Embodied Portals extends [Body.Interface](/work/body-interface/) through experiments with digital spaces that respond to a face, gesture or change of position. The enquiry draws on my thesis discussion of liquid architecture: shifting environments whose fluidity echoes the body’s own material condition, while making that bodily connection difficult to recognise.
+- images: 4
+  text: |-
+    Using p5.js, live computer vision and AI-assisted coding, I move between an idea in words and a working sketch. I describe an interaction, test it with my body and revise the response. Prompts, code and physical experimentation form a continuous process. The artistic concept and experiments are mine; the prototypes remain exploratory rather than finished installations. Their unexpected responses help me consider what an interface invites a person to do.
+- images: 7
+  text: |-
+    Body.Interface / IN-Pressure places questions and choices over a live camera image. Body Candle Tetris explores movement through a familiar game, while Face Galaxy / Dream Reality Machine connects gestures with geometric spaces and poetic fragments. Cat / Machine stages a humorous encounter between a cat and its robotic counterpart. Together, the experiments ask how digital environments might accommodate attention, curiosity and bodily agency. The [Are.na archive](https://www.are.na/body_interface-archive-across-body-space-systems) supports this ongoing enquiry with images, texts and references.
 ---

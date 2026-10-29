@@ -3,6 +3,7 @@ card_label: Bodies & digital space
 year_start: 2017
 title: Flowing Systems
 name: Flowing Systems
+question: How can drawing make bodily presence felt within the shifting spaces of digital life?
 type: series
 key: body-interface-series
 tags:
@@ -45,6 +46,16 @@ portfolio_pdf:
     caption: Signal Fragment I | 2019 | Ink on paper | 42 × 59.4 cm
     fit: contain
   credits: 'Artist: Gina Marín'
+visual_story:
+- images: 6
+  text: |-
+    How can drawing make bodily presence felt within the shifting spaces of digital life? Flowing Systems approaches the body as an interface where sensation, memory and information meet. Faces and figures emerge from networks of marks, fragmenting or merging with their surroundings. The enquiry begins with this unstable boundary: how to give form to a presence that changes through its relationship with the space around it.
+- images: 6
+  text: |-
+    I work through intuitive, calligraphic gestures, using black ink, occasional red accents and the white of the paper. Repeated marks gather into organic structures that evoke thoughts, impulses and the movement of data. Drawing becomes a mental and bodily flow: the gesture that builds a figure also builds its environment. Fragments of faces share the same texture as the surrounding field, so that figure and space remain connected through the act of making.
+- images: 6
+  text: |-
+    The resulting works on paper connect with my thesis enquiry into liquid architecture and the changing environments of digital experience. Their relationships can be followed across the selection, from bodily fragments to dense graphic networks. As the artist, I use these material rhythms to explore a felt presence within spaces that appear fluid or unstable. Each artwork retains its own record; together they form a visual strand of [Body.Interface](/work/body-interface/), keeping the experience of drawing connected to the experience of inhabiting a body.
 ---
 These drawings explore the body as an interface: a meeting place for physical sensation, memory and the flows of digital life. Figures emerge from dense networks of marks, sometimes fragmenting or merging with their surroundings. The body is not presented as a fixed outline, but as a presence that changes through its relationship with the space around it.
 

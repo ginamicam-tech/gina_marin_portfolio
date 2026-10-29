@@ -7,7 +7,7 @@ tags:
 - artwork
 - painting
 - body
-series: chromatic-body
+series: optical-pulse
 year: 2022
 technique: Ink on paper
 dimensions: 25 × 35 cm

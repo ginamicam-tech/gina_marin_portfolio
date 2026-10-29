@@ -153,4 +153,14 @@ portfolio_pdf:
     caption: Original scan · Facial fragments I
     fit: contain
   credits: 'Artist & researcher: Gina Marín. Collaboration: Mads Høbye'
+visual_story:
+- images: 2
+  text: |-
+    What happens when the body is translated solely into biodata? This investigation develops from my thesis and the desire to preserve ourselves through a digital presence, as though we did not want to lose even a milligram of our being. A scan promises to retain a surface. The work asks what happens when that recorded fragment begins to stand in for the whole person.
+- images: 2
+  text: |-
+    I moved a handheld roller scanner manually across my skin. Pores, folds and hair remain visible alongside the interruptions created during capture. These original scans became the basis for AI-assisted fragmentation and packaging studies, developed with the collaboration of Mads Høbye. The imagined enclosures connect preservation with restriction: a body that appears protected also becomes something that can be contained, classified and displayed.
+- images: 11
+  text: |-
+    The images were developed for a proposal submitted to Dark Gallery CPH’s The Interactive Street Monster open call, within Golden Days Festival’s Monster theme. The installation visualisations are studies, not photographs of a realised exhibition. My contribution is the artistic research and image-making. Moving between the scans and their imagined containers, the project keeps open the distance between a visible trace and a body that continues to feel, remember and change beyond its digital representation.
 ---

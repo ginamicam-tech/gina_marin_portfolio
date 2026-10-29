@@ -119,4 +119,14 @@ portfolio_pdf:
     caption: Bodily Resonance · Gina Marín · 2018
     fit: contain
   credits: 'Artist: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    How can layers of print make a body resonate? Bodily Resonance explores my presence as a woman and as a vibrational body through woodcut, colour and reduction printmaking. The image develops through overlapping fields of texture and line. Resonance is approached as a visual and material enquiry, asking how a figure and the space around it can emerge through the interaction of successive impressions.
+- images: 2
+  text: |-
+    I began with watercolour and ink sketches, testing texture and colour before carving three wooden matrices with gouges. Each proposed a distinct layer: an elliptical field evoking toroidal geometry, a fragmented figure dispersing into its surroundings, and an interior of fibres and musculature. Carved marks and empty areas gave these images different material rhythms. Sequential work on the blocks made transformation part of the process itself.
+- images: 5
+  text: |-
+    Superimposed impressions brought the layers into a shared composition. The wooden supports, subsequently painted with oil and ink, also remained as records of the work’s changing stages. I developed the studies, matrices and prints as parts of this enquiry into bodily representation. The documentation places finished impressions alongside experiments and carved surfaces, allowing their relationships to remain visible. The project forms an earlier strand of [Body.Interface](/work/body-interface/), connecting the body’s image with the resistance and accumulated traces of printmaking.
 ---

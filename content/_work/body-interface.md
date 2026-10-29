@@ -136,4 +136,14 @@ portfolio_pdf:
     fit: contain
   credits: 'Research and artworks: Gina Marín. Thesis adviser: Carolina Romano. National University of Córdoba. Clinical Fold photography, including the header montage: Florencia Aravena. Are.na references
     retain their respective authorship.'
+visual_story:
+- images: 2
+  text: |-
+    Where does the body end? My thesis investigates how we can remain present in our bodies while everyday life unfolds through screens. I approach the body as an interface where sensation, memories, images and digital systems meet. Through photography, performance, drawing and printmaking, the research considers constant visibility and the possibility of choosing how, when and how much of ourselves to share.
+- images: 2
+  text: |-
+    Two photoperformances anchor the enquiry. [Clinical Fold](/work/clinical-fold/) works with a sewn plastic costume, butoh movement and enclosure; [Self Archive](/work/self-archive/) follows my move to Copenhagen through repeated portraits and everyday architecture. My method connects noticing a pressure, returning to bodily attention and giving that experience form. Editing through repetition, brightness, transparency and white lines becomes part of the research. Clinical practice here describes an artistic approach to observation and care.
+- images: 0
+  text: |-
+    I developed the research, artworks and thesis at the National University of Córdoba, advised by Carolina Romano. Florencia Aravena photographed Clinical Fold; I made Self Archive’s photographs and montages. Earlier drawings, prints and artist’s books trace the enquiry’s development. The [Are.na archive](https://www.are.na/body_interface-archive-across-body-space-systems) gathers material for further connections, while [Embodied Portals](/work/embodied-portals/) and [Body, Surface, and Packaging](/work/body-surface-packaging/) extend it into interaction and scanning. The wider interactive platform remains in development; attention, care and bodily agency continue to guide the work.
 ---

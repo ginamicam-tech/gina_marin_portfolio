@@ -92,4 +92,14 @@ portfolio_pdf:
     fit: contain
   credits: 'Co-creation, performance, poetry and interactive monster: Gina Marín. Artists listed in the
     festival programme: Anso Vela, Jac Fabian, Max and Axel-Camilla Barratt-Due'
+visual_story:
+- images: 2
+  text: |-
+    How can an interactive creature welcome people into an installation? Rituals of Collective Descent was presented at Xplore Festival in Berlin in 2026. Within the installation, a monster greeted arriving visitors. Its translucent body and illuminated circular face appeared among projections that extended across the creature and its surroundings, giving the encounter a character as well as a spatial setting.
+- images: 2
+  text: |-
+    I made the interactive monster as part of my contribution to the collective work. The documented form brings transparency, coloured light and projected imagery together. Views of the whole creature and its details show how its bodily presence changes with the light around it. This relationship between a figure and its environment makes the entrance into the installation part of the artistic enquiry: an arrival becomes an encounter with something inhabiting the space.
+- images: 3
+  text: |-
+    My role also included co-creation, performance and readings of poetry. The festival programme lists Anso Vela, Jac Fabian, Max and Axel-Camilla Barratt-Due alongside the project. The photographs and two installation videos record the monster within that shared setting, from visitors approaching it to close views of its illuminated forms. They document my installation contribution within the wider work, keeping its material presence connected to the collective experience in which it took part.
 ---

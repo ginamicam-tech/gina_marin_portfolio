@@ -100,4 +100,14 @@ portfolio_pdf:
     caption: Drawing and poetic writing · 2019
     fit: contain
   credits: 'Artist publications and works on paper: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    How does technology shape the ways we recognise ourselves? These fanzines and works on paper began with my attempts to understand what happened to my sense of self while interacting with the computer. Writing dialogues, drawing and experimenting with publication allowed different voices and sensations to coexist. The screen became part of the enquiry, shaping the rhythm of attention and the distance between an experience and its representation.
+- images: 2
+  text: |-
+    I explored the body as flesh, dust, time and space: living matter that feels, changes, leaves traces and enters into relationships. Drawing and writing gave these reflections material form. Marks could interrupt a sentence; a pause or fragment of dialogue could redirect the reading of an image. The fanzine became a tactile space for thought, translating encounters with the computer into pages that could be handled, revisited and shared.
+- images: 3
+  text: |-
+    I made the publications and works on paper within the contexts of CePiA and the Spain Cultural Centre in Córdoba. Their circulation included Copperweld, Experimental Editions Fair, at the latter on 30 November 2021. Sharing the printed objects extended the dialogues to other readers. These early enquiries later developed into [Body.Interface](/work/body-interface/), connecting bodily sensation, existential questioning and the technical processes through which images and language become available to others.
 ---

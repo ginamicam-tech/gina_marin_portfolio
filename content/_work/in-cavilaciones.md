@@ -84,4 +84,14 @@ portfolio_pdf:
     caption: Cavilaciones atravesadas · Gina Marín · 2019
     fit: contain
   credits: 'Artist: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    How can fragmented thoughts become an illustrated book? Cavilaciones atravesadas began in the Graphic Editing seminar at the National University of Córdoba. I explored the overload of information within the creative process through a publication whose rhythm depends on texture, folds and changing layers. The book offered a physical space for thoughts that did not need to resolve into a linear story.
+- images: 2
+  text: |-
+    I first made a paper prototype using sandpaper, papers of different weights, transparent sheets, and black and red inks. Material differences became part of the narrative: a fold could change what was visible, while layered surfaces allowed figures to emerge through one another. Handling the object connected reading with touch. Illustration and construction developed together, giving the sequence a rhythm through changes of surface and opacity.
+- images: 3
+  text: |-
+    I scanned and digitally edited the prototype, translating its material qualities into an editorial sequence. This led to two printed editions under the same title, Cavilaciones atravesadas. My contribution brought together the handmade object, illustration, digital editing and print. The editions retain the enquiry into fragmented thought while allowing it to circulate as a reproducible publication. As an earlier stage of [Body.Interface](/work/body-interface/), the project follows the movement between material experience and its transformation into images that can be shared.
 ---

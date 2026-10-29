@@ -71,4 +71,14 @@ portfolio_pdf:
     caption: Metamorphic Plane · Gina Marín · 2018
     fit: contain
   credits: 'Artist: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    How does a body change as it passes through a material? Metamorphic Plane brings eyes, faces and mechanical forms into a print crossed by lines that suggest waves or frequencies. The body remains recognisable while appearing to change through the structures around and within it. This tension between bodily form and transformation provides the starting point for the work’s graphic enquiry.
+- images: 0
+  text: |-
+    I worked with etching and aquatint on a metal plate, exploring how incisions and texture move from metal to ink and paper. Each material gives the image a different resistance and surface. The printed figure develops through these translations: a mark made on the plate becomes part of an impression in which organic and mechanical forms occupy the same plane. The process connects the making of the image with the uncertainty of its bodily boundaries.
+- images: 0
+  text: |-
+    The resulting print and its details hold together a figure, its surrounding structures and the traces of their material construction. My role was the artistic development and printmaking. The work is documented as an earlier stage of [Body.Interface](/work/body-interface/), where questions of bodily representation continue across different media. Related works, [Interface / Mind I](/work/body-interface-interface-mind-i/) and [Interface / Mind II](/work/body-interface-interface-mind-ii/), provide further points of connection within the archive without resolving the hybrid body into a single stable form.
 ---

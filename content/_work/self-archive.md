@@ -83,4 +83,14 @@ portfolio_pdf:
     caption: 'Self Archive · Photography and montage: Gina Marín · 2025.'
     fit: contain
   credits: 'Photography, performance and montage: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    How does a new city become part of the self? Self Archive began as a daily record of moving to Denmark and learning to call a new country home. I photographed my face during journeys, workdays and pauses, using the phone that also organised much of my daily life. Repetition made small changes in attention, energy and belonging available to observation.
+- images: 2
+  text: |-
+    I layered these portraits with offices, corridors, windows and other spaces encountered in Copenhagen. The vertical format of the phone became a horizontal composition, closer to a computer screen. Translucent layers, repeated faces and white lines created a rhythm from still photographs. Through photography, performance and montage, I explored how the spaces of everyday movement become part of an image of oneself, connecting the body’s appearance with the circumstances of its daily life.
+- images: 0
+  text: |-
+    The archive values consistency over a polished self-image. Each photograph holds a particular moment; together they suggest identity taking shape through language, work and place. I made the photographs and edited their relationships, while the accompanying Manifiesto Cotidiano extended the enquiry into writing. Alongside [Clinical Fold](/work/clinical-fold/), the project forms the centre of [Body.Interface](/work/body-interface/). Its images also contribute to a living digital archive in which those relationships can continue to change.
 ---

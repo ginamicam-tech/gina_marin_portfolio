@@ -105,4 +105,14 @@ portfolio_pdf:
     fit: contain
   credits: 'Poem and reading: Gina Marín. Selection and event organisation: Poetry Unleashed CPH. Performance
     photograph: @zoia.means.life'
+visual_story:
+- images: 2
+  text: |-
+    What language emerges when we listen through the skin? The Revolution of Sovereign Skin Politics explores skin as a place of sensation, memory and connection. Through touch, breath and rhythm, my poem imagines sovereignty as something lived through bodies and their relationships. Its language begins with the body’s capacity to affect and be affected by others, finding a political and poetic question within sensation.
+- images: 2
+  text: |-
+    Poetry Unleashed CPH selected the poem for its Kulturnatten event at Union in Copenhagen. Reading it aloud carried the written language into a shared space of voice, music and listening. “We build another language, a language emerging from the skin” brings the enquiry into the act of speaking. Repetition and rhythm connect the words to the bodily conditions they describe, while the reading allows them to be encountered collectively.
+- images: 4
+  text: |-
+    I wrote and performed the poem. The accompanying text images and performance documentation retain parts of that encounter, including the movement from a written page to a spoken presence. Further photographs and Instagram records document another Poetry Unleashed gathering and my wider participation in readings; they are distinct from the Kulturnatten event. Across these materials, the work follows poetic language as it moves between intimate bodily reflection and the experience of listening with others.
 ---

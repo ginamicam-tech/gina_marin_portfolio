@@ -87,4 +87,14 @@ portfolio_pdf:
     caption: Fibrous Flesh · CEPIA · 2017
     fit: contain
   credits: 'Co-creation: Gina Marín, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez'
+visual_story:
+- images: 2
+  text: |-
+    How can the body resist the identities imposed by consumer culture? Fibrous Flesh approaches the body as a surface on which external demands and images leave their marks. Still bodies, arranged in alternating orientations, form a repeated structure. Their apparent interchangeability raises a question about self-definition: what persists of an individual presence when bodies are organised, displayed and consumed through shared expectations?
+- images: 2
+  text: |-
+    Light and projected imagery pass across the performers’ skin. Repetition and stillness hold the tension between exhaustion and the possibility of withholding participation. The phrase “bite into fibrous flesh and obtain metallic arrows” connects organic vulnerability with the hardness of social conditioning. Flesh becomes a way of thinking about pressures that transform lived experience into prescribed behaviour and desire, while the fibrous suggests a capacity to hold together under strain.
+- images: 6
+  text: |-
+    I co-created the work with Angeles Torino, Yoseli Leiva, Lenna Aravena and Jazmin Lopez. Presented at CePiA, the Arts Research Centre in Argentina, in 2017, it brought these questions into a shared performance. The photographic sequence records changes in the projected imagery across the repeated arrangement of bodies. Within that enclosure, the possibility of a fissure allows resistance to remain imaginable: the work leaves bodily identity open to something beyond the images imposed upon it.
 ---

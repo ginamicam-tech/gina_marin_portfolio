@@ -7,7 +7,7 @@ tags:
 - artwork
 - painting
 - body
-series: chromatic-body
+series: optical-pulse
 year: 2021
 technique: Oil on canvas
 dimensions: 70 × 50 cm

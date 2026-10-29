@@ -84,4 +84,14 @@ portfolio_pdf:
     caption: Yellow Poison Land · 2019
     fit: contain
   credits: 'Co-creation: Gina Marín, Lenna Aravena and Catalina'
+visual_story:
+- images: 2
+  text: |-
+    How does the desire to possess beauty become violence against the living world? Yellow Poison Land uses a fictional myth to approach this question. In its narrative, humans and fantastic beings once shared the earth. Envy of the nymphs’ beauty led humans to poison their habitat, leaving the yellow reflection of sunflowers as the beings’ final vision. Beauty becomes entangled with the destruction of the conditions that sustain it.
+- images: 2
+  text: |-
+    The photographic project brings figures and sunflowers into a shared visual field. Views of bodies among the plants sit alongside gestures and flower details, connecting the imagined story with the visible landscape. The myth gives these relationships a narrative tension: the living world appears as something desired, while that desire threatens coexistence. Photography carries the fictional account into a sequence of encounters between bodily presence, colour and place.
+- images: 5
+  text: |-
+    I co-created Yellow Poison Land with Lenna Aravena and Catalina within [Atmosphere Collective](/work/atmosfera/) in 2019. The resulting images approach ecological violence through a story about possession and loss. My contribution belongs to that shared artistic creation. The sequence leaves viewers with the relationship between the figures and their habitat, asking how an attraction to beauty might turn into a claim over it, and what forms of coexistence that claim puts at risk.
 ---

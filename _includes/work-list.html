@@ -13,6 +13,9 @@
 {% endif %}
 {% if selection.reverse %}{% assign entries = entries | reverse %}{% endif %}
 {% assign shown = 0 %}
+{% assign matched = 0 %}
+{% assign window_offset = include.offset | default: 0 %}
+{% assign window_limit = include.limit | default: selection.limit %}
 {% if selection.title %}<h2>{{ selection.title | escape }}</h2>{% endif %}
 <div class="work-grid">
 {% for entry in entries %}
@@ -30,7 +33,9 @@
     {% elsif tag_matches == 0 %}{% assign matches = false %}{% endif %}
   {% endif %}
   {% if matches %}
-    {% if selection.limit and shown >= selection.limit %}{% break %}{% endif %}
+    {% assign matched = matched | plus: 1 %}
+    {% if matched <= window_offset %}{% continue %}{% endif %}
+    {% if window_limit and shown >= window_limit %}{% break %}{% endif %}
     <article class="work-card" data-work-id="{{ entry.key | escape }}" data-work-tags="{{ entry.tags | jsonify | escape }}"{% if entry.filter_groups %} data-work-groups="{{ entry.filter_groups | jsonify | escape }}"{% endif %}>
       {% for anchor in entry.legacy_anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
       {% assign thumbnail_src = entry.thumbnail.src | default: entry.cover.src | default: '/content/media/placeholder.png' %}

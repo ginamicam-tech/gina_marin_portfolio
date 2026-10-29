@@ -1,0 +1,34 @@
+{% assign story_offset = 0 %}
+{% assign empty_media = '' | split: ',' %}
+{% assign story_media = page.media | default: empty_media %}
+{% if page.cover and page.type != 'series' and page.show_cover_in_gallery != false %}
+  {% assign cover_items = '' | split: ',' | push: page.cover %}
+  {% assign story_media = cover_items | concat: story_media %}
+{% endif %}
+{% for passage in page.visual_story %}
+  <div class="newspaper prose">
+    <section class="newspaper-section">{% include markdown.html text=passage.text %}</section>
+  </div>
+  {% if page.type == 'series' %}
+    {% include work-list.html selection=page.work_lists.first offset=story_offset limit=passage.images %}
+  {% else %}
+    {% assign story_group = story_media | slice: story_offset, passage.images %}
+    {% if story_group.size > 0 %}
+    <div class="media-grid{% if page.gallery_layout == 'square-grid' %} media-grid--square{% endif %}{% if page.gallery_aspect == 'landscape' %} media-grid--landscape{% endif %}{% if page.gallery_layout == 'single-column' %} media-grid--single-column{% endif %}">
+      {% for item in story_group %}{% include media.html item=item %}{% endfor %}
+    </div>
+    {% endif %}
+  {% endif %}
+  {% assign story_offset = story_offset | plus: passage.images %}
+{% endfor %}
+{% if page.credits %}{% include credits.html credits=page.credits note=page.credit_note %}{% endif %}
+<details class="project-research-notes">
+  <summary>Read more · Research, process and context</summary>
+  {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
+  <div class="newspaper prose">{% include content.html %}</div>
+  {% include sections.html sections=page.sections %}
+  {% include sections.html sections=page.archive_sections %}
+</details>
+{% unless page.type == 'series' %}
+  {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
+{% endunless %}

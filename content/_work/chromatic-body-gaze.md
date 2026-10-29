@@ -7,7 +7,7 @@ tags:
 - artwork
 - painting
 - body
-series: chromatic-body
+series: optical-pulse
 year: 2018
 technique: Oil on canvas
 dimensions: 50 × 30 cm

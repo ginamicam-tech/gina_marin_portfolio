@@ -123,4 +123,14 @@ portfolio_pdf:
     caption: Close view of live painting at Modus Androginus
     fit: contain
   credits: 'Performance contribution: Gina Marín with Atmosphere Collective. Venue: Studio Teatro, Córdoba'
+visual_story:
+- images: 2
+  text: |-
+    How can painting and performance meet on a runway? Modus Androginus brought live performance and visual art into the runway setting of Studio Teatro in Córdoba in 2019. Painting, images and performers occupied a shared space, allowing the visual work to develop during the event. The project approached the runway as a place where an image could take shape through an action unfolding in front of others.
+- images: 2
+  text: |-
+    I participated as a performance artist within Atmosphere Collective. Our contribution connected visual production with live performance, placing the making of the work within the event itself. The photographic sequence documents both the collective work and its development. Seen together, these records allow the relationship between an emerging image, the performers and the setting to remain visible, rather than presenting the visual result in isolation from the actions through which it appeared.
+- images: 12
+  text: |-
+    My contribution was situated within that collaborative performance. The resulting documentation records a meeting between practices, with painting and bodily action sharing the duration and space of the runway. Modus Androginus forms part of [Atmosphere Collective](/work/atmosfera/), where artistic work develops through collaboration. Here, the photographs offer a way to follow the encounter between visual material and live presence, retaining the collective context in which my performance took place.
 ---

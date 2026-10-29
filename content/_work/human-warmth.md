@@ -120,4 +120,14 @@ portfolio_pdf:
     caption: Detail of the Human Warmth label on the transparent bag
     fit: contain
   credits: 'Artist: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    What if human warmth could be prescribed? I made this installation for Care Lab at GRASP Festival in 2026, using the visual language of clinical equipment to consider what sustains us beyond a medical procedure. A transparent infusion bag hangs from a stand, illuminated in red. Its label names a substance that cannot be measured into a container: the attention and connection we offer one another.
+- images: 2
+  text: |-
+    The work developed through an earlier exploration of an oversized blister pack. Material tests and prototypes helped me translate the idea into the suspended infusion bag, working with transparency, red material, light and a printed label. The process photographs retain that progression. I conceived and made the installation, bringing the familiar form of medical packaging into a sculptural enquiry about presence and care.
+- images: 8
+  text: |-
+    The label carries the question into language. Composition, dosage and compatibility become invitations to generosity, open minds and collaborative practices. “Do not substitute presence with efficiency” interrupts the expectation of a treatment with a measurable result. Presented within [Care Lab](/work/care-lab/), where I also co-created participation formats, the installation asks visitors to consider care as an encounter. Its clinical appearance gives a public form to something sustained through relationships and everyday gestures.
 ---

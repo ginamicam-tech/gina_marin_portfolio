@@ -67,4 +67,14 @@ portfolio_pdf:
     caption: Concept visualization of the proposed sculpture. Not a realised installation.
     fit: contain
   credits: 'Artistic concept and proposal: Gina Micaela Marín and Gina Mobilia'
+visual_story:
+- images: 1
+  text: |-
+    How can a public sculpture offer support without enclosing us? Developed with Gina Mobilia, Ribben: The Resonance Circle takes the ribcage as a starting point for a place of protection and shared breathing. Submitted to Copenhagen’s 2026 open call marking International Women’s Day at Nørrebros Runddel, it remains an unrealised proposal. The visualisation presents an imagined space rather than a completed installation.
+- images: 0
+  text: |-
+    Eight corten-steel ribs, arranged in four mirrored pairs, would form an open circle eight metres in diameter and three metres high. People could enter, pass through or gather within it. Facing Jagtvej 69, the proposal connects the site’s historical significance with questions about who is protected, whose voice is heard and how care becomes a shared responsibility. The centre would remain available for conversation, readings, performance and collective action.
+- images: 0
+  text: |-
+    Gina Mobilia and I developed the artistic concept and proposal, bringing visual and spatial practices into a shared sculptural enquiry. The ribs would remain still, with optional lighting suggesting expansion and contraction. Their openness makes support compatible with autonomy and disagreement. If selected, the work would require development with qualified structural and fabrication specialists. The proposal offers a form for gathering while leaving its future uses open to the people who might encounter it.
 ---

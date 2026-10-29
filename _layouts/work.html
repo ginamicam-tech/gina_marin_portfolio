@@ -4,6 +4,7 @@ layout: default
 <div class="page-intro{% unless page.show_cover == false %} work-intro--covered{% endunless %}" id="top">
   {% if page.show_cover == false %}{% include work-heading.html %}{% endif %}
   {% assign intro_text = content | strip %}
+  {% unless page.visual_story %}
   {% if intro_text != '' or page.type == 'artwork' or page.anchors %}
   <div class="prose intro-copy newspaper">
     {% for anchor in page.anchors %}<span id="{{ anchor | escape }}"></span>{% endfor %}
@@ -13,8 +14,12 @@ layout: default
     {% include content.html %}
   </div>
   {% endif %}
+  {% endunless %}
 </div>
 <div class="page-content">
+  {% if page.visual_story %}
+  {% include visual-story.html %}
+  {% else %}
   {% include sections.html sections=page.sections %}
   {% include sections.html sections=page.archive_sections %}
   {% if page.credits %}{% include credits.html credits=page.credits note=page.credit_note %}{% endif %}
@@ -25,5 +30,6 @@ layout: default
   </div>
   {% endif %}
   {% for selection in page.work_lists %}{% include work-list.html selection=selection %}{% endfor %}
+  {% endif %}
   {% if page.supporters %}<div class="media-grid project-supporters" aria-label="Venue and supporters">{% include media.html item=page.supporters %}</div>{% endif %}
 </div>

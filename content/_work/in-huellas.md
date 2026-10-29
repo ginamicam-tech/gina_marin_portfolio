@@ -154,4 +154,14 @@ portfolio_pdf:
     caption: Footprints · Gina Marín · 2019
     fit: contain
   credits: 'Artist: Gina Marín'
+visual_story:
+- images: 2
+  text: |-
+    What does it mean to take a step? Footprints begins with the feet as the body’s point of contact with the material world. Developed in the Visual Narratives Laboratory, the project asks how the weight and resistance of a physical gesture relate to the apparent lightness of digital experience. A sequence of photographic actions became the starting point for drawings and digital variations.
+- images: 2
+  text: |-
+    I constructed makeshift shoes by fastening bricks to my feet with ropes. The photoperformance unfolded through movement and the gradual untying of those bindings, ending with the feet released. Serial photographs recorded the progression from constraint to release. I translated the records into drawings on paper, then used transparency, graphic layers and compositional changes to explore how the action could become a visual trajectory.
+- images: 12
+  text: |-
+    The resulting sequences move between burdened and freely moving feet, advance and retreat, lightness and weight. I developed the photoperformance, illustrations and digital editing as connected stages of the same enquiry. Material resistance remains present even as the gesture becomes an image that can be layered and rearranged. Made in 2019, Footprints contributes to [Body.Interface](/work/body-interface/), tracing how an embodied action changes through photographic capture, drawing and digital mediation without leaving the question of its physical weight behind.
 ---

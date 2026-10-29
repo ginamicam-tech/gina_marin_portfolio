@@ -98,4 +98,14 @@ portfolio_pdf:
     caption: 'Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín.'
     fit: contain
   credits: 'Performance, costume and image editing: Gina Marín. Photography: Florencia Aravena'
+visual_story:
+- images: 2
+  text: |-
+    How can a restricted body find room to move? Clinical Fold places a body inside a confined bathroom of mirrors and water. A white plastic costume covers the head, face and torso, leaving the arms and feet exposed. The work begins with the tension between protection and containment, exploring how bodily presence can become perceptible through the material that appears to conceal it.
+- images: 2
+  text: |-
+    I sewed the plastic on my sewing machine, treating cuts and seams as drawn lines. Through butoh movement, slowness, twisting and small gestures, I tested the relationship between the costume and my body. Breath and the folds of the material introduced movement into the clean, cold setting. Florencia Aravena photographed the performance, recording the encounter between the body, its enclosure and the surrounding reflections.
+- images: 3
+  text: |-
+    I then edited the photographs through heightened brightness, cold colour and white margins, extending the performance into an image sequence. The process also led to Manifiesto Pulso Butoh, a poetic text about bodily attention and agency. My contribution combined costume-making, performance and image editing. Alongside [Self Archive](/work/self-archive/), the work forms the centre of [Body.Interface](/work/body-interface/), asking how an image can hold the experience of being present within one’s own body.
 ---

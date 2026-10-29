@@ -7,7 +7,7 @@ tags:
 - artwork
 - painting
 - body
-series: chromatic-body
+series: optical-pulse
 year: 2020
 technique: Oil on canvas
 dimensions: 100 × 40 cm

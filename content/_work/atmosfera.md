@@ -25,52 +25,45 @@ cover:
   alt: Four members of Atmosphere Collective together
   fit: cover
   position: 50% 65%
-gallery_layout: square-grid
-gallery_aspect: landscape
+gallery_layout: collective-editorial
+show_cover_in_gallery: false
 media:
-- type: image
-  src: /content/media/atmosfera/exhibition-group-enhanced.jpg
-  alt: Four members of Atmosphere Collective in an exhibition space
-  fit: contain
-- type: image
-  src: /content/media/atmosfera/night-group-enhanced.jpg
-  alt: Members of the collective together at night
-  fit: contain
-- type: image
-  src: /content/media/atmosfera/outdoor-paintings-enhanced.jpg
-  alt: Four artists holding their paintings outdoors
-  fit: contain
-- type: image
-  src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg
+- src: /content/media/atmosfera/exhibition-group-enhanced.jpg
+  alt: Members of Atmosphere Collective in an exhibition space
+  caption: Atmosphere Collective · Exhibition
+- src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg
   alt: Projected imagery across a group of performers
-- type: image
-  src: /content/media/portfolio-additions/atmosfera-exhibition-group.jpg
-  alt: Group photograph in an exhibition space
-- type: image
-  src: /content/media/portfolio-additions/atmosfera-sunflower-field.jpg
-  alt: Figures among tall sunflowers in a field beneath an evening sky
-- type: image
-  src: /content/media/portfolio-additions/labluhaus-event-poster.jpeg
-  alt: Labluhaus event poster listing music and visual-art contributors
-  caption: Labluhaus · Event poster
-- type: image
-  src: /content/media/portfolio-additions/cana-mural-wide.jpg
-  alt: Wider view of artists painting a shared outdoor mural with paint and tools on the grass
-  caption: Co-creation with Umbrality
-- type: image
-  src: /content/media/portfolio-additions/atmosfera-blue-live-painting.jpg
-  alt: An artist painting tall panels under blue event lighting
-- type: image
-  src: "/content/media/portfolio-additions/cana-painting-materials.jpg"
-  alt: An artist working with pots of coloured paint outdoors
-  caption: "Co-creation with Umbrality"
-- type: image
-  src: "/content/media/portfolio-additions/cana-collective-mural.jpg"
-  alt: Participants painting a wall together outdoors
-  caption: "Co-creation with Umbrality"
-- type: image
-  src: "/content/media/portfolio-additions/atmosfera-live-painting.jpg"
-  alt: Live painting on upright panels under coloured lighting
+  caption: Performance · Projected imagery
+  fit: contain
+- src: /content/media/portfolio-additions/cana-mural-wide.jpg
+  alt: Artists painting a shared outdoor mural
+  caption: Collective painting · Umbrality
+- src: /content/media/portfolio-additions/cana-painting-materials.jpg
+  alt: An artist working with paint during a collective intervention
+  caption: Materials and process · Umbrality
+- src: /content/media/portfolio-additions/cana-collective-mural.jpg
+  alt: Participants working together on a mural
+  caption: Shared production · Umbrality
+- src: /content/media/portfolio-additions/atmosfera-live-painting.jpg
+  alt: Live painting on upright panels during an event
+  caption: Live painting · Event documentation
+posters:
+- src: /content/media/atmosfera/exhibition-flyer.jpg
+  alt: No salvan la vida ni sustentan el alma exhibition flyer
+  caption: No salvan la vida, ni sustentan el alma · Exhibition
+- src: /content/media/atmosfera/creativity-workshop.jpg
+  alt: Acercamientos a la Creatividad workshop flyer
+  caption: Acercamientos a la Creatividad · Workshop
+- src: /content/media/atmosfera/dialectics-programme.jpg
+  alt: Dialécticas Oscilantes exhibition programme and credits
+  caption: Dialécticas Oscilantes · Related exhibition programme
+- src: /content/media/portfolio-additions/labluhaus-event-poster.jpeg
+  alt: Labluhaus event poster
+  caption: Labluhaus · Live event
+press:
+- src: /content/media/atmosfera/exhibition-press.jpg
+  alt: Newspaper coverage of No salvan la vida ni sustentan el alma at Casa de Pepino
+  caption: Hoy Día Córdoba · 16 August 2019
 sections:
 - layout: newspaper
   text: |-

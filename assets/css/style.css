@@ -193,3 +193,18 @@ h1,h2,h3,h4,h5,h6,button,input,select,textarea,.eyebrow,.site-header,.site-foote
 .media-grid--landscape{gap:32px;align-items:start}
 .media-grid--landscape>figure{display:block;grid-row:auto;padding:0;margin:0}
 .media-grid--landscape>figure>img,.media-grid--landscape>figure>a>img{display:block;width:100%;height:auto;aspect-ratio:16 / 9;object-fit:contain;background:#faf4ec}
+
+/* Atmosphere: a curated photographic record and a monochrome document archive. */
+.collective-documentation{margin-block:56px 64px}
+.collective-documentation>h2{font-size:clamp(24px,3vw,32px);margin:0 0 24px}
+.collective-documentation .media-grid{margin:0;gap:32px 24px}
+.collective-photos{grid-template-columns:repeat(3,minmax(0,1fr))}
+.collective-photos img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;background:#fff}
+.collective-photos img.media-image--contain{object-fit:contain}
+.collective-posters{grid-template-columns:repeat(2,minmax(0,1fr))}
+.collective-posters img{width:100%;height:auto;aspect-ratio:1;object-fit:contain;filter:grayscale(1);background:#fff}
+.collective-documentation figcaption{font-size:12px;line-height:1.5;margin-top:12px}
+.collective-press{grid-template-columns:minmax(0,1fr);max-width:800px}
+.collective-press img{width:100%;height:auto;filter:grayscale(1);background:#fff}
+@media(max-width:900px){.collective-photos{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.collective-photos,.collective-posters{grid-template-columns:minmax(0,1fr)}.collective-documentation{margin-block:40px 48px}}

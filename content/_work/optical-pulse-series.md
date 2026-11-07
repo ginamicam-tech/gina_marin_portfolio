@@ -16,12 +16,12 @@ featured: false
 order: 302
 permalink: "/work/optical-pulse-series/"
 thumbnail:
-  src: /content/media/artworks/clean/chromatic-05-square.jpg
+  src: /content/media/artworks/clean/chromatic-12-square.jpg
   position: 50% 50%
   zoom: 1
 cover:
-  src: "/content/media/artworks/clean/chromatic-05.jpg"
-  alt: Kinetic Traces
+  src: "/content/media/artworks/clean/chromatic-12.jpg"
+  alt: Inner Mirror
 listing_context: 2017–2024 · Artwork series
 work_lists:
 - type: artwork
@@ -49,27 +49,18 @@ portfolio_pdf:
     of making meets the viewer’s shifting attention. Patterns organise perception while remaining open
     to ambiguity.'
   images:
-  - src: /content/media/artworks/clean/chromatic-05.jpg
-    caption: Kinetic Traces | 2023 | Ink on paper | 40 × 30 cm
-    fit: contain
-  - src: /content/media/artworks/clean/chromatic-13.jpg
-    caption: Sea of Strings | 2018 | Ink on paper | 40 × 30 cm
-    fit: contain
   - src: /content/media/artworks/clean/chromatic-12.jpg
     caption: "Inner Mirror | 2020 | Oil on canvas | 42 × 59.4 cm"
     fit: contain
-  - src: /content/media/artworks/clean/chromatic-01.jpg
-    caption: "Figure Study | 2018 | Oil on canvas | 35 × 20 cm"
-    fit: contain
   credits: 'Artist: Gina Marín'
 visual_story:
-- images: 6
+- images: 4
   text: |-
     How can colour, repetition and visual vibration make the body felt within an image? Optical Pulse brings together paintings, ink works, woodcuts and illustrations, including the works previously presented as Chromatic Body. The enquiry connects the body as a space of sensation and memory with the rhythms through which an image seems to move. Figures and patterns become different ways of approaching the same question about embodied perception.
-- images: 6
+- images: 4
   text: |-
     My background in performance and movement informs this relationship between making and looking. Oil painting gives bodily forms density; ink, incision and repeated marks establish other rhythms. Symmetry, shifting contours and the tension between figure and surrounding space allow an apparently stable image to change through sustained attention. Across these works, colour and graphic structure articulate experiences that resist a fixed outline, connecting material gesture with the viewer’s changing perception.
-- images: 2
+- images: 1
   text: |-
     I made the works gathered here as an ongoing artistic investigation into bodily presence and representation. Seen together, they connect the vulnerability of a painted figure with the pulse of repeated lines, holding sensation, ambiguity and transformation within the same field. The individual artwork pages retain their techniques, dates and dimensions. This combined selection extends the enquiry of [Body.Interface](/work/body-interface/), asking how the complexity of a sensing body can remain present in the images through which we represent ourselves.
 ---

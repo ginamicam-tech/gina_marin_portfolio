@@ -1,13 +1,18 @@
 ---
 card_label: Xplore Festival
 cover:
-  src: "/content/media/xplore/monster-red-light.jpg"
-  alt: Interactive monster with a glowing circular face in the red-lit installation
+  src: "/content/media/xplore/monster-projections.jpg"
+  alt: White projected lines crossing the monster’s translucent body and glowing red face
+  position: 50% 48%
 thumbnail:
   src: "/content/media/xplore/monster-heart-close-up.jpg"
   position: 50% 28%
 gallery_layout: square-grid
+show_cover_in_gallery: false
 media:
+- type: image
+  src: /content/media/xplore/monster-red-light.jpg
+  alt: Interactive monster with a glowing circular face in the red-lit installation
 - type: image
   src: /content/media/xplore/monster-visitor-red-light.jpg
   alt: A person encountering the illuminated monster in a red-lit installation space

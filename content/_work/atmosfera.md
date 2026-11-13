@@ -86,7 +86,7 @@ sections:
   text: |-
     ## Projects within the collective
 
-    Modus Androginus; They Do Not Save Life, Nor Sustain the Soul; Women and LGTBIQ+ Altar #LivesInStruggle; and Yellow Poison Land are part of Atmosphere Collective. Each has its own project page, with photographs, context and credits, and remains individually accessible in the Work archive. Explore them below.
+    Modus Androginus; They Do Not Save Life, Nor Sustain the Soul; Altar: Women and LGBTI+ in the 21st Century; and Yellow Poison Land are part of Atmosphere Collective. Each has its own project page, with photographs, context and credits, and remains individually accessible in the Work archive. Explore them below.
 
     Related work: [IN_Deterritory and Oscillating Dialectics](/work/in-desterritorio/)
 

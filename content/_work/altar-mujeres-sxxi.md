@@ -1,10 +1,10 @@
 ---
 parent: atmosfera
 card_label: CCK, Buenos Aires
-title: "Women and LGTBIQ+ Altar #LivesInStruggle"
+title: "Altar: Women and LGBTI+ in the 21st Century"
 permalink: "/portfolio/altar-mujeres-sxxi/"
 order: 11
-name: "Women and LGTBIQ+ Altar #LivesInStruggle"
+name: "Altar: Women and LGBTI+ in the 21st Century"
 listing_context: CCK · Buenos Aires · 2020–2021
 context: CCK · Buenos Aires · 2020–2021
 role: Collaborating research artist & audiovisual content producer

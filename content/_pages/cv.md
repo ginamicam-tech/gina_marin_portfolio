@@ -94,7 +94,7 @@ The thesis examines how bodily presence and personal agency can be sustained wit
 
 - **2020 · Bachelor’s Degree in Visual Arts** — [National University of Córdoba](https://www.unc.edu.ar/) · Córdoba, Argentina
 
-- **2015 · Industrial Design and Technical Drawing Studies** — [Faculty of Architecture, Urbanism and Industrial Design, National University of Córdoba](https://faud.unc.edu.ar/carrera-de-diseno-industrial/) · Córdoba, Argentina
+- **2012 · Industrial Design and Technical Drawing Studies** — [Faculty of Architecture, Urbanism and Industrial Design, National University of Córdoba](https://faud.unc.edu.ar/carrera-de-diseno-industrial/) · Córdoba, Argentina
 
 - **2007–2010 · Surveying Engineering Studies (degree not completed)** — [National University of Córdoba](https://fcefyn.unc.edu.ar/) · Córdoba, Argentina
 

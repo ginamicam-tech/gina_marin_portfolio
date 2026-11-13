@@ -27,5 +27,5 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-3-details
 - gallery-optical-pulse-artworks-artwork-3-title
 key: optical-pulse-kinetic-body
-artist: Gina Marín
+artist: Gina Marin
 ---

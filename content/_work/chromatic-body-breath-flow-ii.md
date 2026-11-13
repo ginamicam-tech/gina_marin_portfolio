@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-7-details
 - gallery-chromatic-body-artworks-artwork-7-title
 key: chromatic-body-breath-flow-ii
-artist: Gina Marín
+artist: Gina Marin
 ---

@@ -72,7 +72,7 @@ sections:
 question: How can an interactive creature welcome people into an installation?
 credits:
 - role: Co-creation, performance, poetry and interactive monster
-  name: Gina Marín
+  name: Gina Marin
 - role: Artists listed in the festival programme
   name: Anso Vela, Jac Fabian, Max and Axel-Camilla Barratt-Due
 - role: Programme source
@@ -94,7 +94,7 @@ portfolio_pdf:
     caption: Close-up of the monster’s illuminated heart-shaped centre surrounded by translucent forms
       in blue and pink light
     fit: contain
-  credits: 'Co-creation, performance, poetry and interactive monster: Gina Marín. Artists listed in the
+  credits: 'Co-creation, performance, poetry and interactive monster: Gina Marin. Artists listed in the
     festival programme: Anso Vela, Jac Fabian, Max and Axel-Camilla Barratt-Due'
 visual_story:
 - images: 2

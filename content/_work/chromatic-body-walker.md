@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-5-details
 - gallery-chromatic-body-artworks-artwork-5-title
 key: chromatic-body-walker
-artist: Gina Marín
+artist: Gina Marin
 ---

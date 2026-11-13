@@ -5,9 +5,9 @@ show_eyebrow: false
 cover:
   size: half
   src: "/content/media/thesis/presentation-silver.jpg"
-  alt: Silver textured graphic from Gina Marín’s thesis presentation
+  alt: Silver textured graphic from Gina Marin’s thesis presentation
 ---
-**Gina Marín · MA in Visual Arts and Digital Media**  
+**Gina Marin · MA in Visual Arts and Digital Media**  
 Copenhagen, Denmark · Originally from Argentina · EU citizen
 
 [ginamicam@gmail.com](mailto:ginamicam@gmail.com) · +45 50 36 62 64 · [Linktree](https://linktr.ee/ginamicam)

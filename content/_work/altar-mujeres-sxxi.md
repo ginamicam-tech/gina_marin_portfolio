@@ -179,6 +179,6 @@ portfolio_pdf:
     caption: Altar · Collective biography cards and QR-linked research.
     fit: contain
   credits: 'Concept and artistic direction: Silvia Barrios. CCK curatorship: Kekena Corvalán. Research
-    and audiovisual contribution: Gina Marín, within the artist-researcher collective. Full collective
+    and audiovisual contribution: Gina Marin, within the artist-researcher collective. Full collective
     credits online.'
 ---

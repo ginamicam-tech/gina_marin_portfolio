@@ -107,7 +107,7 @@ sections:
 
     **Collective creation:** the House of Play Playlab group, bringing together artists, musicians, kink practitioners and facilitators.
 
-    **Gina Marín:** co-creation, performance and readings of original poetry.
+    **Gina Marin:** co-creation, performance and readings of original poetry.
 
     **Host:** House of Play, Copenhagen.
 
@@ -132,7 +132,7 @@ portfolio_pdf:
     caption: 'The Poetics of the Collective · House of Play · 14–15 March 2026 | Photography: Jacob Stage'
     fit: contain
   credits: 'Artistic direction: Anso, Anitta and Mads. Collective creation: House of Play Playlab group.
-    Co-creation, performance and original poetry: Gina Marín. Header and poster photography: Jacob Stage. Additional photographic documentation: Mads Hobye and Jacob Stage.'
+    Co-creation, performance and original poetry: Gina Marin. Header and poster photography: Jacob Stage. Additional photographic documentation: Mads Hobye and Jacob Stage.'
 visual_story:
 - images: 2
   text: |-

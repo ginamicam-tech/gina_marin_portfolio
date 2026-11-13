@@ -34,7 +34,7 @@ sections:
     *Yellow Poison Land* is a collaborative photographic project that uses myth to examine ecological violence and the ambivalent relationship between beauty, desire, and possession. Its narrative imagines a world in which humans and fantastic beings once shared the earth. Driven by envy of the nymphs’ beauty, humans poisoned their habitat, leaving the yellow reflection of sunflowers as their final vision. This fictional account frames environmental destruction as the rupture of coexistence, in which the desire to possess the living world ultimately undermines the conditions that sustain it.
 credits:
 - role: Co-creation
-  name: Gina Marín, Lenna Aravena and Catalina
+  name: Gina Marin, Lenna Aravena and Catalina
 gallery_layout: square-grid
 media:
 - type: image
@@ -83,7 +83,7 @@ portfolio_pdf:
   - src: /content/media/yellow-poison-land/field-original-0755.jpg
     caption: Yellow Poison Land · 2019
     fit: contain
-  credits: 'Co-creation: Gina Marín, Lenna Aravena and Catalina'
+  credits: 'Co-creation: Gina Marin, Lenna Aravena and Catalina'
 visual_story:
 - images: 2
   text: |-

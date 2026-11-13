@@ -33,7 +33,7 @@ sections:
     Presented at [CePiA, the Arts Research Centre](https://artes.unc.edu.ar/centros/cepia/), Argentina, in 2017.
 credits:
 - role: Co-creation
-  name: Gina Marín, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez
+  name: Gina Marin, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez
 media:
 - type: image
   src: /content/media/fibrous-flesh/performance-02.png
@@ -86,7 +86,7 @@ portfolio_pdf:
   - src: /content/media/fibrous-flesh/performance-04.png
     caption: Fibrous Flesh · CEPIA · 2017
     fit: contain
-  credits: 'Co-creation: Gina Marín, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez'
+  credits: 'Co-creation: Gina Marin, Angeles Torino, Yoseli Leiva, Lenna Aravena, and Jazmin Lopez'
 visual_story:
 - images: 2
   text: |-

@@ -16,8 +16,8 @@ thumbnail:
   zoom: 1.15
 cover:
   src: "/content/media/clinical-fold/performance.jpg"
-  alt: Gina Marín performing in a white plastic costume in a bathroom
-  caption: 'Performance, costume and image editing: Gina Marín. Photography: Florencia Aravena.'
+  alt: Gina Marin performing in a white plastic costume in a bathroom
+  caption: 'Performance, costume and image editing: Gina Marin. Photography: Florencia Aravena.'
 legacy_anchors:
 - clinical-fold
 - clinical-title
@@ -31,27 +31,27 @@ media:
 - type: image
   src: /content/media/clinical-fold/neck-and-folds.jpg
   alt: The back of the neck surrounded by folds of white plastic
-  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín."
+  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin."
 - type: image
   src: /content/media/clinical-fold/raised-head.jpg
   alt: Head tilted back beneath the white plastic costume
-  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín."
+  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin."
 - type: image
   src: /content/media/clinical-fold/extended-gesture.jpg
   alt: An extended arm and flowing plastic costume reflected in the bathroom
-  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín."
+  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin."
 - type: image
   src: /content/media/clinical-fold/arm-and-costume.jpg
   alt: A bent arm against the sewn white plastic costume
-  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín."
+  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin."
 - type: image
   src: /content/media/clinical-fold/window.jpg
   alt: A figure in the plastic costume beside a bright bathroom window
-  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín."
+  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin."
 - type: image
   src: /content/media/clinical-fold/outstretched-hand.jpg
   alt: An outstretched hand in front of the white plastic costume
-  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín."
+  caption: "Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin."
 sections:
 - layout: newspaper
   text: |-
@@ -79,7 +79,7 @@ documentation_sources:
   pdf_pages: 14–15
 credits:
 - role: Performance, costume and image editing
-  name: Gina Marín
+  name: Gina Marin
 - role: Photography
   name: Florencia Aravena
 portfolio_pdf:
@@ -92,12 +92,12 @@ portfolio_pdf:
     a photographic sequence.
   images:
   - src: /content/media/clinical-fold/performance.jpg
-    caption: 'Performance, costume and image editing: Gina Marín. Photography: Florencia Aravena.'
+    caption: 'Performance, costume and image editing: Gina Marin. Photography: Florencia Aravena.'
     fit: contain
   - src: /content/media/clinical-fold/neck-and-folds.jpg
-    caption: 'Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marín.'
+    caption: 'Clinical Fold · Photography: Florencia Aravena; image editing: Gina Marin.'
     fit: contain
-  credits: 'Performance, costume and image editing: Gina Marín. Photography: Florencia Aravena'
+  credits: 'Performance, costume and image editing: Gina Marin. Photography: Florencia Aravena'
 visual_story:
 - images: 2
   text: |-

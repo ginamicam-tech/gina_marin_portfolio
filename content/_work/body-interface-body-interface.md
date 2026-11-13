@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-11-details
 - gallery-body-interface-artworks-artwork-11-title
 key: body-interface-body-interface
-artist: Gina Marín
+artist: Gina Marin
 ---

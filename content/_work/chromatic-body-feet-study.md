@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-3-details
 - gallery-chromatic-body-artworks-artwork-3-title
 key: chromatic-body-feet-study
-artist: Gina Marín
+artist: Gina Marin
 ---

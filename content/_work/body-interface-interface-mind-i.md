@@ -28,6 +28,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-14-details
 - gallery-body-interface-artworks-artwork-14-title
 key: body-interface-interface-mind-i
-artist: Gina Marín
+artist: Gina Marin
 ---
 This image is also documented within [Metamorphic Plane](/work/in-plano-metamorfico/), where the thesis describes the project and its making process.

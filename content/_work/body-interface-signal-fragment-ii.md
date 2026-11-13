@@ -28,6 +28,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-5-details
 - gallery-body-interface-artworks-artwork-5-title
 key: body-interface-signal-fragment-ii
-artist: Gina Marín
+artist: Gina Marin
 ---
 This image is also documented within [IN_Deterritory](/work/in-desterritorio/), where the thesis describes the project and its making process.

@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-9-details
 - gallery-body-interface-artworks-artwork-9-title
 key: body-interface-flowing-figure-i
-artist: Gina Marín
+artist: Gina Marin
 ---

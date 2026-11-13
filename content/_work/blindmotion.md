@@ -74,7 +74,7 @@ documentation_sources:
   - 12
 credits:
 - role: Inclusive activities, accessible learning and communication
-  name: Gina Marín
+  name: Gina Marin
 - role: Organisation
   name: Blindmotion
 - role: Silkeborg kayaking photographs
@@ -94,6 +94,6 @@ portfolio_pdf:
   - src: /content/media/blindmotion/kayaking-silkeborg.avif
     caption: 'Kayaking in Silkeborg · Photography: Per Bille'
     fit: contain
-  credits: 'Inclusive activities, accessible learning and communication: Gina Marín. Organisation: Blindmotion.
+  credits: 'Inclusive activities, accessible learning and communication: Gina Marin. Organisation: Blindmotion.
     Silkeborg kayaking photographs: Per Bille'
 ---

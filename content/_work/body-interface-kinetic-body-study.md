@@ -28,6 +28,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-17-details
 - gallery-body-interface-artworks-artwork-17-title
 key: body-interface-kinetic-body-study
-artist: Gina Marín
+artist: Gina Marin
 ---
 This image is also documented within [Bodily Resonance](/work/in-resonancia-corporea/), where the thesis describes the project and its making process.

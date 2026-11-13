@@ -133,7 +133,7 @@ question: How can a cultural collective rebuild public participation while its s
 show_cover_in_gallery: false
 credits:
 - role: Community coordination and creative communication
-  name: Gina Marín
+  name: Gina Marin
 - role: Collective
   name: illutron Interactive Art Collective
 - role: Independent support association
@@ -156,6 +156,6 @@ portfolio_pdf:
   - src: /content/media/illutron/meet-and-build-event-poster.png
     caption: Meet & Build poster inviting people to boat maintenance, shared learning and community activities
     fit: contain
-  credits: 'Community coordination and creative communication: Gina Marín. Collective: illutron Interactive
+  credits: 'Community coordination and creative communication: Gina Marin. Collective: illutron Interactive
     Art Collective. Independent support association: Illutron Anchors'
 ---

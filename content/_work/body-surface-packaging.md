@@ -66,7 +66,7 @@ sections:
     The investigation develops from [Body.Interface](/work/body-interface/).
 credits:
 - role: Artist & researcher
-  name: Gina Marín
+  name: Gina Marin
 - role: Collaboration
   name: Mads Høbye
 gallery_layout: square-grid
@@ -152,7 +152,7 @@ portfolio_pdf:
   - src: /content/media/body-surface-packaging/face-fragments-01.jpg
     caption: Original scan · Facial fragments I
     fit: contain
-  credits: 'Artist & researcher: Gina Marín. Collaboration: Mads Høbye'
+  credits: 'Artist & researcher: Gina Marin. Collaboration: Mads Høbye'
 visual_story:
 - images: 2
   text: |-

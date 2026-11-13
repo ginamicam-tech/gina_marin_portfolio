@@ -97,7 +97,7 @@ documentation_sources:
   - 24
 credits:
 - role: Concept co-development, reflective question cards, Human Warmth installation and workshop co-facilitation
-  name: Gina Marín
+  name: Gina Marin
 - role: Participants listed in the festival programme
   name: Werner Fütterer, Kaethe Wenzel, Sarah Philipp, Mads Hobye and Abdul Halim Bin Abdul Rahman
 - role: Project framework
@@ -122,7 +122,7 @@ portfolio_pdf:
   - src: /content/media/care-lab/care-lab-at-the-press.jpg
     caption: Gina operating the hand printing press at Care Lab
     fit: contain
-  credits: 'Gina Marín: co-development, installation design and facilitation. Programme participants include
+  credits: 'Gina Marin: co-development, installation design and facilitation. Programme participants include
     Werner Fütterer, Kaethe Wenzel, Sarah Philipp, Mads Hobye and Abdul Halim Bin Abdul Rahman. Framework:
     RECRUIT&RETAIN, Interreg Deutschland-Danmark; collaborating universities, hospitals, nursing schools
     and students. Full credits online.'

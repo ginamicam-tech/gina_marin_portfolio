@@ -1,4 +1,4 @@
-# Gina Marín: editable PDF portfolio
+# Gina Marin: editable PDF portfolio
 
 The PDF is authored from the existing work collection, with a separate editorial layer. It does not print the website.
 

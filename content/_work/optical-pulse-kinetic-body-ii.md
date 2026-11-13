@@ -27,6 +27,6 @@ legacy_anchors:
 - gallery-optical-pulse-artworks-artwork-6-details
 - gallery-optical-pulse-artworks-artwork-6-title
 key: optical-pulse-kinetic-body-ii
-artist: Gina Marín
+artist: Gina Marin
 ---
 This image is also documented within [Bodily Resonance](/work/in-resonancia-corporea/), where the thesis describes the project and its making process.

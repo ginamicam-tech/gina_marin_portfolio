@@ -53,7 +53,7 @@ sections:
     [Explore Body.Interface →](/work/body-interface/)
 credits:
 - role: Artist publications and works on paper
-  name: Gina Marín
+  name: Gina Marin
 media:
 - type: image
   src: /content/media/conversations-with-technology/publications-and-cutouts.jpg
@@ -99,7 +99,7 @@ portfolio_pdf:
   - src: /content/media/conversations-with-technology/poetic-spread.jpg
     caption: Drawing and poetic writing · 2019
     fit: contain
-  credits: 'Artist publications and works on paper: Gina Marín'
+  credits: 'Artist publications and works on paper: Gina Marin'
 visual_story:
 - images: 2
   text: |-

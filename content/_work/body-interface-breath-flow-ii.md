@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-16-details
 - gallery-body-interface-artworks-artwork-16-title
 key: body-interface-breath-flow-ii
-artist: Gina Marín
+artist: Gina Marin
 ---

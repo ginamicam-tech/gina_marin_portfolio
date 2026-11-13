@@ -105,7 +105,7 @@ documentation_sources:
   - 17
 credits:
 - role: Performance contribution
-  name: Gina Marín with Atmosphere Collective
+  name: Gina Marin with Atmosphere Collective
 - role: Venue
   name: Studio Teatro, Córdoba
 portfolio_pdf:
@@ -122,7 +122,7 @@ portfolio_pdf:
   - src: /content/media/modus/uhd/modus-painting-close-enhanced.jpg
     caption: Close view of live painting at Modus Androginus
     fit: contain
-  credits: 'Performance contribution: Gina Marín with Atmosphere Collective. Venue: Studio Teatro, Córdoba'
+  credits: 'Performance contribution: Gina Marin with Atmosphere Collective. Venue: Studio Teatro, Córdoba'
 visual_story:
 - images: 2
   text: |-

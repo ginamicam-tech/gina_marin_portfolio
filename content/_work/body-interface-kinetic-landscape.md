@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-10-details
 - gallery-body-interface-artworks-artwork-10-title
 key: body-interface-kinetic-landscape
-artist: Gina Marín
+artist: Gina Marin
 ---

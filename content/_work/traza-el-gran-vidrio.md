@@ -112,7 +112,7 @@ sections:
   text: |-
     ## About the proposal
 
-    Traza is a collaborative project in curatorial management, production and post-production, developed in 2020 as an exhibition proposal for Fundación El Gran Vidrio in Córdoba. The project team consisted of Gina Marín, Carla Scerbo, Naira Vallejos and Caterina Vignolo. It brings together works by Guillermo Kuitca, Leticia Obeid, León Ferrari and Mariano Sardón around mapping, writing, touch and interactive media.
+    Traza is a collaborative project in curatorial management, production and post-production, developed in 2020 as an exhibition proposal for Fundación El Gran Vidrio in Córdoba. The project team consisted of Gina Marin, Carla Scerbo, Naira Vallejos and Caterina Vignolo. It brings together works by Guillermo Kuitca, Leticia Obeid, León Ferrari and Mariano Sardón around mapping, writing, touch and interactive media.
 
     The project is presented here as an exhibition plan. The documents show how the selected works could be arranged and encountered within the space.
 - layout: newspaper
@@ -126,7 +126,7 @@ sections:
   text: |-
     ## Documentation and credits
 
-    **Curatorial project management, production and post-production:** Gina Marín, Carla Scerbo, Naira Vallejos and Caterina Vignolo.
+    **Curatorial project management, production and post-production:** Gina Marin, Carla Scerbo, Naira Vallejos and Caterina Vignolo.
 
     The brochure, artwork register and technical drawings document the proposal. The artworks are by Guillermo Kuitca, Leticia Obeid, León Ferrari and Mariano Sardón, credited in the gallery captions.
 
@@ -172,6 +172,6 @@ portfolio_pdf:
   - src: /content/media/portfolio/exhibitions/traza/traza-floorplan.png
     caption: Proposed exhibition floor plan
     fit: contain
-  credits: 'Curatorial project management, production and post-production: Gina Marín, Carla Scerbo,
+  credits: 'Curatorial project management, production and post-production: Gina Marin, Carla Scerbo,
     Naira Vallejos and Caterina Vignolo. Project archive: https://5ef5f9412fd40.site123.me/'
 ---

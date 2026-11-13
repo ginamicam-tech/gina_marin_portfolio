@@ -37,52 +37,52 @@ media:
   src: /content/media/oscillating-dialectics/drawing-02-46.jpg
   alt: Seated figure within dense black ink forms
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-02-48.jpg
   alt: Layered variation of a figure and dense ink forms
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-02-49.jpg
   alt: Figure with flowing black lines and fragmented textures
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-02-45.jpg
   alt: White figure and textured forms against a black background
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-1111-03.jpg
   alt: Fine black ink textures with a red accent
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-1111-15.jpg
   alt: Textured floating form surrounding a red centre
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-1111-15-variant.jpg
   alt: Textured floating form with a black centre
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-1111-09.jpg
   alt: Red marks and black ink textures on wrinkled white paper
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   src: /content/media/oscillating-dialectics/drawing-1111-13.jpg
   alt: Black and red forms interrupted by fine linear textures
   fit: contain
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   fit: contain
   src: "/content/media/thesis/in-desterritorio-face.jpg"
   alt: A face suggested by small repeated ink marks
-  caption: IN_Deterritory · Gina Marín · 2019
+  caption: IN_Deterritory · Gina Marin · 2019
 - type: image
   fit: contain
   src: "/content/media/portfolio-additions/oscillating-dialectics-programme.jpg"
@@ -105,7 +105,7 @@ sections:
 
     ## Exhibiting artists
 
-    Jazmín López, Luis María Marcial, Caterina Vignolo, Lucas Agustín López Gerónimo, Alexandro Poggi, María Guadalupe Dean Eguia, Antonella Biasutti, Milena Lucía Vázquez, Guadalupe Bassoli, Agustina Lia, Yoseli Leiva U., Lucía Gonzalez Cief, Angeles Torino, Constanza Casarino, Gabriela Paz, Gina Marín and Lucas Di Pascuale.
+    Jazmín López, Luis María Marcial, Caterina Vignolo, Lucas Agustín López Gerónimo, Alexandro Poggi, María Guadalupe Dean Eguia, Antonella Biasutti, Milena Lucía Vázquez, Guadalupe Bassoli, Agustina Lia, Yoseli Leiva U., Lucía Gonzalez Cief, Angeles Torino, Constanza Casarino, Gabriela Paz, Gina Marin and Lucas Di Pascuale.
 
     ## My contribution
 
@@ -140,7 +140,7 @@ documentation_sources:
   - 20
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 supporters:
   type: image
   src: /content/media/oscillating-dialectics/credits-selected.jpg
@@ -164,7 +164,7 @@ portfolio_pdf:
     caption: A seated figure emerging from dense black ink patterns
     fit: contain
   - src: /content/media/thesis/in-desterritorio-landscape.jpg
-    caption: IN_Deterritory · Gina Marín · 2019
+    caption: IN_Deterritory · Gina Marin · 2019
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 ---

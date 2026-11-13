@@ -28,6 +28,6 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-7-details
 - gallery-body-interface-artworks-artwork-7-title
 key: body-interface-relational-study
-artist: Gina Marín
+artist: Gina Marin
 ---
 This image is also documented within [IN_Deterritory](/work/in-desterritorio/), where the thesis describes the project and its making process.

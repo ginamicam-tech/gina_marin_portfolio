@@ -103,7 +103,7 @@ documentation_sources:
   - 26
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -119,7 +119,7 @@ portfolio_pdf:
   - src: /content/media/human-warmth/label.jpg
     caption: Detail of the Human Warmth label on the transparent bag
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 2
   text: |-

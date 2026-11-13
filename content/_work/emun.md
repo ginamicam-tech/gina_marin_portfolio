@@ -141,7 +141,7 @@ sections:
 question: How can a new visual identity reposition an electrical and lighting brand?
 credits:
 - role: Brand identity, print materials and applications
-  name: Gina Marín
+  name: Gina Marin
 - role: Client
   name: EMUN
 portfolio_pdf:
@@ -158,7 +158,7 @@ portfolio_pdf:
   - src: "/content/media/portfolio/emun-7.jpg"
     caption: EMUN logo concept connecting electricity and light
     fit: contain
-  credits: 'Brand identity, print materials and applications: Gina Marín. Client:
+  credits: 'Brand identity, print materials and applications: Gina Marin. Client:
     EMUN'
 gallery_layout: square-grid
 gallery_aspect: landscape

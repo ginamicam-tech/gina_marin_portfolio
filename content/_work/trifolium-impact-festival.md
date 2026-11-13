@@ -55,7 +55,7 @@ sections:
 question: How can art and design come together to advance sustainable development?
 credits:
 - role: Event production and operations support
-  name: Gina Marín
+  name: Gina Marin
 - role: Organiser
   name: Forening Impact, Sydhavnen
 - role: Venue
@@ -77,6 +77,6 @@ portfolio_pdf:
   - src: /content/media/portfolio/work/trifolium-gallery-01.jpg
     caption: Impact Festival 2026 programme announcement
     fit: contain
-  credits: 'Event production and operations support: Gina Marín. Organiser: Forening Impact, Sydhavnen.
+  credits: 'Event production and operations support: Gina Marin. Organiser: Forening Impact, Sydhavnen.
     Venue: Trifolium, Copenhagen'
 ---

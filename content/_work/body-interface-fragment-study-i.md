@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-body-interface-artworks-artwork-2-details
 - gallery-body-interface-artworks-artwork-2-title
 key: body-interface-fragment-study-i
-artist: Gina Marín
+artist: Gina Marin
 ---

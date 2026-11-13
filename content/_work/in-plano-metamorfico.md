@@ -24,11 +24,11 @@ media:
 - type: image
   src: "/content/media/thesis/in-plano-metamorfico-print.jpg"
   alt: Black and white print of a hybrid body and mechanical structures
-  caption: Metamorphic Plane · Gina Marín · 2018
+  caption: Metamorphic Plane · Gina Marin · 2018
 - type: image
   src: "/content/media/thesis/in-plano-metamorfico-detail.jpg"
   alt: A dark printed face emerging from textured marks
-  caption: Metamorphic Plane · Gina Marín · 2018
+  caption: Metamorphic Plane · Gina Marin · 2018
 sections:
 - layout: newspaper
   text: |-
@@ -55,7 +55,7 @@ documentation_sources:
   pdf_pages: 24–25, 51
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -68,9 +68,9 @@ portfolio_pdf:
     caption: A coloured print combining faces, mechanical forms and wave-like lines
     fit: contain
   - src: /content/media/thesis/in-plano-metamorfico-print.jpg
-    caption: Metamorphic Plane · Gina Marín · 2018
+    caption: Metamorphic Plane · Gina Marin · 2018
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 2
   text: |-

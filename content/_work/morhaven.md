@@ -121,7 +121,7 @@ documentation_sources:
   - 34
 credits:
 - role: Brand identity, strategy and marketing direction
-  name: Gina Marín
+  name: Gina Marin
 - role: Client
   name: Morhaven Retreats
 portfolio_pdf:
@@ -139,5 +139,5 @@ portfolio_pdf:
   - src: /content/media/portfolio/morhaven-38.jpg
     caption: Website concept | Proposed desktop and mobile applications
     fit: contain
-  credits: 'Brand identity, strategy and marketing direction: Gina Marín. Client: Morhaven Retreats'
+  credits: 'Brand identity, strategy and marketing direction: Gina Marin. Client: Morhaven Retreats'
 ---

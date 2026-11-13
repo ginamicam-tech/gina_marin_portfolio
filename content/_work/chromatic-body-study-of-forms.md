@@ -28,5 +28,5 @@ legacy_anchors:
 - gallery-chromatic-body-artworks-artwork-2-details
 - gallery-chromatic-body-artworks-artwork-2-title
 key: chromatic-body-study-of-forms
-artist: Gina Marín
+artist: Gina Marin
 ---

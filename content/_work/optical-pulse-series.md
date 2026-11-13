@@ -31,7 +31,7 @@ work_lists:
   details: true
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 archive_sections:
 - layout: newspaper
   text: |-
@@ -52,7 +52,7 @@ portfolio_pdf:
   - src: /content/media/artworks/clean/chromatic-12.jpg
     caption: "Inner Mirror | 2020 | Oil on canvas | 42 × 59.4 cm"
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 3
   text: |-

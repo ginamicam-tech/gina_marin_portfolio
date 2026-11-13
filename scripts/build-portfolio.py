@@ -36,7 +36,7 @@ class Portfolio:
   fonts=font_dir()
   for name,file in [('Sans','DejaVuSans.ttf'),('Bold','DejaVuSans-Bold.ttf'),('Serif','DejaVuSerif.ttf')]:pdfmetrics.registerFont(TTFont(name,str(fonts/file)))
   self.c=canvas.Canvas(str(output),pagesize=(W,H),pageCompression=1)
-  self.c.setTitle('Gina Marín | '+config['edition']);self.c.setAuthor('Gina Marín');self.c.setSubject('Art & Research; Projects & Production; Design & Communication')
+  self.c.setTitle('Gina Marin | '+config['edition']);self.c.setAuthor('Gina Marin');self.c.setSubject('Art & Research; Projects & Production; Design & Communication')
  def text(self,s,x,y,width,size=11,font='Sans',color=INK,leading=None,maxheight=None):
   p=Paragraph(xml(s).replace('\n','<br/>'),ParagraphStyle('p',fontName=font,fontSize=size,leading=leading or size*1.43,textColor=color))
   _,h=p.wrap(width,1000)

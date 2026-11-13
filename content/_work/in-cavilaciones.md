@@ -23,27 +23,27 @@ media:
 - type: image
   src: "/content/media/thesis/in-cavilaciones-pages.jpg"
   alt: Open book with layered paper and drawn lines
-  caption: Cavilaciones atravesadas · Gina Marín · 2019
+  caption: Cavilaciones atravesadas · Gina Marin · 2019
 - type: image
   src: "/content/media/thesis/in-cavilaciones-digital.jpg"
   alt: A digitally edited book spread in purple, black and red
-  caption: Cavilaciones atravesadas · Gina Marín · 2019
+  caption: Cavilaciones atravesadas · Gina Marin · 2019
 - type: image
   src: /content/media/in-reflections/fine-line-spread.jpg
   alt: Open book with a dense black line drawing opposite a sparsely marked page
-  caption: Cavilaciones atravesadas · Gina Marín · 2019
+  caption: Cavilaciones atravesadas · Gina Marin · 2019
 - type: image
   src: /content/media/in-reflections/red-black-spread.jpg
   alt: Red and black organic forms across an open book spread
-  caption: Cavilaciones atravesadas · Gina Marín · 2019
+  caption: Cavilaciones atravesadas · Gina Marin · 2019
 - type: image
   src: /content/media/in-reflections/orange-layered-spread.jpg
   alt: Orange-toned book spread with layered translucent paper and drawn lines
-  caption: Cavilaciones atravesadas · Gina Marín · 2019
+  caption: Cavilaciones atravesadas · Gina Marin · 2019
 - type: image
   src: /content/media/in-reflections/turquoise-spread.jpg
   alt: Turquoise-toned book spread with a central red form and dark textured edges
-  caption: Cavilaciones atravesadas · Gina Marín · 2019
+  caption: Cavilaciones atravesadas · Gina Marin · 2019
 sections:
 - layout: newspaper
   text: |-
@@ -67,7 +67,7 @@ documentation_sources:
   pdf_pages: 23–24, 49–50
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -81,9 +81,9 @@ portfolio_pdf:
     caption: An open artist’s book with black and red graphic forms
     fit: contain
   - src: /content/media/thesis/in-cavilaciones-pages.jpg
-    caption: Cavilaciones atravesadas · Gina Marín · 2019
+    caption: Cavilaciones atravesadas · Gina Marin · 2019
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 2
   text: |-

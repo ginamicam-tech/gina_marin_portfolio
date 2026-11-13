@@ -27,11 +27,11 @@ media:
 - type: image
   src: "/content/media/clinical-fold/performance.jpg"
   alt: Clinical Fold photoperformance in a white plastic costume
-  caption: 'Clinical Fold · Photography: Florencia Aravena; performance, costume and image editing: Gina Marín.'
+  caption: 'Clinical Fold · Photography: Florencia Aravena; performance, costume and image editing: Gina Marin.'
 - type: image
   src: "/content/media/thesis/self-archive-sequence.jpg"
   alt: Repeated self-portraits layered with architectural details
-  caption: 'Self Archive · Photography and montage: Gina Marín · 2025.'
+  caption: 'Self Archive · Photography and montage: Gina Marin · 2025.'
 type: research
 tags:
 - research
@@ -108,7 +108,7 @@ documentation_sources:
   pdf_pages: 2–8, 11–26
 credits:
 - role: Research, artworks and thesis
-  name: Gina Marín
+  name: Gina Marin
 - role: Thesis adviser
   name: Carolina Romano
 - role: Institution
@@ -116,7 +116,7 @@ credits:
 - role: Clinical Fold photography, including the photograph used in the header montage
   name: Florencia Aravena
 - role: Self Archive photography and montage
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -134,7 +134,7 @@ portfolio_pdf:
     caption: Body.Interface on Are.na · Data Wound, in a Scanned Body. Collected references retain their
       respective authorship.
     fit: contain
-  credits: 'Research and artworks: Gina Marín. Thesis adviser: Carolina Romano. National University of Córdoba. Clinical Fold photography, including the header montage: Florencia Aravena. Are.na references
+  credits: 'Research and artworks: Gina Marin. Thesis adviser: Carolina Romano. National University of Córdoba. Clinical Fold photography, including the header montage: Florencia Aravena. Are.na references
     retain their respective authorship.'
 visual_story:
 - images: 2

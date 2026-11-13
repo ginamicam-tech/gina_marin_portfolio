@@ -28,17 +28,17 @@ media:
   fit: contain
   src: "/content/media/thesis/in-huellas-drawing.jpg"
   alt: Drawings of feet and weighted steps
-  caption: Footprints · Gina Marín · 2019
+  caption: Footprints · Gina Marin · 2019
 - type: image
   fit: contain
   src: "/content/media/thesis/in-huellas-sequence.jpg"
   alt: Repeated studies of feet in movement
-  caption: Footprints · Gina Marín · 2019
+  caption: Footprints · Gina Marin · 2019
 - type: image
   fit: contain
   src: "/content/media/thesis/in-huellas-red.jpg"
   alt: Red and black graphic variations of feet and rope
-  caption: Footprints · Gina Marín · 2019
+  caption: Footprints · Gina Marin · 2019
 - type: image
   fit: contain
   src: "/content/media/in-huellas/drawing-02-17.jpg"
@@ -138,7 +138,7 @@ documentation_sources:
   pdf_pages: 20–21, 47
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -151,9 +151,9 @@ portfolio_pdf:
     caption: Red and graphite drawing of feet bound with ropes
     fit: contain
   - src: /content/media/thesis/in-huellas-drawing.jpg
-    caption: Footprints · Gina Marín · 2019
+    caption: Footprints · Gina Marin · 2019
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 2
   text: |-

@@ -27,47 +27,47 @@ media:
   src: /content/media/resonancia-corporea/print-red-black.png
   alt: Red and black layered colour woodcut
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/print-earth-tones.png
   alt: Layered woodcut in ochre and black
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/study-fragmented-body.png
   alt: Study of a fragmented body against an elliptical grid
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/print-monochrome.png
   alt: Monochrome woodcut of the body within radiating bands
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/colour-study-dark.png
   alt: Colour study of a blue body within an orange vibrational field
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/painted-wood-block.jpg
   alt: Carved wooden block painted in vivid colours
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/carved-wood-block.jpeg
   alt: Carved wooden matrix showing the figure and radiating bands
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/three-wood-blocks.jpg
   alt: The three carved wooden matrices used for successive impressions
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 - type: image
   src: /content/media/resonancia-corporea/print-dark-paper.jpg
   alt: Monochrome impression on textured dark paper
   fit: contain
-  caption: Bodily Resonance · Gina Marín · 2018
+  caption: Bodily Resonance · Gina Marin · 2018
 sections:
 - layout: newspaper
   text: |-
@@ -103,7 +103,7 @@ documentation_sources:
   pdf_pages: 25–26, 51–52
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -116,9 +116,9 @@ portfolio_pdf:
     caption: Layered coloured woodcut of an outstretched figure inside an ellipse
     fit: contain
   - src: /content/media/resonancia-corporea/three-wood-blocks.jpg
-    caption: Bodily Resonance · Gina Marín · 2018
+    caption: Bodily Resonance · Gina Marin · 2018
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 2
   text: |-

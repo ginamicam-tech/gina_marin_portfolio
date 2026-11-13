@@ -1,4 +1,4 @@
-# Gina Marín — Jekyll content
+# Gina Marin — Jekyll content
 
 All projects, research entries and artworks live together as individual Markdown files. Content files contain YAML metadata and Markdown only. Templates control rendering; styling has not been redesigned.
 

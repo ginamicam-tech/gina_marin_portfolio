@@ -30,7 +30,7 @@ work_lists:
   details: true
 credits:
 - role: Artist
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -45,7 +45,7 @@ portfolio_pdf:
   - src: /content/media/artworks/clean/graphic-01.jpg
     caption: Signal Fragment I | 2019 | Ink on paper | 42 × 59.4 cm
     fit: contain
-  credits: 'Artist: Gina Marín'
+  credits: 'Artist: Gina Marin'
 visual_story:
 - images: 6
   text: |-

@@ -87,7 +87,7 @@ documentation_sources:
   - 43
 credits:
 - role: Brand identity, applications and social communication
-  name: Gina Marín
+  name: Gina Marin
 - role: Client
   name: Techno Piling
 portfolio_pdf:
@@ -104,5 +104,5 @@ portfolio_pdf:
   - src: /content/media/portfolio/techno-8.jpg
     caption: Techno Piling logo system
     fit: contain
-  credits: 'Brand identity, applications and social communication: Gina Marín. Client: Techno Piling'
+  credits: 'Brand identity, applications and social communication: Gina Marin. Client: Techno Piling'
 ---

@@ -71,7 +71,7 @@ sections:
     Together, they explore how technology might make room for curiosity, bodily agency and poetic encounters.
 credits:
 - role: Artistic concept and experiments
-  name: Gina Marín
+  name: Gina Marin
 - role: Tools
   name: p5.js, Portal and AI-assisted coding
 media:
@@ -180,7 +180,7 @@ portfolio_pdf:
     fit: contain
   - src: /content/media/embodied-portals/face-galaxy.png
     caption: Face Galaxy / Dream Reality Machine · Another state
-  credits: 'Artistic concept and experiments: Gina Marín'
+  credits: 'Artistic concept and experiments: Gina Marin'
 visual_story:
 - images: 6
   text: |-

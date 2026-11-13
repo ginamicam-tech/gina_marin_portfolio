@@ -51,7 +51,7 @@ sections:
 question: How can practical coordination support an encounter with art?
 credits:
 - role: Event and VIP experience coordination
-  name: Gina Marín
+  name: Gina Marin
 - role: Organiser
   name: Enter Art Fair / World Fairs ApS
 - role: Header photography
@@ -74,6 +74,6 @@ portfolio_pdf:
   - src: /content/media/portfolio/work/enter-art-fair-gallery-02.jpg
     caption: Visitor guidance near an installation at Enter Art Fair
     fit: contain
-  credits: 'Event and VIP experience coordination: Gina Marín. Organiser: Enter Art Fair / World Fairs
+  credits: 'Event and VIP experience coordination: Gina Marin. Organiser: Enter Art Fair / World Fairs
     ApS. Header photography: Julie Nymann'
 ---

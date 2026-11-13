@@ -109,7 +109,7 @@ documentation_sources:
   - 22
 credits:
 - role: Collective artists
-  name: Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín
+  name: Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marin
 - role: Live-event collaboration
   name: Umbrality
 portfolio_pdf:
@@ -127,6 +127,6 @@ portfolio_pdf:
   - src: /content/media/portfolio-additions/atmosfera-projection-performance.jpg
     caption: Projected imagery across a group of performers
     fit: contain
-  credits: 'Collective artists: Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marín. Live-event
+  credits: 'Collective artists: Paz Herrera, Nayra Vallejos, Florencia Aravena and Gina Marin. Live-event
     collaboration: Umbrality'
 ---

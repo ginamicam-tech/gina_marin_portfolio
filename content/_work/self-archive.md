@@ -16,7 +16,7 @@ cover:
   src: "/content/media/thesis/self-archive-city.jpg"
   alt: A self-portrait layered with trees and architecture in Copenhagen
   fit: contain
-  caption: 'Self Archive · Photography and montage: Gina Marín · 2025.'
+  caption: 'Self Archive · Photography and montage: Gina Marin · 2025.'
 legacy_anchors:
 - self-archive
 - self-archive-title
@@ -66,7 +66,7 @@ documentation_sources:
   pdf_pages: 16–18
 credits:
 - role: Photography, performance and montage
-  name: Gina Marín
+  name: Gina Marin
 portfolio_pdf:
   category: art-research
   layout: project
@@ -80,9 +80,9 @@ portfolio_pdf:
     caption: A horizontal sequence of overlapping self-portraits
     fit: contain
   - src: /content/media/thesis/self-archive-city.jpg
-    caption: 'Self Archive · Photography and montage: Gina Marín · 2025.'
+    caption: 'Self Archive · Photography and montage: Gina Marin · 2025.'
     fit: contain
-  credits: 'Photography, performance and montage: Gina Marín'
+  credits: 'Photography, performance and montage: Gina Marin'
 visual_story:
 - images: 2
   text: |-
